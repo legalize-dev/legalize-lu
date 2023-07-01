@@ -4,7 +4,7 @@ identifier: "leg-constitution-1868-10-17-n1"
 country: "lu"
 rank: "constitution"
 publication_date: "1868-10-17"
-last_updated: "1868-10-17"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo"
 department: "ME"
@@ -16,634 +16,1148 @@ eli: "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo"
 ---
 # Constitution du Grand-Duché de Luxembourg
 
-## **Chapitre I<sup>er</sup>.** **  *Du Territoire et du Roi Grand-Duc.*
+## **Kapitel I.** *De Staat, säin Territoire a seng Awunner*
 
-#### Art. 1<sup>er</sup>.
+### **Sektioun 1.** *De Staat, seng politesch Form an d’Souveränitéit*
 
-Le Grand-Duché de Luxembourg forme un État indépendant, indivisible et inaliénable et perpétuellement neutre.
+##### **Art. 1.**
 
-#### Art. 2.
+De Grand-Duché vu Lëtzebuerg ass en demokrateschen, fräien, onofhängegen an ondeelbare Staat.
 
-Les limites et chefs-lieux des arrondissements judiciaires ou administratifs, des cantons et des communes ne peuvent être changés qu’en vertu d’une loi.
+##### **Art. 2.**
 
-#### Art. 3.
+De Grand-Duché vu Lëtzebuerg funktionéiert no de Reegele vun enger parlamentarescher Demokratie. D’Staatsform ass déi vun enger constitutionneller Monarchie.
 
-La Couronne du Grand-Duché est héréditaire dans la famille de Nassau, conformément au pacte du 30 juin 1783, à l’art. 71 du traité de Vienne du 9 juin 1815 et à l’art. 1<sup>er</sup> du [traité de Londres du 11 mai 1867](/eli/etat/leg/loi/1867/06/21/n1/jo).
+De Staat berout op de Prinzippie vum Rechtsstaat an op dem Respekt vun de Mënscherechter.
 
-#### Art. 4.
+##### **Art. 3.**
 
-La personne du Roi Grand-Duc est sacrée et inviolable.
+D’Souveränitéit läit bei der Natioun, vun där d’Staatsgewalten ausginn.
 
-#### Art. 5.
+##### **Art. 4.**
 
-Le Grand-Duc de Luxembourg est majeur à l’âge de dix-huit ans accomplis. Lorsqu’il prend les rênes du Gouvernement, il prête, aussitôt que possible, en présence de la Chambre des Députés ou d’une députation nommée par elle, le serment suivant :
+(1)
 
-« Je jure d’observer la Constitution et les lois du Grand-Duché de Luxembourg, de maintenir l’indépendance nationale et l’intégrité du territoire, ainsi que la liberté publique et individuelle, comme aussi les droits de tous et de chacun de Mes sujets, et d’employer à la conservation et à l’accroissement de la prospérité générale et particulière, ainsi que le doit un bon Souverain, tous les moyens que les lois mettent à Ma disposition.
+D’Sprooch vum Grand-Duché vu Lëtzebuerg ass Lëtzebuergesch. D’Gesetz reegelt d’Benotzung vun der lëtzebuergescher, der franséischer an der däitscher Sprooch.
 
-Ainsi Dieu me soit en aide ! »
+(2)
 
-#### Art. 6.
+D’Nationalsymbol ass den dräifaarwege Fändel Rout-Wäiss-Blo.
 
-Si à la mort du Roi Grand-Duc Son successeur est mineur, la régence est exercée conformément au pacte de famille.
+(3)
 
-#### Art. 7.
+D’Gesetz definéiert d’Staatswopen.
 
-Si le Roi Grand-Duc se trouve dans l’impossibilité de régner, il est pourvu à la régence comme dans le cas de minorité.
+(4)
 
-En cas de vacance du Trône, la Chambre pourvoit provisoirement à la régence. – Une nouvelle Chambre, convoquée en nombre double dans le délai de trente jours, pourvoit définitivement à la vacance.
+D’Nationalhymn ass „Ons Heemecht“.
 
-#### Art. 8.
+##### **Art. 5.**
 
-Lors de son entrée en fonctions, le Régent prête le serment suivant :
+De Grand-Duché vu Lëtzebuerg bedeelegt sech un der europäescher Integratioun.
 
-« Je jure fidélité au Roi Grand-Duc ; Je jure d’observer la Constitution et les lois du pays.
+Den Exercice vu Staatsgewalte kann un d’Europäesch Unioun an un international Institutiounen iwwerdroe ginn duerch e Gesetz, dat no de Konditioune vum Artikel 131, Alinea 2 vun der Verfassung ugeholl gëtt.
 
-Ainsi Dieu me soit en aide ! »
+### **Sektioun 2.** *Den Territoire*
 
-## **Chapitre II.** *Des Luxembourgeois et de leurs droits.*
+##### **Art. 6.**
 
-#### Art. 9.
+Keen Territoire kann ofgetrueden, getosch oder derbäigesat ginn, ausser opgrond vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt.
 
-La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi civile. – La présente Constitution et les autres lois relatives aux droits politiques déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l’exercice de ces droits.
+##### **Art. 7.**
 
-#### Art. 10.
+D’Grenzen an d’Haaptuertschafte vun de Kantonen, de Gemengen an de Geriichtsarrondissementer gi vum Gesetz festgeluecht.
 
-La naturalisation est accordée par le pouvoir législatif. Elle assimile l’étranger au Luxembourgeois, pour l’exercice des droits politiques. – La naturalisation accordée au père profite à son enfant mineur, si celui-ci déclare, dans les deux années de sa majorité, vouloir revendiquer ce bénéfice.
+##### **Art. 8.**
 
-#### Art. 11.
+D’Stad Lëtzebuerg ass d’Haaptstad vum Grand-Duché vu Lëtzebuerg an de Sëtz vun de constitutionnellen Institutiounen.
 
-Il n’y a dans l’État aucune distinction d’ordres. – Les Luxembourgeois sont égaux devant la loi ; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi, pour des cas particuliers.
+## **Kapitel II.** *D’Rechter an d’Fräiheeten*
 
-#### Art. 12.
+### **Sektioun 1.** *D’Nationalitéit an d’politesch Rechter*
 
-La liberté individuelle est garantie. – Nul ne peut être poursuivi que dans les cas prévus par la loi, et dans la forme qu’elle prescrit. – Hors le cas de flagrant délit, nul ne peut être arrêté qu’en vertu de l’ordonnance motivée du juge, qui doit être signifiée au moment de l’arrestation, ou au plus tard dans les vingt-quatre heures.
+##### **Art. 9.**
 
-#### Art. 13.
+D’Gesetz leet fest, wéi een d’lëtzebuergesch Nationalitéit kritt, behält a verléiert.
 
-Nul ne peut être distrait contre son gré du juge que la loi lui assigne.
+##### **Art. 10.**
 
-#### Art. 14.
+(1)
 
-Nulle peine ne peut être établie ni appliquée qu’en vertu de la loi.
+D’Lëtzebuerger hu sämtlech politesch Rechter, déi si no de Konditioune vun der Verfassung an de Gesetzer ausüben.
 
-#### Art. 15.
+(2)
 
-Le domicile est inviolable. Aucune visite domiciliaire ne peut avoir lieu que dans les cas prévus par la loi et dans la forme qu’elle prescrit.
+Ënner Ausschloss vum Artikel 64 kann d’Gesetz Netlëtzebuerger d’Ausübe vu politesche Rechter accordéieren.
 
-#### Art. 16.
+##### **Art. 11.**
 
-Nul ne peut être privé de sa propriété que pour cause d’utilité publique, dans les cas et de la manière établis par la loi et moyennant une juste et préalable indemnité.
+D’Gesetz reegelt den Zougang zu den ëffentlechen Aarbechtsplazen. Ëffentlech Aarbechtsplazen, bei deenen een direkt oder indirekt un dem Exercice vun der Staatsgewalt an u Funktiounen deelhëlt, déi dorop ausgeriicht sinn, d’allgemeng Interessie vum Staat ze schützen, kënne vum Gesetz de Lëtzebuerger virbehale ginn.
 
-#### Art. 17.
+### **Sektioun 2.** *D’Grondrechter*
 
-La peine de la confiscation des biens ne peut être établie.
+##### **Art. 12.**
 
-#### Art. 18.
+D’Mënschewürd ass onverletzlech.
 
-La peine de mort en matière politique, la mort civile et la flétrissure sont abolies.
+##### **Art. 13.**
 
-#### Art. 19.
+(1)
 
-La liberté des cultes, celle de leur exercice public, ainsi que la liberté de manifester ses opinions religieuses, sont garanties, sauf la répression des délits commis à l’occasion de l’usage de ces libertés.
+All Persoun huet d’Recht op hir kierperlech a geeschteg Integritéit.
 
-#### Art. 20.
+(2)
 
-Nul ne peut être contraint de concourir d’une manière quelconque aux actes et aux cérémonies d’un culte ni d’en observer les jours de repos.
+Keen däerf gefoltert oder onmënschlechen an erniddregende Strofen oder Behandlungen ausgesat ginn.
 
-#### Art. 21.
+D’Doudesstrof kann net agefouert ginn.
 
-Le mariage civil devra toujours précéder la bénédiction nuptiale.
+##### **Art. 14.**
 
-#### Art. 22.
+All Persoun huet d’Recht op Meenungsfräiheet, Gewëssensfräiheet a Reliounsfräiheet.
 
-L’intervention de l’État dans la nomination et l’installation des chefs des cultes, le mode de nomination et de révocation des autres ministres des cultes, la faculté pour les uns et les autres de correspondre avec leurs supérieurs et de publier leurs actes, ainsi que les rapports de l’Église avec l’État, font l’objet de conventions à soumettre à la Chambre des Députés pour les dispositions qui nécessitent son intervention.
+### **Sektioun 3.** *D’ëffentlech Fräiheeten*
 
-#### Art. 23.
+##### **Art. 15.**
 
-L’État veille à ce que tout Luxembourgeois reçoive l’instruction primaire.
+(1)
 
-Il crée des établissements d’instruction moyenne et les cours d’enseignement supérieur nécessaires.
+D’Lëtzebuerger si virum Gesetz gläich.
 
-La loi détermine les moyens de subvenir à l’instruction publique, ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l’enseignement.
+D’Gesetz kann eng ënnerschiddlech Behandlung virgesinn, déi op enger objektiver Differenz baséiert an déi rationell gerechtfäerdegt, adequat a proportional zu hirem Zil ass.
 
-Tout Luxembourgeois est libre de faire ses études dans le Grand-Duché ou à l’étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d’admission aux emplois ou à l’exercice de certaines professions.
+(2)
 
-#### Art. 24.
+Et dierf kee wéinst senger Situatioun oder senge perséinlechen Ëmstänn diskriminéiert ginn.
 
-La liberté de manifester ses opinions par la parole en toutes matières, et la liberté de la presse sont garanties, sauf la répression des délits commis à l’occasion de l’exercice de ces libertés. – La censure ne pourra jamais être établie. Il ne peut être exigé de cautionnement des écrivains, éditeurs ou imprimeurs. – Le droit de timbre des journaux et écrits périodiques indigènes est aboli. – L’éditeur, l’imprimeur ou le distributeur ne peut être poursuivi si l’auteur est connu, s’il est Luxembourgeois et domicilié dans le Grand-Duché.
+(3)
 
-#### Art. 25.
+Fraen a Männer sinn an hire Rechter a Flichte gläich.
 
-Les Luxembourgeois ont le droit de s’assembler paisiblement et sans armes, en se conformant aux lois qui règlent l’exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable. Cette disposition ne s’applique pas aux rassemblements en plein air, politiques, religieux ou autres ; ces rassemblements restent entièrement soumis aux lois et règlements de police.
+De Staat setzt sech aktiv fir d’Eliminatioun vun den Hindernisser an, déi am Beräich vun der Gläichheet tëschent Fraen a Männer kënne bestoen.
 
-#### Art. 26.
+(4)
 
-Les Luxembourgeois ont le droit de s’associer. – Ce droit ne peut être soumis à aucune autorisation préalable.
+All Persoun huet d’Recht, eng Famill ze grënnen.
 
-L’établissement de toute corporation religieuse doit être autorisé par une loi.
+All Persoun huet d’Recht op de Respekt vun hirem Familljeliewen.
 
-#### Art. 27.
+(5)
 
-Chacun a le droit d’adresser aux autorités publiques, des pétitions signées par une ou plusieurs personnes. Les autorités constituées ont seules le droit d’adresser des pétitions en nom collectif.
+An all Entscheedung, déi e Kand betrëfft, huet säin Interessi Virrang.
 
-#### Art. 28.
+Jiddwer Kand kann zu all Fro, déi et betrëfft, seng Meenung fräi äusseren. Seng Meenung gëtt jee no Alter an Urteelsfäegkeet a Betruecht gezunn.
 
-Le secret des lettres est inviolable. – La loi détermine quels sont les agents responsables de la violation du secret des lettres confiées à la poste.
+Jiddwer Kand huet d’Recht op de Schutz, op d’Moossnamen an op d’Fleeg, déi fir säi Wuelbefannen a seng Entwécklung néideg sinn.
 
-La loi réglera la garantie à donner au secret des télégrammes.
+(6)
 
-#### Art. 29.
+Jiddwer handicapéiert Persoun huet d’Recht, op déi selwecht Aart a Weis all Rechter ze genéissen.
 
-L’emploi des langues allemande et française est facultatif. L’usage n’en peut être limité.
+##### **Art. 16.**
 
-#### Art. 30.
+All Netlëtzebuerger, dee sech um Territoire vum Grand-Duché befënnt, genéisst de Schutz, deen de Persounen an de Saachen accordéiert gëtt, ënner Virbehalt vun den Ausnamen, déi d’Gesetz virgesäit.
 
-Nulle autorisation préalable n’est requise pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l’égard des membres du Gouvernement.
+##### **Art. 17.**
 
-#### Art. 31.
+(1)
 
-Les fonctionnaires publics, à quelque ordre qu’ils appartiennent, les membres du Gouvernement exceptés, ne peuvent être privés de leurs fonctions, honneurs et pensions que de la manière déterminée par la loi.
+D’perséinlech Fräiheet ass garantéiert.
 
-## **Chapitre III.** **  *De la Puissance souveraine.*
+(2)
 
-#### Art. 32.
+Keen dierf strofverfollegt, festgeholl oder senger Fräiheet entzu ginn, ausser an de Fäll an an der Form, déi d’Gesetz virgesäit.
 
-Le Roi Grand-Duc exerce la puissance souveraine conformément à la présente Constitution et aux lois du pays.
+(3)
 
-### *§ 1<sup>er</sup>.* *De la Prérogative du Roi Grand-Duc.*
+Ausser wann een op frëscher Dot ertappt gëtt, dierf een nëmmen opgrond vun enger begrënnter riichterlecher Entscheedung festgeholl ginn, déi bei der Festnam oder spéitstens véieranzwanzeg Stonnen dono zougestallt gëtt.
 
-##### Art. 33.
+(4)
 
-Le Roi Grand-Duc exerce seul le pouvoir exécutif.
+All Persoun, déi enger Strofdot beschëllegt gëtt, gëllt als onschëlleg, bis hir Schold dem Gesetz no bewisen ass.
 
-##### Art. 34.
+All Persoun muss direkt iwwer d’Grënn vun hirer Festnam oder hirem Fräiheetsentzuch, iwwer d’Uschëllegunge géint si an iwwer d’gesetzlech Recoursen informéiert ginn, déi hir opstinn, fir hir Fräiheet zeréckzekréien.
 
-Le Roi Grand-Duc sanctionne et promulgue les lois. Il fait connaître Sa résolution dans les six mois du vote de la Chambre.
+##### **Art. 18.**
 
-##### Art. 35.
+All Persoun huet d’Recht, datt hire Fall virun deem Geriicht, dat d’Gesetz virgesäit, gehéiert gëtt.
 
-Le Roi Grand-Duc nomme aux emplois civils et militaires, conformément à la loi, et sauf les exceptions établies par elle.
+Kee ka géint säi Wëllen dem Riichter, deen d’Gesetz him zouweist, entzu ginn.
 
-Aucune fonction salariée par l’État ne peut être créée qu’en vertu d’une disposition législative.
+##### **Art. 19.**
 
-##### Art. 36.
+Strofe kënnen nëmmen opgrond vun engem Gesetz festgeluecht an applizéiert ginn.
 
-Le Roi Grand-Duc fait les règlements et arrêtés nécessaires pour l’exécution des lois, sans pouvoir jamais ni suspendre les lois elles-mêmes, ni dispenser de leur exécution.
+Et dierf kee fir eng Dot oder eng Ënnerloossung verurteelt ginn, déi zum Zäitpunkt, zu deem se begaange ginn ass, keng gesetzlech Strofdot war.
 
-##### Art. 37.
+Et dierf keen zu enger méi héijer Strof verurteelt gi wéi där, déi applicabel war zum Zäitpunkt, zu deem d’Strofdot begaange gouf.
 
-Le Roi Grand-Duc commande la force armée, déclare la guerre et fait les traités. Il en donne connaissance à la Chambre, aussitôt que l’intérêt et la sûreté de l’État le permettent, en y joignant les communications convenables. – Les traités de commerce et ceux qui pourraient grever l’État ou lier individuellement des Luxembourgeois, et en général tous ceux portant sur une matière qui ne peut être réglée que par une loi, n’ont d’effet qu’après avoir reçu l’assentiment de la Chambre. – Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu’en vertu d’une loi. – Dans aucun cas, les articles secrets d’un traité ne peuvent être destructifs des articles patents.
+##### **Art. 20.**
 
-##### Art. 38.
+All Persoun huet d’Recht op de Respekt vun hirem Privatliewen.
 
-Le Roi Grand-Duc a le droit de remettre ou de réduire les peines prononcées par les juges, sauf ce qui est statué relativement aux membres du Gouvernement.
+##### **Art. 21.**
 
-##### Art. 39.
+D’Wunneng ass onverletzlech. En Hausbesuch kann nëmmen an de Fäll an an de Formen, déi vum Gesetz virgesi sinn, duerchgefouert ginn.
 
-Le Roi Grand-Duc a le droit de battre monnaie en exécution de la loi.
+##### **Art. 22.**
 
-##### Art. 40.
+En Eed kann nëmmen opgrond vun engem Gesetz imposéiert ginn, dat och seng Formel festleet.
 
-Le Roi Grand-Duc a le droit de conférer des titres de noblesse, sans pouvoir jamais y attacher aucun privilège.
+##### **Art. 23.**
 
-##### Art. 41.
+D’Meenungsfräiheet an d’Pressefräiheet si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheeten begaange ginn.
 
-Le Roi Grand-Duc confère les ordres civils et militaires, en observant à cet égard ce que la loi prescrit.
+Et dierf keng Zensur agefouert ginn.
 
-##### Art. 42.
+##### **Art. 24.**
 
-Le Roi Grand-Duc peut se faire représenter par un Prince du sang, qui aura le titre de Lieutenant du Roi et résidera dans le Grand-Duché.
+D’Fräiheet, fir seng philosophesch oder reliéis Iwwerzeegungen auszedrécken, an d’Fräiheet, fir enger Relioun bäizetrieden oder net bäizetrieden, si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.
 
-Ce représentant prêtera serment d’observer la Constitution avant d’exercer ses pouvoirs.
+D’Reliounsfräiheet an hiert Ausübe si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.
 
-##### Art. 43.
+Kee ka gezwonge ginn, op iergend eng Aart a Weis un den Handlungen an Zeremonië vun enger Relioun deelzehuelen oder hir Roudeeg anzehalen.
 
-La liste civile est fixée à deux cent mille francs par an. Elle peut être changée par la loi au commencement de chaque règne.
+##### **Art. 25.**
 
-##### Art. 44.
+All Persoun huet d’Recht, sech friddlech, am Respekt vum Gesetz, ze versammelen. Nëmme fir Versammlungen, déi dobaussen, op enger Plaz, déi ëffentlech zougänglech ass, stattfannen, kann eng prealabel Autorisatiounsflicht virgesi ginn.
 
-L’Hôtel de Gouvernement à Luxembourg et le château de Walferdange sont affectés à l’habitation du Roi Grand-Duc pendant Son séjour dans le pays.
+##### **Art. 26.**
 
-##### Art. 45.
+D’Vereenegungsfräiheet ass garantéiert. Wéi se ausgeüübt gëtt, gëtt vum Gesetz gereegelt, dat dofir keng prealabel Autorisatiounsflicht aféieren dierf.
 
-Les dispositions du Roi Grand-Duc doivent être contresignées par un conseiller de la Couronne responsable, à l’exception de celles qui ont pour objet la collation à des étrangers de décorations non destinées à récompenser des services rendus au Grand-Duché.
+##### **Art. 27.**
 
-### *§ 2.* *De la Législation.*
+D’politesch Parteien droen derzou bäi, de Wëlle vum Vollek ze forméieren an dem allgemenge Walrecht Ausdrock ze ginn. Si drécken den demokratesche Pluralismus aus.
 
-##### Art. 46.
+##### **Art. 28.**
 
-L’assentiment de la Chambre des Députés est requis pour toute loi.
+D’Fräiheete vun de Gewerkschafte si garantéiert.
 
-##### Art. 47.
+D’Gesetz reegelt d’Ausübe vum Streikrecht.
 
-Le Roi Grand-Duc adresse à la Chambre les propositions ou projets de lois qu’il veut soumettre à son adoption.
+##### **Art. 29.**
 
-La Chambre a le droit de proposer au Roi Grand-Duc des projets de lois.
+All Persoun kann Demanden, déi vun enger oder méi Persounen ënnerschriwwe goufen, un d’ëffentlech Autoritéiten adresséieren.
 
-##### Art. 48.
+D’ëffentlech Autoritéite si verflicht, bannent engem räsonabelen Delai op d’schrëftlech Ufroe vun den Demandeuren ze äntweren.
 
-L’interprétation des lois par voie d’autorité ne peut avoir lieu que par la loi.
+##### **Art. 30.**
 
-### *§ 3.* *De la Justice.*
+All Persoun huet d’Recht op d’Onverletzlechkeet vun hire Kommunikatiounen.
 
-##### Art. 49.
+Dëst Recht dierf net ageschränkt ginn, ausser an de Fäll, ënnert de Konditiounen a mat de Kontrollen, déi vum Gesetz virgesi sinn.
 
-La justice est rendue au nom du Roi Grand-Duc par les cours et tribunaux.
+##### **Art. 31.**
 
-Les arrêtés et jugements sont exécutés au nom du Roi Grand-Duc.
+Jiddereen huet d’Recht op Selbstbestëmmung, wat d’Informatiounen ugeet, an op de Schutz vu senge perséinlechen Daten. Dës Daten dierfen nëmmen zu den Zwecker an ënnert de Konditiounen, déi vum Gesetz festgeluecht sinn, traitéiert ginn.
 
-## **Chapitre IV.** **  *De la Chambre des Députés.*
+##### **Art. 32.**
 
-#### Art. 50.
+D’Recht op Asyl ass garantéiert ënnert de Konditiounen, déi d’Gesetz virgesäit.
 
-La Chambre des Députés représente le pays. – Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que les intérêts généraux du Grand-Duché.
+##### **Art. 33.**
 
-#### Art. 51.
+(1)
 
-L’organisation et le mode d’élection de la Chambre sont réglés par la loi.
+All Persoun huet d’Recht op Bildung.
 
-La loi électorale fixe le nombre des députés d’après la population. Ce nombre ne peut excéder un député sur quatre mille habitants, ni être inférieur à un député sur cinq mille cinq cents habitants.
+(2)
 
-L’élection est directe.
+De Staat organiséiert den Enseignement a garantéiert den Zougang derzou.
 
-#### Art. 52.
+D’Dauer vun der Schoulflicht gëtt vum Gesetz festgeluecht.
 
-Pour être électeur ou éligible, il faut :
+Den ëffentlechen Enseignement am Fondamental an am Secondaire ass gratis.
 
-1. être Luxembourgeois de naissance ou être naturalisé ;
-2. jouir des droits civils et politiques ;
-3. être âgé de 25 ans accomplis ;
-4. être domicilié dans le Grand-Duché.
+(3)
 
-Aucune autre condition d’éligibilité ne peut être requise.
+D’Fräiheet vum Enseignement gëtt ausgeüübt am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.
 
-Pour être électeur, il faut réunir à ces quatre conditions celles déterminées par la loi et payer en outre le cens à fixer, lequel ne pourra excéder trente francs ni être inférieur à dix francs.
+D’staatlech Interventioun am privaten Enseignement gëtt vum Gesetz gereegelt.
 
-#### Art. 53.
+(4)
 
-Ne peuvent être ni électeurs ni éligibles :
+All Persoun ass fräi, zu Lëtzebuerg oder am Ausland ze studéieren an ze wielen, wéi eng Universitéite si besicht. D’Konditioune vun der Unerkennung vun den Diplomer gi vum Gesetz bestëmmt.
 
-1. les condamnés à des peines afflictives ou infamantes ;
-2. ceux qui ont été condamnés pour vol, escroquerie ou abus de confiance ;
-3. ceux qui obtiennent des secours d’un établissement de bienfaisance publique ;
-4. ceux qui sont en état de faillite déclarée, les banqueroutiers et interdits, et ceux auxquels il a été nommé un conseil judiciaire.
+##### **Art. 34.**
 
-#### Art. 54.
+D’Sozialversécherung, de Schutz vun der Gesondheet an d’Rechter vun de Leit op der Aarbecht ginn, wat d’Prinzippien ugeet, vum Gesetz gereegelt.
 
-Le mandat de député est incompatible :
+##### **Art. 35.**
 
-1. avec les fonctions de membre du Gouvernement ;
-2. avec celles de magistrat du parquet ;
-3. avec celles de membre de la Chambre des comptes ;
-4. avec celles de commissaire de district ;
-5. avec celles de receveur ou agent comptable de l’État ;
-6. avec les fonctions militaires au-dessous du grade de capitaine.
+D’Fräiheet vun Handel an Industrie an d’fräit Ausübe vu liberale Professiounen a vun der landwirtschaftlecher Aktivitéit si garantéiert, ënner Virbehalt vun de Restriktiounen, déi d’Gesetz festleet.
 
-Les fonctionnaires se trouvant dans un cas d’incompatibilité ont le droit d’opter entre le mandat leur confié et leurs fonctions.
+##### **Art. 36.**
 
-#### Art. 55.
+Kengem ka säi Besëtz ewechgeholl ginn, ausser am allgemengen Notzen a géint eng fair Indemnisatioun, an de Fäll an op d’Aart a Weis, déi vum Gesetz festgeluecht sinn.
 
-Les incompatibilités prévues par l’article précédent ne font pas obstacle à ce que la loi n’en établisse d’autres dans l’avenir.
+##### **Art. 37.**
 
-#### Art. 56.
+All Restriktioun vum Exercice vun de Grondrechter muss vum Gesetz virgesi sinn an hire weesentlechen Inhalt respektéieren. Am Respekt vum Prinzip vun der Proportionalitéit si Restriktiounen nëmme méiglech, wa si an enger demokratescher Gesellschaft néideg sinn an effektiv den allgemengen Interessi oder de Schutz vun aneren hire Rechter a Fräiheeten zum Zil hunn.
 
-Les députés sont élus pour six ans. Ils sont renouvelés par moitié tous les trois ans, d’après l’ordre des séries déterminé par la loi électorale.
+### **Sektioun 4.** *Staatsziler mat Verfassungsrang*
 
-En cas de dissolution, la Chambre des députés est renouvelée intégralement.
+##### **Art. 38.**
 
-#### Art. 57.
+De Staat garantéiert d’Recht op Aarbecht a këmmert sech drëm, dass et ausgeüübt ka ginn.
 
-La Chambre vérifie les pouvoirs de ses membres et juge les contestations qui s’élèvent à ce sujet. – A leur entrée en fonctions, ils prêtent le serment qui suit :
+##### **Art. 39.**
 
-« Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l’État. – Ainsi Dieu me soit en aide ! »
+De Staat fërdert de Sozialdialog.
 
-Ce serment est prêté en séance publique, entre les mains du président de la Chambre.
+##### **Art. 40.**
 
-#### Art. 58.
+De Staat suergt derfir, datt jidderee mënschewierdeg ka liewen an eng gëeegent Wunneng huet.
 
-Le député, nommé par le Gouvernement à un emploi salarié qu’il accepte, cesse immédiatement de siéger, et ne reprend ses fonctions qu’en vertu d’une nouvelle élection.
+##### **Art. 41.**
 
-#### Art. 59.
+De Staat garantéiert de Schutz vun der mënschlecher a natierlecher Ëmwelt, andeems e sech fir en dauerhaft Gläichgewiicht asetzt tëschent dem Erhalt vun der Natur, virun allem hirer Kapazitéit, sech ze erneieren, an dem Erhalt vun der Biodiversitéit, an der Satisfaktioun vun de Besoine vun den haitegen an den nächste Generatiounen.
 
-Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. – Il y aura un intervalle d’au moins trois mois entre les deux votes.
+De Staat verflicht sech, de Klimawandel ze bekämpfen a sech fir d’Klimaneutralitéit anzesetzen.
 
-#### Art. 60.
+Hien erkennt un, dass d’Déieren netmënschlech Liewewiese sinn, déi eng Sensibilitéit hunn, a suergt dofir, dass hiert Wuelbefanne geschützt gëtt.
 
-A chaque session, la Chambre nomme son président et son vice-président et compose son bureau.
+##### **Art. 42.**
 
-#### Art. 61.
+De Staat garantéiert den Zougang zur Kultur an d’Recht op kulturell Selbstverwierklechung.
 
-Les séances de la Chambre sont publiques, sauf les exceptions à déterminer par le règlement.
+De Staat fërdert de Schutz vum kulturelle Patrimoine.
 
-#### Art. 62.
+##### **Art. 43.**
 
-Toute résolution est prise à la majorité absolue des suffrages. En cas de partage des voix, la proposition mise en délibération est rejetée.
+De Staat fërdert d’Fräiheet vun der wëssenschaftlecher Fuerschung am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.
 
-La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
+## **Kapitel III.** *De Grand-Duc*
 
-#### Art. 63.
+### **Sektioun 1.** *D’Funktioun vum Staatschef*
 
-Les votes sont émis à haute voix, ou par assis et levé. Sur l’ensemble des lois il est toujours voté par appel nominal et à haute voix.
+##### **Art. 44.**
 
-#### Art. 64.
+(1)
 
-La Chambre a le droit d’enquête. La loi règle l’exercice de ce droit.
+De Grand-Duc ass de Staatschef.
 
-#### Art. 65.
+Hie representéiert de Staat. Hien ass d’Symbol vun der nationaler Eenheet an Onofhängegkeet.
 
-Un projet de loi ne peut être adopté par la Chambre qu’après avoir été voté article par article.
+Seng Persoun ass onverletzlech.
 
-#### Art. 66.
+(2)
 
-La Chambre a le droit d’amender et de diviser les articles et les amendements proposés.
+De Grand-Duc huet nëmmen déi Attributiounen, déi d’Verfassung an d’Gesetzer him iwwerdroen.
 
-#### Art. 67.
+Hien exercéiert zesumme mat der Regierung d’Exekutivgewalt.
 
-Il est interdit de présenter en personne des pétitions à la Chambre.
+(3)
 
-La Chambre a le droit de renvoyer aux membres du Gouvernement les pétitions qui lui sont adressées. – Les membres du Gouvernement donneront des explications sur leur contenu, chaque fois que la Chambre le demandera.
+Dem Grand-Duc seng Bestëmmunge musse vun engem Member vun der Regierung, deen d’Verantwortung derfir iwwerhëlt, géigegezeechent ginn.
 
-La Chambre ne s’occupe d’aucune pétition ayant pour objet des intérêts individuels, à moins qu’elle ne tende au redressement de griefs résultant d’actes illégaux posés par le Gouvernement ou les autorités, ou que la décision à intervenir ne soit de la compétence de la Chambre.
+##### **Art. 45.**
 
-#### Art. 68.
+(1)
 
-Aucun député ne peut être poursuivi ou recherché à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
+De Grand-Duc hëlt d’Reglementer an d’Arrêtéen, déi fir d’Vollstreckung vun de Gesetzer néideg sinn.
 
-#### Art. 69.
+(2)
 
-Aucun député ne peut, pendant la durée de la session, être poursuivi ni arrêté en matière de répression, qu’avec l’autorisation de la Chambre, sauf le cas de flagrant délit. – Aucune contrainte par corps ne peut être exercée contre un de ses membres, durant la session, qu’avec la même autorisation. – La détention ou la poursuite d’un député est suspendue pendant la session et pour toute sa durée, si la Chambre le requiert.
+An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kann de Grand-Duc Reglementer an Arrêtéen nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung huelen, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet.
 
-#### Art. 70.
+(3)
 
-La Chambre détermine par son règlement le mode suivant lequel elle exerce ses attributions.
+Hien hëlt d’Reglementer, déi néideg sinn, fir d’Rechtsakte vun der europäescher Unioun ze applizéieren.
 
-#### Art. 71.
+An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung geholl ginn, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet. Geméiss de Konditiounen, déi d’Gesetz festleet, kënnen dës Reglementer vu besteeënde Gesetzesbestëmmungen ofwäichen oder se ersetzen.
 
-Les séances de la Chambre sont tenues dans le lieu de la résidence de l’administration du Grand-Duché.
+##### **Art. 46.**
 
-#### Art. 72.
+De Grand-Duc schléisst d’Traitéen a kënnegt se. D’Traitéen – ausser, een Traité enthält eng spezifesch Klausel dozou – an hir Kënnegung wierken eréischt, nodeems si vun engem Gesetz autoriséiert goufen. Si gi publizéiert an de Formen, déi fir d’Publikatioun vun de Gesetzer virgesi sinn.
 
-La Chambre se réunit chaque année en session ordinaire, à l’époque fixée par le règlement.
+De Grand-Duc mécht d’Reglementer an d’Arrêtéen, déi fir d’Ausféierung vun den Traitéen néideg sinn, an de Formen, déi d’Ausféierungsmoossname vun de Gesetzer reegelen, a mat der Wierkung, déi dës Moossnamen hunn, ouni Schued fir d’Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.
 
-Le Roi Grand-Duc peut convoquer la Chambre extraordinairement.
+##### **Art. 47.**
 
-Toute session est ouverte et close par le Roi Grand-Duc en personne, ou bien en Son Nom par un fondé de pouvoirs nommé à cet effet.
+Am Ausübe vun der Muecht, déi den Artikel 45, Paragraf 1 an 3, Alinea 1 an den Artikel 46, Alinea 2 vun der Verfassung him ginn, kann de Grand-Duc an de Fäll, déi hie festleet, d’Membere vu senger Regierung beoptragen, Ausféierungsbestëmmungen ze huelen.
 
-#### Art. 73.
+##### **Art. 48.**
 
-Le Roi Grand-Duc peut ajourner la Chambre. Toutefois l’ajournement ne peut excéder le terme d’un mois, ni être renouvelé dans la même session, sans l’assentiment de la Chambre.
+Am Fall vun enger internationaler Kris, vu reelle Menacë fir d’vital Interessie vun der ganzer Populatioun oder engem Deel dovun oder vun enger imminenter Gefor wéinst schwéiere Beanträchtegunge vun der ëffentlecher Sécherheet kann de Grand-Duc an alle Beräicher per Reglement Moossnamen ergräifen, nodeems hien d’Drénglechkeet vun der Situatioun festgestallt huet, déi doraus resultéiert, dass et der Chamber onméiglech ass, matzäit ze legiferéieren.
 
-#### Art. 74.
+Dës Moossname kënne vu Gesetzer, déi existéieren, ofwäichen. Si mussen néideg, adequat a proportional zum Zil, dat verfollegt gëtt, a konform mat der Verfassung an den internationalen Traitéë sinn.
 
-Le Roi Grand-Duc peut dissoudre la Chambre.
+D’Verlängerung vum Krisenzoustand iwwer zéng Deeg eraus kann nëmmen duerch een oder méi Gesetzer entscheet ginn, déi d’Dauer dovu festleeën, woubäi d’Verlängerung eng maximal Dauer vun dräi Méint net iwwerschreiden dierf. Dës Gesetzer gi mat enger qualifizéierter Majoritéit vun zwee Drëttel vun de Stëmme vun den Deputéierte gestëmmt. D’Ofstëmmung iwwer Procuratioun ass dobäi net erlaabt.
 
-Il est procédé à de nouvelles élections dans les trois mois au plus tard de la dissolution.
+All Reglementer, déi opgrond vun dëser Bestëmmung geholl ginn, verléieren hir Wierkung spéitstens, wann de Krisenzoustand eriwwer ass.
 
-#### Art. 75.
+D’Chamber ka wärend dem Krisenzoustand net opgeléist ginn.
 
-Il est alloué sur le trésor de l’État, à chaque député, à titre d’indemnité, une somme de cinq francs par jour de présence ou de déplacement. Ceux qui habitent la ville où se tient la session ne jouissent d’aucune indemnité.
+##### **Art. 49.**
 
-## **Chapitre V.** *Du Gouvernement du Grand-Duché.*
+De Grand-Duc promulgéiert d’Gesetzer bannent dräi Méint, nodeems se vun der Chamber ugeholl goufen.
 
-#### Art. 76.
+##### **Art. 50.**
 
-Le Roi Grand-Duc règle l’organisation de son Gouvernement, lequel est composé de trois membres au moins.
+(1)
 
-Il y aura, à côté du Gouvernement, un conseil appelé à délibérer sur les projets de loi et les amendements qui pourraient y être proposés, à régler les questions du contentieux administratif, et à donner son avis sur toutes autres questions qui lui seront déférées par le Roi Grand-Duc ou par les lois. – L’organisation de ce conseil et la manière d’exercer ses attributions sont réglées par la loi.
+De Grand-Duc ernennt a Konformitéit mam Gesetz fir ëffentlech Aarbechtsplazen, ausser, d’Gesetz gesäit dat anescht vir.
 
-#### Art. 77.
+(2)
 
-Le Roi Grand-Duc nomme et révoque les membres du Gouvernement.
+Eng vum Staat bezuelten Aarbechtsplaz kann nëmmen opgrond vun engem Gesetz geschafe ginn.
 
-#### Art. 78.
+(3)
 
-Les membres du Gouvernement sont responsables.
+De Statut vun de Staatsbeamte gëtt vum Gesetz festgeluecht.
 
-#### Art. 79.
+##### **Art. 51.**
 
-Il n’y a entre les membres du Gouvernement et le Roi Grand-Duc aucune autorité intermédiaire.
+De Grand-Duc huet d’Recht, d’Strofen, déi vun de Geriichter gesprach goufen, an de Konditiounen, déi d’Gesetz festleet, opzehiewen oder erofzesetzen.
 
-#### Art. 80.
+##### **Art. 52.**
 
-Les membres du Gouvernement ou les commissaires qui les remplacent ont entrée dans la Chambre, et doivent être entendus quand ils le demandent.
+De Grand-Duc huet d’Recht, Adelstitelen un d’Membere vun der groussherzoglecher Famill ze verginn, ouni awer jeemools Privileegien domat ze verbannen.
 
-La Chambre peut demander leur présence.
+##### **Art. 53.**
 
-#### Art. 81.
+(1)
 
-En aucun cas, l’ordre verbal ou écrit du Roi Grand-Duc ne peut soustraire un membre du Gouvernement à la responsabilité.
+De Grand-Duc dréit den Titel vum Kommandant vun der Arméi. Dëse Kommando gëtt ënner der Verantwortung vun der Regierung ausgeüübt.
 
-#### Art. 82.
+(2)
 
-La Chambre a le droit d’accuser les membres du Gouvernement. – Une loi déterminera les cas de responsabilité, les peines à infliger et le mode de procéder, soit sur l’accusation admise par la Chambre, soit sur la poursuite des parties lésées.
+De Grand-Duc iwwergëtt zivil a militäresch Uerden am Respekt vum Gesetz.
 
-#### Art. 83.
+##### **Art. 54.**
 
-Le Roi Grand-Duc ne peut faire grâce au membre du Gouvernement condamné, que sur la demande de la Chambre.
+De Grand-Duc, de fréiere Staatschef, den Ierfgroussherzog, de Regent an de Lieutenant-Representant kréien eng järlech Dotatioun aus dem Staatsbudget. D’Elementer an de Montant dovunner gi vum Gesetz festgeluecht.
 
-## **Chapitre VI.** *De la justice.*
+De Grand-Duc definéiert an organiséiert seng Verwaltung, déi d’Rechtsperséinlechkeet huet, a berécksiichtegt dobäi den ëffentlechen Interessi.
 
-#### Art. 84.
+##### **Art. 55.**
 
-Les contestations qui ont pour objet des droits civils, sont exclusivement du ressort des tribunaux.
+De groussherzogleche Palais an der Stad Lëtzebuerg an d’Schlass Bierg sinn dem Grand-Duc als Residenz virbehalen.
 
-#### Art. 85.
+### **Sektioun 2.** *D’constitutionnell Monarchie*
 
-Les contestations qui ont pour objet des droits politiques, sont du ressort des tribunaux, sauf les exceptions établies par la loi.
+##### **Art. 56.**
 
-#### Art. 86.
+(1)
 
-Nul tribunal, nulle juridiction contentieuse ne peut être établi qu’en vertu d’une loi. Il ne peut être créé de commissions ni de tribunaux extraordinaires, sous quelque dénomination que ce soit.
+D’Funktioun vum Staatschef ass verierflech ënnert den direkte Nokomme vu Senger Kinneklecher Altesse Adolphe, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, an der Reiefolleg vun der Éischtgebuert an no der Reegel vun der Vertriedung. Nëmme Kanner, déi an engem Bestietnis gebuer goufen, kënnen d’Nofolleg untrieden.
 
-#### Art. 87.
+(2)
 
-Il est pourvu par une loi à l’organisation d’une Cour supérieure de justice.
+D’Persoun, déi zur Nofolleg berechtegt ass, kann dorop verzichten. Dëse Verzicht huet d’Form vun engem schrëftlechen Akt, deen net ka widderruff ginn an deem seng Konsequenzen nëmmen den Auteur betreffen.
 
-#### Art. 88.
+Wann aussergewéinlech Ëmstänn dat verlaangen, kann d’Chamber eng oder méi Persounen duerch e Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, vun der Trounfolleg ausschléissen.
 
-Les audiences des tribunaux sont publiques, à moins que cette publicité ne soit dangereuse pour l’ordre ou les mœurs, et, dans ce cas, le tribunal le déclare par un jugement.
+(3)
 
-#### Art. 89.
+Wann et keen Nofollger gëtt, versammelt sech d’Chamber spéitstens drësseg Deeg nom Doud oder der Ofdankung vum Grand-Duc, fir en neie Staatschef ze designéieren. D’Entscheedung gëtt mat der qualifizéierter Majoritéit ugeholl.
 
-Tout jugement est motivé. Il est prononcé en audience publique.
+(4)
 
-#### Art. 90.
+Dem Grand-Duc seng Ofdankung muss d’Form vun engem schrëftlechen Akt hunn, deen net ka widderruff ginn.
 
-Les juges de paix et les juges des tribunaux sont directement nommés par le Roi Grand-Duc. – Les conseillers de la Cour et les présidents et vice-présidents des tribunaux d’arrondissement sont nommés par le Roi Grand-Duc, sur l’avis de la Cour supérieure de justice.
+##### **Art. 57.**
 
-#### Art. 91.
+(1)
 
-Les juges des tribunaux d’arrondissements et les conseillers sont nommés à vie. – Aucun d’eux ne peut être privé de sa place ni être suspendu que par un jugement. – Le déplacement d’un de ces juges ne peut avoir lieu que par une nomination nouvelle et de son consentement.
+De Grand-Duc ass Staatschef vun deem Moment un, wou hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“
 
-Toutefois, en cas d’infirmité ou d’inconduite, il peut être suspendu, révoqué ou déplacé, suivant les conditions déterminées par la loi.
+(2)
 
-#### Art. 92.
+Den Eed gëtt spéitstens den zéngten Dag nom Doud, der Ofdankung oder der Designatioun vum Grand-Duc ënnert de Konditioune vum Artikel 56, Paragraf 3 ofgeluecht.
 
-Les traitements des membres de l’ordre judiciaire sont fixés par la loi.
+(3)
 
-#### Art. 93.
+De Refus, den Eed ofzeleeën, bedeit de Verzicht op d’Funktioun vu Staatschef.
 
-Sauf les cas d’exception prévus par la loi, aucun juge ne peut accepter du Gouvernement des fonctions salariées, à moins qu’il ne les exerce gratuitement, sans préjudice toutefois aux cas d’incompatibilité déterminés par la loi.
+##### **Art. 58.**
 
-#### Art. 94.
+De Grand-Duc ka sech vun enger Persoun vertriede loossen, déi d’Konditioune vum Artikel 56, Paragraf 1 erfëllt an déi den Titel „Lieutenant-Representant vum Grand-Duc“ dréit.
 
-Des lois particulières règlent l’organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions. – Il peut y avoir des tribunaux de commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres, et la durée des fonctions de ces derniers.
+De Lieutenant-Representant vum Grand-Duc iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“
 
-#### Art. 95.
+##### **Art. 59.**
 
-Les cours et tribunaux n’appliquent les arrêtés et règlements généraux et locaux qu’autant qu’ils sont conformes aux lois. – La Cour supérieure de justice règlera les conflits d’attribution d’après le mode déterminé par la loi.
+Wa beim Grand-Duc sengem Doud oder um Datum vu senger Ofdankung säin Nofollger mannerjäreg ass, versammelt sech d’Chamber bannent zéng Deeg, fir d’Regence op Propositioun vun der Regierung ze reegelen.
 
-## **Chapitre VII.** *De la Force publique.*
+Wann et dem Grand-Duc onméiglech ass, seng constitutionnell Attributiounen zäitweileg ze erfëllen oder den Eed ofzeleeën, deen den Artikel 57 virgesäit, informéiert d’Regierung d’Chamber doriwwer. D’Chamber versammelt sech bannent zéng Deeg, fir dës Onméiglechkeet festzestellen an eng Regence anzesetzen.
 
-#### Art. 96.
+D’Regence kann nëmmen enger eenzeler Persoun uvertraut ginn, déi groussjäreg muss sinn an zum Persounekrees, deen am Artikel 56, Paragraf 1 genannt gëtt, gehéiere muss.
 
-Tout ce qui concerne la force armée est réglé par la loi.
+De Regent iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“
 
-#### Art. 97.
+D’Regence hält op, wann den Nofollger groussjäreg gëtt oder wann déi zäitweilleg Onméiglechkett vum Grand-Duc, seng constitutionnell Attributiounen ze erfëllen, eriwwer ass.
 
-L’organisation et les attributions de la gendarmerie font l’objet d’une loi.
+D’Regierung informéiert d’Chamber doriwwer, déi bannent zéng Deeg zesummekënnt, fir der Regence en Enn ze setzen.
 
-#### Art. 98.
+##### **Art. 60.**
 
-Il peut être formé une garde civique, dont l’organisation est réglée par la loi.
+Wann de Grand-Duc seng constitutionnell Attributiounen net erfëllt, entscheet d’Chamber, op Ufro vun der Regierung an nodeems den Avis vum Staatsrot gehéiert gouf, mat der qualifizéierter Majoritéit, datt een dovun ausgoe muss, datt de Grand-Duc ofgedankt huet.
 
-## **Chapitre VIII.** *Des Finances.*
+##### **Art. 61.**
 
-#### Art. 99.
+Vum Grand-Duc sengem Doud, senger Ofdankung oder der Feststellung un, datt et him net méiglech ass, seng constitutionnell Attributiounen ze erfëllen, bis datt säin Nofollger den Eed ofleet, gëtt d’Funktioun vu Staatschef vun der Regierung ausgeüübt. Dat ass och de Fall, wann de Regent stierft oder demissionéiert.
 
-Aucun impôt au profit de l’État ne peut être établi que par une loi. – Aucun emprunt à charge de l’Etat ne peut être contracté sans l’assentiment de la Chambre. – Aucune propriété immobilière de l’État ne peut être aliénée, si l’aliénation n’en est autorisée par la loi. – Nulle création au profit de l’État d’une route, d’un canal, d’un chemin de fer, d’un grand pont ou d’un bâtiment considérable, ne peut être décrétée qu’en venu d’une loi spéciale. – Aucune charge grevant le budget de l’État pour plus d’un exercice ne peut être établie que par une loi spéciale. – Aucune charge, aucune imposition communale ne peut être établie que du consentement du conseil communal. – La loi détermine les exceptions dont l’expérience démontrera la nécessité relativement aux impositions communales.
+## **Kapitel IV.** *D’Chamber vun den Deputéierten*
 
-#### Art. 100.
+### **Sektioun 1.** *D’Vertriedung vum Land*
 
-Les impôts au profit de l’État sont votés annuellement. – Les lois qui les établissent n’ont de force que pour un an, si elles ne sont renouvelées.
+##### **Art. 62.**
 
-#### Art. 101.
+D’Chamber vertrëtt d’Land. Si exercéiert d’legislativ Gewalt. Si kontrolléiert d’Aktioun vun der Regierung.
 
-Il ne peut être établi de privilège en matière d’impôts. Nulle exemption ou modération ne peut être établie que par une loi.
+D’Deputéiert stëmmen ouni Récksproch mat hiren Optraggeber of an dierfen nëmmen d’Allgemengwuel a Betruecht zéien.
 
-#### Art. 102.
+##### **Art. 63.**
 
-Hors les cas formellement exceptés par la loi aucune rétribution ne peut être exigée des citoyens ou des établissements publics qu’à titre d’impôt au profit de l’Etat ou de la commune.
+(1)
 
-#### Art. 103.
+D’Chamber besteet aus siechzeg Deputéierten.
 
-Aucune pension, aucun traitement d’attente, aucune gratification à la charge du trésor ne peuvent être accordés qu’en vertu de la loi.
+(2)
 
-#### Art. 104.
+D’Deputéiert gi fir fënnef Joer gewielt.
 
-Chaque année la Chambre arrête la loi des comptes et vote le budget. – Toutes les recettes et dépenses de l’État doivent être portées au budget et dans les comptes.
+(3)
 
-#### Art. 105.
+D’Wal ass direkt. D’Deputéiert ginn opgrond vum allgemenge Walrecht, op Lëschten, no de Reegele vun der proportionaler Vertriedung an nom Prinzip vum klengste Walquotient gewielt.
 
-Une Chambre des comptes est chargée de l’examen et de la liquidation des comptes de l’administration générale et de tous les comptables envers le trésor public.
+D’Wal ass obligatoresch a geheim. Hir Modalitéite gi vum Gesetz gereegelt.
 
-La loi règle son organisation, l’exercice de ses attributions et le mode de nomination de ses membres.
+(4)
 
-La Chambre des comptes veille à ce qu’aucun article de dépense du budget ne soit dépassé.
+D’Land ass a véier Walbezierker agedeelt:
 
-Aucun transfert d’une section du budget à l’autre ne peut être effectué qu’en vertu d’une loi.
+1. de Süde mat de Kantonen Esch-Uelzecht a Capellen;
+2. den Zentrum mat de Kantone Lëtzebuerg a Miersch;
+3. den Norde mat de Kantonen Dikrech, Réiden, Wolz, Clierf a Veianen;
+4. den Oste mat de Kantone Gréiwemaacher, Réimech an Iechternach.
 
-Cependant les membres du Gouvernement peuvent opérer, dans leurs services, des transferts d’excédants d’un article à l’autre dans la même section, à charge d’en justifier devant la Chambre des Députés.
+E Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, leet d’Zuel vun den Deputéierte fest, déi an all Bezierk gewielt ginn.
 
-La Chambre des comptes arrête les comptes des différentes administrations de l’État et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l’État est soumis à la Chambre des Députés avec les observations de la Chambre des comptes.
+##### **Art. 64.**
 
-#### Art. 106.
+(1)
 
-Les traitements et pensions des ministres des cultes sont à charge de l’État et réglés par la loi.
+Fir wielen ze kënnen, muss ee Lëtzebuerger an uechtzéng Joer al sinn.
 
-## **Chapitre IX.** *Des Communes.*
+(2)
 
-#### Art. 107.
+Fir kënne gewielt ze ginn, muss een ausserdeem säi Wunnsëtz am Grand-Duché vu Lëtzebuerg hunn.
 
-Il y aura dans chaque commune un conseil communal élu directement par les habitants ayant les qualités requises pour être électeurs ; la composition, l’organisation et les attributions de ce conseil sont réglées par la loi.
+(3)
 
-Le bourgmestre est nommé et révoqué par le Roi Grand-Duc, qui peut le choisir hors du sein du conseil.
+An de Fäll, déi d’Gesetz virgesäit, kënnen d’Geriichter de Verloscht vum aktiven a vum passive Walrecht ausspriechen.
 
-Le conseil communal décide sur tout ce qui est d’intérêt purement communal, sauf l’approbation de ses actes dans les cas et suivant le mode que la loi détermine.
+##### **Art. 65.**
 
-Les agents ou employés communaux, ceux de la police municipale, forestière et rurale sont nommés et révoqués de la manière déterminée par la loi.
+D’Mandat vum Deputéierten ass onvereenbar mat de Funktioune vum Regierungsmember a vum Member vum Staatsrot.
 
-Aucune imposition communale ne peut être établie ou supprimée sans l’autorisation du Roi Grand-Duc.
+Déi selwecht Onvereenbarkeet gëllt fir ëffentlech Aarbechtsplazen a Funktiounen, déi vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, festgeluecht ginn. Si kann op aner politesch Mandater ausgebreet ginn, déi vun engem Gesetz, dat mat der qualifizéiert Majoritéit ugeholl gëtt, festgeluecht ginn.
 
-Les comptes et budgets sont rendus publics.
+##### **Art. 66.**
 
-Le Roi Grand-Duc peut suspendre ou annuler les actes des autorités communales qui excèdent leurs attributions ou qui sont contraires à la loi ou à l’intérêt général. La loi règle les suites de cette suspension ou annulation.
+(1)
 
-Le Roi Grand-Duc a le droit de dissoudre le conseil.
+Den Deputéierten, dee vun der Regierung fir eng bezuelten Aarbechtsplaz ernannt gëtt, déi hien akzeptéiert, verléiert direkt säi Sëtz a ka seng Funktioun nëmmen opgrond vun neie Walen nees iwwerhuelen.
 
-#### Art. 108.
+(2)
 
-La rédaction des actes de l’état civil et la tenue des registres sont exclusivement dans les attributions des autorités communales.
+Den Deputéierten, deen zum Regierungsmember ernannt gëtt, verléiert säi Mandat als Deputéierten. Hie gëtt nees op der Lëscht, op där hie gewielt gouf, als Suppleant an der Reiefolleg vun de Stëmmen, déi hie kritt huet, ageschriwwen.
 
-## **Chapitre X.** *Dispositions générales.*
+Dat selwecht gëllt fir e Suppleant, deen zum Regierungsmember ernannt gouf a wärend sengem Regierungsmandat op e Mandat als Deputéierten, dat em zoustoung, verzicht huet.
 
-#### **Art. 109.**
+Wann e puer Persounen erëm op d’Lëscht vun de Suppleanten ageschriwwe ginn, geschitt dat an der Reiefolleg vun der Stëmmenunzuel, déi si bei de Wale kritt hunn.
 
-La ville de Luxembourg est la capitale du Grand-Duché et le siège du Gouvernement. – Le siège du Gouvernement ne peut être déplacé que momentanément pour des raisons graves.
+(3)
 
-#### Art. 110.
+D’Persounen, déi vun enger Incompatibilitéit betraff sinn, kënnen tëschent dem Deputéiertemandat an hirer Plaz oder Aktivitéit wielen.
 
-Aucun serment ne peut être imposé qu’en vertu de la loi ; elle en détermine la formule.
+### **Sektioun 2.** *D’Organisatioun an de Fonctionnement vun der Chamber*
 
-Tous les fonctionnaires publics civils, avant d’entrer en fonctions, prêtent le serment suivant :
+##### **Art. 67.**
 
-« Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l’État. – Ainsi Dieu me soit en aide ! »
+(1)
 
-#### Art. 111.
+D’Chamber versammelt sech vum Recht hier den drëtten Dënschdeg no de Wale an enger ëffentlecher Sitzung, fir d’Pouvoire vun hire Memberen ze iwwerpréiwen.
 
-Tout étranger qui se trouve sur le territoire du Grand-Duché, jouit de la protection accordée aux personnes et aux biens, sauf les exceptions établies par la loi.
+(2)
 
-#### Art. 112.
+D’Chamber ass zoustänneg fir festzestellen, datt ee vun hire Memberen de Statut vum Deputéierte verluer huet, well wärend dem Mandat en Ineligibilitéitsgrond am Sënn vum Artikel 64 oder eng Onvereenbarkeet am Sënn vum Artikel 65 opgetrueden ass.
 
-Aucune loi, aucun arrêté ou règlement d’administration générale ou communale n’est obligatoire qu’après avoir été publié dans la forme déterminée par la loi.
+(3)
 
-#### Art. 113.
+E Recours géint dës Entscheedunge ka virum Verfassungsgeriicht agereecht ginn. D’Modalitéite vun dësem Recours gi vum Gesetz gereegelt.
 
-Aucune disposition de la Constitution ne peut être suspendue.
+(4)
 
-#### Art. 114.
+Wa si hir Funktioun untrieden, leeën d’Deputéiert an enger ëffentlecher Sëtzung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“
 
-Le pouvoir législatif a le droit de déclarer qu’il y a lieu de procéder à la révision de telle disposition constitutionnelle qu’il désigne. – Après cette déclaration, la Chambre est dissoute de plein droit. – Il en sera convoqué une nouvelle, conformément à l’art. 74 de la présente Constitution. – Cette Chambre statue, de commun accord avec le Roi Grand-Duc, sur les points soumis à la révision. – Dans ce cas , la Chambre ne pourra délibérer, si trois quarts au moins des membres qui la composent ne sont présents, et nul changement ne sera adopté, s’il ne réunit au moins les deux tiers des suffrages.
+(5)
 
-#### Art. 115.
+Mat der ëffentlecher Versammlung vun der Chamber no de Walen, am Sënn vum Paragraf 1, ginn d’Funktioune vun den Deputéierten, déi aus de viregte Walen ervirgaange sinn, zu Enn.
 
-Aucun changement à la Constitution ne peut être fait pendant une régence.
+##### **Art. 68.**
 
-## **Chapitre XI.** *Dispositions transitoires et supplémentaires.*
+D’Chamber bestëmmt duerch hiert Reglement d’Aart a Weis, no där si hir Attributiounen ausüübt, souwéi hir materiell a finanziell Organisatioun, dorënner och de Statut vun hire Beamten.
 
-#### **Art. 116.**
+D’Chamberreglement leet d’Ausféierungsbestëmmunge vun de Gesetzer fest, déi hir Organisatioun betreffen.
 
-Jusqu’à ce qu’il y soit pourvu par une loi, la Chambre des Députés aura un pouvoir discrétionnaire pour accuser un membre du Gouvernement, et la Cour supérieure, en assemblée générale, le jugera, en caractérisant le délit et en déterminant la peine. – Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice des cas expressément prévus par les lois pénales.
+##### **Art. 69.**
 
-Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de toute participation à la procédure et au jugement.
+D’Chamber ernennt hire President an hir Vizepresidenten a stellt hire Büro zesummen.
 
-#### Art. 117.
+##### **Art. 70.**
 
-A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
+D’Sëtzunge vun der Chamber sinn ëffentlech, ausser an de Fäll, déi hiert Reglement virgesäit.
 
-#### Art. 118.
+##### **Art. 71.**
 
-La peine de mort, abolie en matière politique, est remplacée par la peine immédiatement inférieure, jusqu’à ce qu’il y soit statué par la loi nouvelle.
+D’Chamber kann nëmmen Entscheedungen, Resolutiounen a Motiounen unhuelen, wann d’Majoritéit vun den Deputéierte versammelt ass.
 
-#### Art. 119.
+All Entscheedung, all Resolutioun an all Motioun gëtt mat der Majoritéit vun de Stëmmen ugeholl. D’Enthalunge ginn net fir d’Berechnung vun der Majoritéit a Betruecht gezunn. D’Ofstëmmung iwwer Procuratioun ass erlaabt. Keen Deputéierten dierf méi wéi eng Procuratioun kréien.
 
-En attendant la conclusion des conventions prévues à l’art. 22, les dispositions actuelles relatives aux cultes restent en vigueur.
+D’Decisiounen an d’Resolutiounen, fir déi d’Verfassung d’qualifizéiert Majoritéit verlaangt, musse mat op d’mannst zwee Drëttel vun de Stëmme vun den Deputéierten ugeholl ginn. D’Ofstëmmung iwwer Procuratioun ass an dëse Fäll net erlaabt.
 
-#### Art. 120.
+##### **Art. 72.**
 
-Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
+D’Chamberreglement leet d’Majoritéitsreegele fir d’Ernennung vu Persounen op Mandater oder Funktiounen fest, fir déi d’Chamber zoustänneg ass.
 
-#### Art. 121.
+##### **Art. 73.**
 
-La Constitution d’États du 12 octobre 1841 est abolie.
+De Grand-Duc kann nëmme virgezunne Wale fixéieren, wann d’Chamber mat der Majoritéit vun hire Memberen entweeder der Regierung e Vertrauensvote refuséiert oder e Mësstrauensvote géint d’Regierung unhëlt.
 
-Toutes les autorités conservent et exercent leurs attributions, jusqu’à ce qu’il y ait été autrement pourvu, conformément à la Constitution.
+Wann d’Regierung demissionéiert an d’Chamber mat der absoluter Majoritéit vun hire Memberen den Accord dozou gëtt, fixéiert de Grand-Duc virgezunne Walen.
 
-**Le Ministre d’État,
-Président du Gouvernement, E. SERVAIS.   Le Directeur-général
-des affaires communales, ED. THILGES.   Le Directeur-général
-de la justice, VANNERUS.   Le Directeur-général
-des finances, DE COLNET-D'HUART.**
+D’Neiwale gi spéitstens bannent dräi Méint ofgehalen.
 
-**Au Loo, le 17 octobre 1868.GUILLAUME.   Par le Roi Grand-Duc : Le Secrétaire pour
-les affaires du Grand-Duché, G. D’OLIMART.**
+De Grand-Duc ka keng virgezunne Wale wärend dem Krisenzoustand fixéieren.
+
+##### **Art. 74.**
+
+D’Regierungsmemberen hunn Zougang zu der Chamber a musse gehéiert ginn, wa si dat verlaangen.
+
+##### **Art. 75.**
+
+Fir d’Missiounen ze erfëllen, déi am Artikel 62 virgesi sinn, kann d’Chamber:
+
+1. d’Präsenz vun engem oder méi Membere vun der Regierung verlaangen;
+2. Froen an Interpellatiounen un d’Regierung adresséieren, op déi d’Regierung verflicht ass ze äntweren;
+3. all méiglech Informatiounen an Dokumenter vun der Regierung verlaangen;
+4. e Vertrauens- oder e Mësstrauensvote géintiwwer der Regierung unhuelen.
+
+D’Ausübe vun dëse Prerogativë gëtt am Chamberreglement gereegelt.
+
+### **Sektioun 3.** *D’Unhuele vun de Gesetzer*
+
+##### **Art. 76.**
+
+D’Regierung deposéiert Gesetzesprojete bei der Chamber.
+
+##### **Art. 77.**
+
+All Deputéierten huet d’Recht, fir der Chamber Gesetzespropositiounen ze ënnerbreeden.
+
+##### **Art. 78.**
+
+(1)
+
+D’Gesetzer gi vun der Chamber ugeholl.
+
+(2)
+
+D’Chamber kann d’Gesetzesprojeten an d’Gesetzespropositiounen änneren.
+
+(3)
+
+D’Chamber stëmmt iwwer dat ganzt Gesetz of. Et gëtt ëmmer mam Numm ofgestëmmt.
+
+Wann op d’mannst fënnef Deputéiert dat verlaangen, ka virun der Ofstëmmung iwwer dat ganzt Gesetz eng Ofstëmmung iwwer een oder méi Artikele vum Gesetz gemaach ginn.
+
+(4)
+
+Iwwer all Gesetz gëtt eng zweete Kéier ofgestëmmt, ausser wann d’Chamber mam Accord vum Staatsrot, deen dofir an enger ëffentlecher Sëtzung zësummekënnt, de Contraire entscheet. Et gëtt en Intervalle vu mindestens dräi Méint tëschent den zwou Ofstëmmungen.
+
+### **Sektioun 4.** *Déi aner Attributioune vun der Chamber*
+
+##### **Art. 79.**
+
+Zu de motivéierte Propositiounen, déi op eng Gesetzgebung hinzilen an déi vu mindestens honnertfënnefanzwanzeg Wieler presentéiert ginn a vu mindestens zwielefdausendfënnefhonnert Wieler ënnerstëtzt ginn, hëllt d’Chamber an enger ëffentlecher Sitzung Stellung.
+
+D’Gesetz reegelt d’Ausübe vun dësem legislativen Initiativrecht.
+
+##### **Art. 80.**
+
+D’Chamber kann decidéieren, e Referendum duerchzeféieren an de Fäll, ënnert de Konditiounen a mat der Wierkung, déi an engem Gesetz festzeleeë sinn.
+
+##### **Art. 81.**
+
+D’Chamber huet d’Recht, Enquêten duerchzeféieren. D’Gesetz reegelt d’Ausübe vun dësem Recht.
+
+Eng Enquêtëkommissioun muss agesat ginn, wa mindestens een Drëttel vun den Deputéierten dat verlaangt.
+
+##### **Art. 82.**
+
+D’Chamber hëlt d’Petitiounen entgéint, déi an der Form, déi hiert Reglement virgesäit, u si adresséiert ginn.
+
+##### **Art. 83.**
+
+Den Ombudsman gëtt vum Grand-Duc ernannt, op Virschlag vun der Chamber, dee mat der qualifizéierter Majoritéit, déi am Artikel 71, Alinea 3 virgesinn ass, gestëmmt gëtt.
+
+Dem Ombudsman seng Kompetenzen, d’Reegele vu sengem Fonctionnement an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.
+
+### **Sektioun 5.** *De Statut vum Deputéierten*
+
+##### **Art. 84.**
+
+En Deputéierte ka wéinst de Meenungen an de Votten, déi hien am Ausübe vu senge Funktiounen ausdréckt, weeder zivilrechtlech nach strofrechtlech belaangt ginn.
+
+##### **Art. 85.**
+
+Mat Ausnam vun de Fäll, déi am Artikel 84 ernimmt sinn, kënnen d’Deputéiert strofrechtlech verfollegt ginn.
+
+Allerdéngs kann en Deputéierten nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet, ausser wann en op frëscher Dot ertappt gëtt.
+
+D’Autorisatioun vun der Chamber ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint en Deputéierte gesprach ginn.
+
+##### **Art. 86.**
+
+D’Deputéiert kréien eng Indemnitéit, där hire Montant an hir Konditioune vum Gesetz festgeluecht ginn.
+
+## **Kapitel V.** *D’Regierung*
+
+#### **Art. 87.**
+
+D’Regierung dirigéiert d’allgemeng Politik vum Staat.
+
+#### **Art. 88.**
+
+D’Regierung besteet aus engem Premierminister, engem oder méi Vizepremierministeren, Ministeren an eventuell engem oder méi delegéierte Ministeren a Staatssekretären.
+
+De Grand-Duc ernennt de Premierminister an déi aner Membere vun der Regierung a beendegt hir Funktiounen.
+
+Ier si hir Funktioun untrieden, leeën d’Membere vun der Regierung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“
+
+#### **Art. 89.**
+
+D’Funktioun vum Regierungsmember ass net vereenbar mat der Funktioun vum Deputéierten, Member vum Staatsrot, Member vun engem Gemengerot an och net mat ëffentlechen Ämter oder enger berufflecher Aktivitéit.
+
+#### **Art. 90.**
+
+D’Membere vun der Regierung exercéieren hir Attributiounen entweeder am Regierungsrot oder eenzel fir déi Ugeleeënheeten, fir déi si zoustänneg sinn.
+
+#### **Art. 91.**
+
+De Premierminister koordinéiert d’Regierungsgeschäfter a suergt fir en eenheetlecht Virgoe vun der Regierung.
+
+#### **Art. 92.**
+
+D’Regierung leet hir Organisatioun an hire Fonctionnement an engem interne Reglement fest, dat duerch e groussherzoglechen Arrêté approuvéiert gëtt, mat Ausnam vun de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.
+
+#### **Art. 93.**
+
+(1)
+
+De Premierminister engagéiert d’Verantwortung vun der neier Regierung, wann en der Chamber de Regierungsprogramm presentéiert.
+
+(2)
+
+Am Zesummenhang mat enger Ofstëmmung iwwert e Gesetzesentworf oder mat enger Regierungserklärung kann de Premierminister mam Accord vum Regierungsrot d’Verantwortung vun der Regierung géintiwwer der Chamber engagéieren.
+
+(3)
+
+D’Chamber kann d’Verantwortung vun der Regierung duerch e Mësstrauensvote engagéieren.
+
+(4)
+
+Wann d’Chamber der Regierung hiert Vertraue refuséiert, presentéiert de Premierminister dem Grand-Duc d’Demissioun vun der Regierung.
+
+(5)
+
+Déi demissionär Regierung dirigéiert weider d’allgemeng Politik vum Staat.
+
+#### **Art. 94.**
+
+(1)
+
+D’Regierung an hir Membere si virun der Chamber verantwortlech.
+
+(2)
+
+D’Membere vun der Regierung kënne wéinst Meenungen, déi si am Kader vun hire Funktiounen äusseren, weeder zivil- nach strofrechtlech verantwortlech gemaach ginn.
+
+(3)
+
+D’Membere vun der Regierung si strofrechtlech verantwortlech fir d’Handlungen, déi si am Ausübe vun hirer Funktioun beginn.
+
+Nëmmen de Parquet kann eng Poursuite géint e Member vun der Regierung wéinst dësen Handlungen aleeden an dirigéieren, och nom Enn vun deem senger Funktioun.
+
+(4)
+
+Ausser wann en op frëscher Dot ertappt gëtt, kann e Member vun der Regierung nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet. Dës Autorisatioun ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint e Member vun der Regierung gesprach ginn.
+
+## **Kapitel VI.** *De Staatsrot*
+
+#### **Art. 95.**
+
+De Staatsrot gëtt säin Avis zu de Gesetzesprojeten, de Gesetzespropositiounen an den Ännerungen of, déi dorunner kënne proposéiert ginn.
+
+Wann de Staatsrot der Meenung ass, datt e Gesetzesprojet oder eng Gesetzespropositioun Bestëmmungen enthält, déi net konform si mat der Verfassung, mat internationalen Traitéen, bei deenen de Grand-Duché vu Lëtzebuerg Vertragsstaat ass, mat Rechtsakte vun der Europäescher Unioun oder mat den allgemenge Rechtsprinzippien, dann erwäänt hien dat a sengem Avis.
+
+Wann d’Chamber Artikel fir Artikel iwwer e Gesetzesprojet oder eng Gesetzespropositioun ofgestëmmt huet, ouni datt de Staatsrot säin Avis ofginn huet, kann d’Chamber iwwer d’komplett Gesetz ofstëmmen, wa si en Delai vu mindestens dräi Méint anhält, nodeems si de Staatsrot informéiert huet.
+
+Ausser an dréngende Fäll, déi an de Limitte vum Gesetz vum Grand-Duc appreciéiert ginn, gëtt de Staatsrot säin Avis iwwer Projete vu Reglementer of, déi fir d’Ausféierung vun de Gesetzer an den internationalen Traitéen a fir d’Applikatioun vun de Rechtsakte vun der Europäescher Unioun ugeholl ginn. Wann hien der Meenung ass, datt de Projet vum Reglement net konform mat de méi héije Rechtsnormen ass, da geet en a sengem Avis dorop an.
+
+D’Chamber an d’Regierung kënnen dem Staatsrot all aner Froen no deene vum Gesetz festgeluechte Modalitéite virleeën.
+
+#### **Art. 96.**
+
+D’Organisatioun vum Staatsrot an d’Aart a Weis, seng Kompetenzen auszeüben, gi vum Gesetz gereegelt.
+
+## **Kapitel VII.** *D’Justiz*
+
+### **Sektioun 1.** *D’Organisatioun vun der Justiz*
+
+##### **Art. 97.**
+
+D’Justizgewalt gëtt vun de Geriichtshäff an de Geriichter exercéiert.
+
+D’Urteeler ginn am Numm vum Grand-Duc vollstreckt.
+
+##### **Art. 98.**
+
+D’uerdentlech Geriichter sinn allgemeng zoustänneg an alle Beräicher, mat Ausnam vun deenen Attributiounen, déi d’Verfassung un aner Geriichter mat enger spezifescher Zoustännegkeet iwwerdréit.
+
+##### **Art. 99.**
+
+D’Verwaltungsgeriichter si fir administrativ a steierlech Streidegkeeten zoustänneg an de Fäll an ënnert de Konditiounen, déi d’Gesetz festleet.
+
+##### **Art. 100.**
+
+D’Organisatioun vun de Geriichter am Beräich vun der Sozialversécherung gëtt vum Gesetz gereegelt.
+
+##### **Art. 101.**
+
+D’Gesetz reegelt d’Organisatioun vun de Geriichter an d’Recoursen.
+
+##### **Art. 102.**
+
+D’Geriichter applizéieren d’Gesetzer an d’Reglementer nëmmen esouwäit, ewéi si konform mat de méi héije Rechtsnorme sinn.
+
+##### **Art. 103.**
+
+D’Annulatioun vun engem Reglement duerch e Verwaltungsgeriicht huet en absolutte Charakter vun deem Dag un, wou d’Urteel definitiv ass, ausser wann d’Geriicht, dat d’Annulatioun ausgeschwat huet, en aneren Delai ordonéiert.
+
+D’Geriicht, dat d’Annulatioun ausschwätzt, leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Reglement hat, kënnen a Fro gestallt ginn.
+
+### **Sektioun 2.** *De Statut vun de Magistraten*
+
+##### **Art. 104.**
+
+(1)
+
+D’Riichtere sinn onofhängeg am Ausübe vun hire riichterleche Funktiounen.
+
+(2)
+
+De Parquet exercéiert d’ëffentlech Uklo a fuerdert d’Uwendung vum Gesetz. Am Ausübe vun individuelle Recherchen a Poursuitten ass en onofhängeg; der Regierung hiert Recht, strofpolitesch Direktiven ze ginn, bleift dobäi intakt.
+
+##### **Art. 105.**
+
+(1)
+
+De Statut vun de Riichteren a vun de Membere vum Parquet gëtt vum Gesetz festgeluecht.
+
+(2)
+
+D’Riichtere kënnen net ofgesat ginn.
+
+(3)
+
+D’Gesetz reegelt d’Pensionéierung vun de Riichteren a vun de Membere vum Parquet aus Alters-, Gesondheets- oder Déngschtonfäegkeetsgrënn.
+
+##### **Art. 106.**
+
+Ier si hir Funktioun untrieden, leeën d’Riichteren an d’Membere vum Parquet den Eed of, deen d’Gesetz virgesäit.
+
+### **Sektioun 3.** *Den nationale Justizrot*
+
+##### **Art. 107.**
+
+Den nationale Justizrot suergt fir de gudde Fonctionnement vun der Justiz am Respekt vun hirer Onofhängegkeet.
+
+D’Zesummestellung an d’Organisatioun vum nationale Justizrot gi vum Gesetz festgeluecht. Den nationale Justizrot muss majoritär aus Magistrate bestoen.
+
+De Grand-Duc ernennt d’Magistraten, déi vum nationale Justizrot proposéiert ginn, ënnert de Konditiounen, déi d’Gesetz virgesäit.
+
+Dem Justizrot seng Attributiounen bei Disziplinarverfare géint Magistrate gi vum Gesetz festgeluecht.
+
+Dem nationale Justizrot seng aner Attributioune gi vum Gesetz festgeluecht, dat och d’Ausübungsmodalitéiten dovunner festleet.
+
+### **Sektioun 4.** *De Persounen hir Garantië viru Geriicht*
+
+##### **Art. 108.**
+
+D’Verhandlunge virun de Geriichter sinn ëffentlech, ausser wann dës Ëffentlechkeet e Risiko fir d’Uerdnung oder d’Sitten duerstellt, woubäi d’Geriicht dëst an esou engem Fall an engem Urteel deklaréiert.
+
+##### **Art. 109.**
+
+All Urteel ass begrënnt. Et gëtt an enger ëffentlecher Sëtzung gesprach.
+
+##### **Art. 110.**
+
+D’Gesetz garantéiert d’Onparteilechkeet vun de Riichteren, de fairen a loyale Charakter an de raisonnabelen Delai vun de Prozeduren, de Respekt vum Contradictoire an d’Rechter vun der Defense.
+
+##### **Art. 111.**
+
+D’Bestëmmunge vun der Verfassung stinn den Obligatiounen, déi aus dem Statut vum Internationale Strofgeriichtshaff ervirginn, net am Wee.
+
+Sektioun 5. – D’Verfassungsgeriicht
+
+### **Sektioun 5.** *D’Verfassungsgeriicht*
+
+##### **Art. 112.**
+
+(1)
+
+D’Verfassungsgeriicht entscheet per Arrêt iwwer d’Konformitéit vun de Gesetzer mat der Verfassung.
+
+(2)
+
+D’Verfassungsgeriicht ka prejudiciel no de Modalitéiten, déi d’Gesetz virgesäit, vun all Geriicht saiséiert ginn, fir iwwer d’Verfassungskonformitéit vun de Gesetzer, mat Ausnam vun de Gesetzer, déi Traitéen approuvéieren, ze entscheeden.
+
+(3)
+
+D’Verfassungsgeriicht reegelt d’Kompetenzkonflikter nom Verfaren, dat vum Gesetz bestëmmt gëtt.
+
+(4)
+
+Dem Verfassungsgeriicht seng Attributioune kënnen duerch e Gesetz, dat mat enger qualifizéierter Majoritéit vun op mannst zwee Drëttel vun de Stëmme vun de Membere vun der Chamber gestëmmt gëtt, erweidert ginn. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.
+
+(5)
+
+D’Verfassungsgeriicht besteet:
+
+1. aus néng effektive Memberen:
+											
+												dem President vum Ieweschte Geriichtshaff an dem President vum Verwaltungsgeriichtshaff;
+												zwee Riichtere vum Cassatiounshaff a fënnef Magistraten, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;
+2. siwe stellvertriedend Memberen, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;
+
+(6)
+
+D’Verfassungsgeriicht siegéiert an enger Chamber vu fënnef Memberen. Wann d’Verfassungsgeriicht der Meenung ass, dass eng Affär, mat där et saiséiert ass, besonnesch wichteg ass, da siegéiert et als Plenum mat néng Memberen.
+
+(7)
+
+D’Organisatioun vum Verfassungsgeriicht an d’Aart a Weis, wéi et seng Kompetenzen ausüübt, gi vum Gesetz gereegelt.
+
+(8)
+
+Gesetzesbestëmmungen, déi duerch en Urteel vum Verfassungsgeriicht als verfassungswiddereg deklaréiert goufen, verléieren hir juristesch Wierkung den Dag no der gesetzlech virgeschriwwener Verëffentlechung vun dësem Urteel, ausser wann d’Verfassungsgeriicht en aneren Delai ordonéiert huet. D’Verfassungsgeriicht leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Bestëmmung hat, kënnen a Fro gestallt ginn.
+
+## **Kapitel VIII.** *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*
+
+### **Sektioun 1.** *Déi allgemeng Verwaltungsreegelen*
+
+##### **Art. 113.**
+
+Kee Gesetz, kee Reglement a keen allgemenge Verwaltungsarrêté ass obligatoresch, ausser nodeems et an der Form, déi d’Gesetz festleet, verëffentlecht gouf.
+
+##### **Art. 114.**
+
+D’Gesetz leet d’Konditiounen, d’Limitten an d’Modalitéite fest, ënnert deenen de Staat an déi aner ëffentlech-rechtlech juristesch Persoune fir Schied kënnen haftbar gemaach ginn, déi si verursaacht hunn oder déi hir Mandatairen oder Agenten am Ausübe vun hire Funktioune verursaacht hunn.
+
+##### **Art. 115.**
+
+D’Organisatioun an d’Attributioune vun der Force publique gi vum Gesetz gereegelt.
+
+All Deklaratioun iwwer de Krichszoustand an all Bedeelegung vun der Force publique un Operatiounen am Ausland erfuerderen d’Autorisatioun vun der Chamber no de Modalitéiten, déi d’Gesetz festleet.
+
+### **Sektioun 2.** *D’Finanzen*
+
+##### **Art. 116.**
+
+(1)
+
+All staatlech Steier, all Exemptioun oder Reduktioun vun de Steiere gi vum Gesetz festgeluecht.
+
+(2)
+
+D’Steieren zu Gonschte vum Staat ginn all Joer gestëmmt. D’Gesetzer, déi se festleeën, gëllen nëmme fir ee Joer, ausser si ginn erneiert.
+
+(3)
+
+Eng Contributioun ka vun de Bierger oder ëffentlechen Ariichtungen nëmmen a Form vun enger Steier zu Gonschte vum Staat oder enger Gemeng verlaangt ginn, ausser, d’Gesetz gesäit formell eng Ausnam vir.
+
+##### **Art. 117.**
+
+(1)
+
+All Prêt zu Laaschte vum Staat muss mat der Zoustëmmung vun der Chamber ofgeschloss ginn.
+
+(2)
+
+All Verkaf vu Grondeegentum oder beweegleche Gidder, déi dem Staat gehéieren, muss duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz kann allerdéngs eng Limitt festleeën, ënnert där eng speziell Autorisatioun vun der Chamber net néideg ass.
+
+(3)
+
+All Kaf vu gréisserem Grondeegentum oder gréissere beweegleche Gidder duerch de Staat, all Duerchféierung vun engem groussen Infrastrukturprojet oder enger grousser Konstruktioun zu Gonschte vum Staat an all grousst finanziellt Engagement vum Staat mussen duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz leet d’Grenzwäerter fest, vun deenen un dës Autorisatioun néideg ass, esouwéi d’Konditiounen an d’Modalitéite fir de Finanzement vun de Virbereedungsaarbechten.
+
+(4)
+
+All Charge, déi de Staatsbudget wärend méi wéi engem Exercice belaascht, muss duerch e speziellt Gesetz festgeluecht ginn.
+
+(5)
+
+All Pensioun, all Waardegeld an all Gratifikatioun zu Laaschte vum Staat ginn duerch e Gesetz accordéiert.
+
+##### **Art. 118.**
+
+All Joer arrêtéiert d’Chamber d’Staatskonten duerch e Gesetz a stëmmt de Budget. All Recetten an Depensë vum Staat mussen an de Budget an an d’Konten agedroe ginn.
+
+##### **Art. 119.**
+
+(1)
+
+E Rechnungshaff ass zoustänneg fir d’Kontroll vun der Finanzgestioun vun den Organer, Administratiounen a Servicer vum Staat. D’Gesetz kann him aner Missioune fir d’Kontroll vun der Finanzgestioun mat ëffentleche Gelder uvertrauen.
+
+(2)
+
+De Rechnungshaff ënnerbreet der Chamber seng Kriticken a Recommandatiounen zu de Staatskonten.
+
+(3)
+
+Dem Rechnungshaff seng Kompetenzen, seng Organisatioun esouwéi d’Modalitéite vu senger Kontroll an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.
+
+(4)
+
+D’Membere vum Rechnungshaff gi vum Grand-Duc op Propositioun vun der Chamber ernannt.
+
+### **Sektioun 3.** *D’Relatiounen tëschent dem Staat an de Reliounsgemeinschaften*
+
+##### **Art. 120.**
+
+D’Kierchen an d’Reliounsgemeinschafte si vum Staat getrennt.
+
+D’Gesetz reegelt d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschaften.
+
+An de Limitten a Formen, déi d’Gesetz festleet, kënne Konventiounen, déi musse vun der Chamber approuvéiert ginn, d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschafte preziséieren.
+
+## **Kapitel IX.** *D’Gemengen*
+
+#### **Art. 121.**
+
+(1)
+
+D’Gemenge sinn autonom Kollektivitéiten op territorialer Basis, déi d’Rechtsperséinlechkeet hunn an duerch hir Organer hir eegen Interessien an hiert eegent Verméige verwalten.
+
+(2)
+
+D’Gesetz reegelt d’Zesummesetzung, d’Organisatioun an d’Kompetenze vun de Gemengenorganer.
+
+#### **Art. 122.**
+
+(1)
+
+All Gemeng huet e Gemengerot, deen op Basis vum allgemenge Walrecht direkt an duerch Geheimwal gewielt gëtt.
+
+(2)
+
+D’Gemeng gëtt ënnert der Autoritéit vun engem Schäfferot verwalt, deen aus dem Buergermeeschter an de Schäffe besteet. Si ginn innerhalb vun de Membere vum Gemengerot ernannt, an der Form, déi d’Gesetz virgesäit.
+
+#### **Art. 123.**
+
+(1)
+
+D’Steieren zu Gonschte vun de Gemenge gi vum Gesetz festgeluecht.
+
+Am Respekt vu senge constitutionnellen a gesetzleche Kompetenze kann de Gemengerot d’Steieren an d’Taxe festleeën, déi néideg sinn, fir den Interessi vun der Gemeng kënnen ze realiséieren. D’Gemengesteieren an -taxe gi vun der Iwwerwaachungsautoritéit approuvéiert.
+
+(2)
+
+De Gemengerot erstellt all Joer de Gemengebudget a schléisst d’Konten of.
+
+(3)
+
+D’Gemengen hunn d’Recht op d’finanziell Ressourcen, fir d’Missiounen ze erfëllen, déi d’Gesetz hinnen uvertraut.
+
+#### **Art. 124.**
+
+Ausser an dréngende Fäll hëlt de Gemengerot d’Gemengereglementer.
+
+An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen d’Gemengereglementer nëmmen op Basis vun enger bestëmmter Gesetzesbestëmmung ugeholl ginn, déi d’Ziler vun den Ausféierungsmoossname an eventuell d’Konditioune festleet, deene si ënnerleien.
+
+D’Gemengereglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.
+
+#### **Art. 125.**
+
+(1)
+
+Fir d’Redaktioun vun de Persounestandsakten an d’Féiere vun de Registere vun dësen Akte sinn exklusiv d’Gemengenorganer zoustänneg, déi d’Gesetz festleet.
+
+(2)
+
+D’Gesetz leet de Statut vun de Gemengebeamte fest.
+
+#### **Art. 126.**
+
+All Gemeng kann eleng oder mat anere Gemengen ëffentlech Ariichtunge grënnen an de Limitten an op d’Aart a Weis, déi vum Gesetz festgeluecht ginn.
+
+#### **Art. 127.**
+
+D’Gesetz reegelt d’Iwwerwaachung vun der Gemengeverwaltung a leet eng limitéiert Lëscht vun Handlunge vun de Gemengenorganer fest, déi vun der Iwwerwaachungsautoritéit mussen approuvéiert ginn. Et ka virgesinn, dass verschidden Handlunge vun de Gemengenorganer musse vun der Iwwerwaachungsautoritéit approuvéiert ginn an dass se annuléiert oder suspendéiert ginn, wa se illegal sinn oder géint den allgemengen Interessi sinn, ouni Aschränkung vun de Attributioune vun den uerdentleche Geriichter oder de Verwaltungsgeriichter.
+
+De Regierungsrot kann de Gemengerot am Interessi vun der Verwaltung vun der Gemeng opléisen.
+
+## **Kapitel X.** *Dem Staat seng Établissement-publicken an d’Beruffsorganer*
+
+#### **Art. 128.**
+
+(1)
+
+D’Gesetz kann Établissement-publicke schafen, déi eng eege Rechtsperséinlechkeet hunn an ënnert dem Staat senger Tutelle stinn.
+
+(2)
+
+D’Gesetz ka Beruffschambere schafen, déi eng eege Rechtsperséinlechkeet hunn.
+
+(3)
+
+D’Gesetz ka representativ Organer vun de liberale Beruffer schafen an hinnen d’Rechtsperséinlechkeet ginn.
+
+#### **Art. 129.**
+
+(1)
+
+D’Gesetz leet den Objet, d’Organisatioun an d’Kompetenze vun den ëffentlechen Ariichtungen, de Beruffschamberen an den Organer vun de liberale Beruffer fest, déi d’Rechtsperséinlechkeet hunn.
+
+(2)
+
+An der Limitt vun hirem Objet kann d’Gesetz hinnen d’Kompetenz ginn, Reglementer ze huelen.
+
+An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen zu den Zwecker an ënnert de Konditiounen, déi d’Gesetz preziséiert, geholl ginn.
+
+Dës Reglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.
+
+## **Kapitel XI.** *D’Verfassungsrevisioun*
+
+#### **Art. 130.**
+
+Keng Bestëmmung vun der Verfassung ka suspendéiert ginn.
+
+#### **Art. 131.**
+
+All Revisioun vun der Verfassung muss vun der Chamber an de selwechten Termen an zwou successiven Ofstëmmungen am Ofstand vu mindestens dräi Méint ugeholl ginn.
+
+Keng Revisioun gëtt ugeholl, wa si net mindestens zwee Drëttel vun de Stëmme vun de Membere vun der Chamber kritt. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.
+
+Den Text, deen an éischter Lecture vun der Chamber ugeholl ginn ass, gëtt engem Referendum ënnerzunn, deen der Chamber hir zweet Ofstëmmung ersetzt, wa bannent zwee Méint no der éischter Ofstëmmung eng entspriechend Demande gemaach gëtt, entweeder vu méi wéi engem Véierel vun de Membere vun der Chamber oder vu fënnefanzwanzegdausend Wieler, déi op de Wielerlëschte fir d’Parlamentswalen ageschriwwe sinn. D’Revisioun ass nëmmen ugeholl, wa se d’Majoritéit vun de gülteg ausgedréckte Stëmme kritt. D’Gesetz reegelt d’Organisatiounsmodalitéite vum Referendum.
+
+## **Kapitel XII.** *Iwwergangsbestëmmungen*
+
+#### **Art. 132.**
+
+D’Bestëmmunge vum Artikel 56 si fir d’éischte Kéier op d’Nokomme vu Senger Kinneklecher Altesse Henri, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, applicabel.
