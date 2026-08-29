@@ -4,10 +4,11 @@ identifier: "leg-constitution-1868-10-17-n1"
 country: "lu"
 rank: "constitution"
 publication_date: "1868-10-17"
-last_updated: "2023-07-01"
+last_updated: "2026-08-29"
 status: "in_force"
 source: "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo"
 department: "ME"
+subjects: ["3286"]
 memorial_date: "1868-10-22"
 entry_in_force: "1868-10-25"
 memorial: "http://data.legilux.public.lu/eli/etat/leg/memorial/1868/23"
@@ -16,1148 +17,1148 @@ eli: "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo"
 ---
 # Constitution du Grand-Duché de Luxembourg
 
-## **Kapitel I.** *De Staat, säin Territoire a seng Awunner*
+## **Kapitel I.** *Der Staat, sein Hoheitsgebiet und seine Einwohner*
 
-### **Sektioun 1.** *De Staat, seng politesch Form an d’Souveränitéit*
+### **Abschnitt 1.** *Der Staat, seine politische Form und die Hoheitsgewalt*
 
 ##### **Art. 1.**
 
-De Grand-Duché vu Lëtzebuerg ass en demokrateschen, fräien, onofhängegen an ondeelbare Staat.
+Das Großherzogtum Luxemburg ist ein demokratischer, freier, unabhängiger und unteilbarer Staat.
 
 ##### **Art. 2.**
 
-De Grand-Duché vu Lëtzebuerg funktionéiert no de Reegele vun enger parlamentarescher Demokratie. D’Staatsform ass déi vun enger constitutionneller Monarchie.
+Das Großherzogtum Luxemburg ist eine parlamentarische Demokratie. Es hat die Staatsform einer konstitutionellen Monarchie.
 
-De Staat berout op de Prinzippie vum Rechtsstaat an op dem Respekt vun de Mënscherechter.
+Es beruht auf den Grundsätzen der Rechtsstaatlichkeit und auf der Achtung der Menschenrechte.
 
 ##### **Art. 3.**
 
-D’Souveränitéit läit bei der Natioun, vun där d’Staatsgewalten ausginn.
+Die Hoheitsgewalt liegt bei der Nation, von der die Staatsgewalt ausgeht.
 
 ##### **Art. 4.**
 
 (1)
 
-D’Sprooch vum Grand-Duché vu Lëtzebuerg ass Lëtzebuergesch. D’Gesetz reegelt d’Benotzung vun der lëtzebuergescher, der franséischer an der däitscher Sprooch.
+Die Sprache des Großherzogtums Luxemburg ist Luxemburgisch. Die Verwendung der luxemburgischen, französischen und deutschen Sprache wird gesetzlich geregelt.
 
 (2)
 
-D’Nationalsymbol ass den dräifaarwege Fändel Rout-Wäiss-Blo.
+Das Symbol der Nation ist die dreifarbige rot-weiß-blaue Flagge.
 
 (3)
 
-D’Gesetz definéiert d’Staatswopen.
+Die Staatswappen werden per Gesetz festgelegt.
 
 (4)
 
-D’Nationalhymn ass „Ons Heemecht“.
+Die Nationalhymne ist „Ons Heemecht“.
 
 ##### **Art. 5.**
 
-De Grand-Duché vu Lëtzebuerg bedeelegt sech un der europäescher Integratioun.
+Das Großherzogtum Luxemburg beteiligt sich an der europäischen Integration.
 
-Den Exercice vu Staatsgewalte kann un d’Europäesch Unioun an un international Institutiounen iwwerdroe ginn duerch e Gesetz, dat no de Konditioune vum Artikel 131, Alinea 2 vun der Verfassung ugeholl gëtt.
+Die Ausübung von Staatsgewalt kann durch ein nach Maßgabe von Artikel 131, Absatz 2 der Verfassung verabschiedetes Gesetz auf die Europäische Union und internationale Einrichtungen übertragen werden.
 
-### **Sektioun 2.** *Den Territoire*
+### **Abschnitt 2.** *Das Staatsgebiet*
 
 ##### **Art. 6.**
 
-Keen Territoire kann ofgetrueden, getosch oder derbäigesat ginn, ausser opgrond vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt.
+Gebietsabtretungen, Gebietstausche und Gebietserweiterungen dürfen nur aufgrund eines mit qualifizierter Mehrheit verabschiedeten Gesetzes erfolgen.
 
 ##### **Art. 7.**
 
-D’Grenzen an d’Haaptuertschafte vun de Kantonen, de Gemengen an de Geriichtsarrondissementer gi vum Gesetz festgeluecht.
+Die Grenzen und Hauptorte der Kantone, Gemeinden und Gerichtsbezirke werden per Gesetz bestimmt.
 
 ##### **Art. 8.**
 
-D’Stad Lëtzebuerg ass d’Haaptstad vum Grand-Duché vu Lëtzebuerg an de Sëtz vun de constitutionnellen Institutiounen.
+Die Stadt Luxemburg ist die Hauptstadt des Großherzogtums und Sitz der Verfassungsorgane.
 
-## **Kapitel II.** *D’Rechter an d’Fräiheeten*
+## **Kapitel II.** *Rechte und Freiheiten*
 
-### **Sektioun 1.** *D’Nationalitéit an d’politesch Rechter*
+### **Abschnitt 1.** *Staatsangehörigkeit und politische Rechte*
 
 ##### **Art. 9.**
 
-D’Gesetz leet fest, wéi een d’lëtzebuergesch Nationalitéit kritt, behält a verléiert.
+Der Erwerb, der Erhalt und der Verlust der luxemburgischen Staatsangehörigkeit werden per Gesetz geregelt.
 
 ##### **Art. 10.**
 
 (1)
 
-D’Lëtzebuerger hu sämtlech politesch Rechter, déi si no de Konditioune vun der Verfassung an de Gesetzer ausüben.
+Die Luxemburger genießen alle politischen Rechte, die sie unter den durch die Verfassung und die Gesetze geregelten Bedingungen ausüben.
 
 (2)
 
-Ënner Ausschloss vum Artikel 64 kann d’Gesetz Netlëtzebuerger d’Ausübe vu politesche Rechter accordéieren.
+Unbeschadet des Artikels 64 kann Nichtluxemburgern per Gesetz die Ausübung von politischen Rechten gewährt werden.
 
 ##### **Art. 11.**
 
-D’Gesetz reegelt den Zougang zu den ëffentlechen Aarbechtsplazen. Ëffentlech Aarbechtsplazen, bei deenen een direkt oder indirekt un dem Exercice vun der Staatsgewalt an u Funktiounen deelhëlt, déi dorop ausgeriicht sinn, d’allgemeng Interessie vum Staat ze schützen, kënne vum Gesetz de Lëtzebuerger virbehale ginn.
+Der Zugang zu öffentlichen Stellen wird per Gesetz geregelt. Es kann den Luxemburgern die Stellen vorbehalten, die eine direkte oder indirekte Beteiligung an der Ausübung der öffentlichen Gewalt und den Funktionen, die dem Schutz der allgemeinen Interessen des Staates dienen, beinhalten.
 
-### **Sektioun 2.** *D’Grondrechter*
+### **Abschnitt 2.** *Grundrechte*
 
 ##### **Art. 12.**
 
-D’Mënschewürd ass onverletzlech.
+Die Würde des Menschen ist unantastbar.
 
 ##### **Art. 13.**
 
 (1)
 
-All Persoun huet d’Recht op hir kierperlech a geeschteg Integritéit.
+Jeder hat das Recht auf körperliche und geistige Unversehrtheit.
 
 (2)
 
-Keen däerf gefoltert oder onmënschlechen an erniddregende Strofen oder Behandlungen ausgesat ginn.
+Niemand darf der Folter oder unmenschlichen oder erniedrigenden Strafen oder Behandlungen unterworfen werden.
 
-D’Doudesstrof kann net agefouert ginn.
+Die Todesstrafe darf nicht eingeführt werden.
 
 ##### **Art. 14.**
 
-All Persoun huet d’Recht op Meenungsfräiheet, Gewëssensfräiheet a Reliounsfräiheet.
+Jeder hat das Recht auf Gedanken-, Gewissens- und Religionsfreiheit.
 
-### **Sektioun 3.** *D’ëffentlech Fräiheeten*
+### **Abschnitt 3.** *Öffentliche Freiheiten*
 
 ##### **Art. 15.**
 
 (1)
 
-D’Lëtzebuerger si virum Gesetz gläich.
+Die Luxemburger sind vor dem Gesetz gleich.
 
-D’Gesetz kann eng ënnerschiddlech Behandlung virgesinn, déi op enger objektiver Differenz baséiert an déi rationell gerechtfäerdegt, adequat a proportional zu hirem Zil ass.
+Ungleichbehandlungen, die auf objektiven Merkmalen beruhen, rational begründet, angemessen und zu dem verfolgten Zweck verhältnismäßig sind, können gesetzlich vorgesehen werden.
 
 (2)
 
-Et dierf kee wéinst senger Situatioun oder senge perséinlechen Ëmstänn diskriminéiert ginn.
+Niemand darf aufgrund seiner Situation oder persönlicher Umstände diskriminiert werden.
 
 (3)
 
-Fraen a Männer sinn an hire Rechter a Flichte gläich.
+Frauen und Männer haben die gleichen Rechte und Pflichten.
 
-De Staat setzt sech aktiv fir d’Eliminatioun vun den Hindernisser an, déi am Beräich vun der Gläichheet tëschent Fraen a Männer kënne bestoen.
+Der Staat sorgt dafür, die Beseitigung von Hindernissen, die im Zusammenhang mit der Gleichstellung von Frauen und Männern bestehen können, aktiv zu fördern.
 
 (4)
 
-All Persoun huet d’Recht, eng Famill ze grënnen.
+Jede Person hat das Recht, eine Familie zu gründen.
 
-All Persoun huet d’Recht op de Respekt vun hirem Familljeliewen.
+Jede Person hat das Recht auf die Achtung ihres Familienlebens.
 
 (5)
 
-An all Entscheedung, déi e Kand betrëfft, huet säin Interessi Virrang.
+Das Wohl des Kindes ist in allen Entscheidungen, die es betreffen, vorrangig zu berücksichtigen.
 
-Jiddwer Kand kann zu all Fro, déi et betrëfft, seng Meenung fräi äusseren. Seng Meenung gëtt jee no Alter an Urteelsfäegkeet a Betruecht gezunn.
+Jedes Kind kann seine Meinung in allen es betreffenden Fragen frei äußern. Seine Meinung wird unter Berücksichtigung seines Alters und seiner Urteilsfähigkeit berücksichtigt.
 
-Jiddwer Kand huet d’Recht op de Schutz, op d’Moossnamen an op d’Fleeg, déi fir säi Wuelbefannen a seng Entwécklung néideg sinn.
+Jedes Kind hat Anspruch auf den Schutz, die Maßnahmen und die Fürsorge, die für sein Wohlergehen und seine Entwicklung notwendig sind.
 
 (6)
 
-Jiddwer handicapéiert Persoun huet d’Recht, op déi selwecht Aart a Weis all Rechter ze genéissen.
+Jeder Mensch mit Behinderungen hat das Recht, alle Rechte gleichberechtigt zu genießen.
 
 ##### **Art. 16.**
 
-All Netlëtzebuerger, dee sech um Territoire vum Grand-Duché befënnt, genéisst de Schutz, deen de Persounen an de Saachen accordéiert gëtt, ënner Virbehalt vun den Ausnamen, déi d’Gesetz virgesäit.
+Jeder Nichtluxemburger, der sich auf dem Gebiet des Großherzogtums befindet, genießt den Schutz, welcher Personen und Gütern gewährt wird, vorbehaltlich der gesetzlich festgelegten Ausnahmen.
 
 ##### **Art. 17.**
 
 (1)
 
-D’perséinlech Fräiheet ass garantéiert.
+Die Freiheit des Einzelnen wird garantiert.
 
 (2)
 
-Keen dierf strofverfollegt, festgeholl oder senger Fräiheet entzu ginn, ausser an de Fäll an an der Form, déi d’Gesetz virgesäit.
+Niemand darf verfolgt, festgenommen oder seiner Freiheit beraubt werden, es sei denn in den gesetzlich vorgesehenen Fällen und in der gesetzlich bestimmten Form.
 
 (3)
 
-Ausser wann een op frëscher Dot ertappt gëtt, dierf een nëmmen opgrond vun enger begrënnter riichterlecher Entscheedung festgeholl ginn, déi bei der Festnam oder spéitstens véieranzwanzeg Stonnen dono zougestallt gëtt.
+Außer bei Ergreifung auf frischer Tat darf niemand festgenommen werden, es sei denn, es liegt eine begründete gerichtliche Entscheidung vor, die zum Zeitpunkt der Festnahme oder spätestens innerhalb von vierundzwanzig Stunden zugestellt werden muss.
 
 (4)
 
-All Persoun, déi enger Strofdot beschëllegt gëtt, gëllt als onschëlleg, bis hir Schold dem Gesetz no bewisen ass.
+Jede einer Straftat beschuldigte Person gilt bis zum gesetzmäßig erbrachten Beweis ihrer Schuld als unschuldig.
 
-All Persoun muss direkt iwwer d’Grënn vun hirer Festnam oder hirem Fräiheetsentzuch, iwwer d’Uschëllegunge géint si an iwwer d’gesetzlech Recoursen informéiert ginn, déi hir opstinn, fir hir Fräiheet zeréckzekréien.
+Jede Person muss unverzüglich über die Gründe für ihre Festnahme oder den Freiheitsentzug, die gegen sie erhobenen Beschuldigungen und die ihr zur Verfügung stehenden rechtlichen Mittel zur Wiedererlangung ihrer Freiheit informiert werden.
 
 ##### **Art. 18.**
 
-All Persoun huet d’Recht, datt hire Fall virun deem Geriicht, dat d’Gesetz virgesäit, gehéiert gëtt.
+Jede Person hat das Recht darauf, dass ihre Sache vor das gesetzlich bestimmte Gericht gebracht wird.
 
-Kee ka géint säi Wëllen dem Riichter, deen d’Gesetz him zouweist, entzu ginn.
+Niemand darf gegen seinen Willen dem ihm gesetzlich zugewiesenen Richter entzogen werden.
 
 ##### **Art. 19.**
 
-Strofe kënnen nëmmen opgrond vun engem Gesetz festgeluecht an applizéiert ginn.
+Eine Strafe darf nur aufgrund eines Gesetzes verhängt oder angewandt werden.
 
-Et dierf kee fir eng Dot oder eng Ënnerloossung verurteelt ginn, déi zum Zäitpunkt, zu deem se begaange ginn ass, keng gesetzlech Strofdot war.
+Niemand darf für eine Handlung oder Unterlassung verurteilt werden, die zum Zeitpunkt ihrer Begehung keinen Gesetzesverstoß darstellte.
 
-Et dierf keen zu enger méi héijer Strof verurteelt gi wéi där, déi applicabel war zum Zäitpunkt, zu deem d’Strofdot begaange gouf.
+Niemand darf zu einer höheren als der zum Zeitpunkt der Tat anwendbaren Strafe verurteilt werden.
 
 ##### **Art. 20.**
 
-All Persoun huet d’Recht op de Respekt vun hirem Privatliewen.
+Jede Person hat das Recht auf die Achtung ihres Privatlebens.
 
 ##### **Art. 21.**
 
-D’Wunneng ass onverletzlech. En Hausbesuch kann nëmmen an de Fäll an an de Formen, déi vum Gesetz virgesi sinn, duerchgefouert ginn.
+Die Wohnung ist unverletzlich. Ein Hausbesuch darf nur in den gesetzlich vorgesehen Fällen und in der gesetzlich festgelegten Form stattfinden.
 
 ##### **Art. 22.**
 
-En Eed kann nëmmen opgrond vun engem Gesetz imposéiert ginn, dat och seng Formel festleet.
+Ein Eid darf nur aufgrund eines die Eidesformel festlegenden Gesetzes auferlegt werden.
 
 ##### **Art. 23.**
 
-D’Meenungsfräiheet an d’Pressefräiheet si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheeten begaange ginn.
+Die Meinungs- und die Pressefreiheit sind garantiert, abgesehen von Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.
 
-Et dierf keng Zensur agefouert ginn.
+Die Zensur darf nicht eingeführt werden.
 
 ##### **Art. 24.**
 
-D’Fräiheet, fir seng philosophesch oder reliéis Iwwerzeegungen auszedrécken, an d’Fräiheet, fir enger Relioun bäizetrieden oder net bäizetrieden, si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.
+Die Freiheit, philosophische oder religiöse Überzeugungen zu bekunden, sowie die Freiheit, sich einer Religion anzuschließen oder nicht anzuschließen, wird garantiert, abgesehen von Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.
 
-D’Reliounsfräiheet an hiert Ausübe si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.
+Die Religionsfreiheit und die Freiheit der Religionsausübung werden garantiert, außer bei Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.
 
-Kee ka gezwonge ginn, op iergend eng Aart a Weis un den Handlungen an Zeremonië vun enger Relioun deelzehuelen oder hir Roudeeg anzehalen.
+Niemand darf gezwungen werden, auf irgendeine Weise an den Handlungen und Zeremonien einer Religion teilzunehmen oder sich an deren Ruhetage zu halten.
 
 ##### **Art. 25.**
 
-All Persoun huet d’Recht, sech friddlech, am Respekt vum Gesetz, ze versammelen. Nëmme fir Versammlungen, déi dobaussen, op enger Plaz, déi ëffentlech zougänglech ass, stattfannen, kann eng prealabel Autorisatiounsflicht virgesi ginn.
+Jeder hat das Recht, sich im Rahmen der Gesetze friedlich zu versammeln. Dieses Recht darf nur bei Versammlungen unter freiem Himmel an einem der Öffentlichkeit zugänglichen Ort einer vorherigen Genehmigung unterworfen werden.
 
 ##### **Art. 26.**
 
-D’Vereenegungsfräiheet ass garantéiert. Wéi se ausgeüübt gëtt, gëtt vum Gesetz gereegelt, dat dofir keng prealabel Autorisatiounsflicht aféieren dierf.
+Die Vereinigungsfreiheit wird garantiert. Ihre Ausübung wird per Gesetz geregelt und darf keinem vorherigen Genehmigungserfordernis unterworfen werden.
 
 ##### **Art. 27.**
 
-D’politesch Parteien droen derzou bäi, de Wëlle vum Vollek ze forméieren an dem allgemenge Walrecht Ausdrock ze ginn. Si drécken den demokratesche Pluralismus aus.
+Politische Parteien tragen zur Willensbildung des Volkes und zum Ausdruck des allgemeinen Wahlrechts bei. Sie sind Ausdruck des demokratischen Pluralismus.
 
 ##### **Art. 28.**
 
-D’Fräiheete vun de Gewerkschafte si garantéiert.
+Die gewerkschaftlichen Freiheiten werden garantiert.
 
-D’Gesetz reegelt d’Ausübe vum Streikrecht.
+Die Ausübung des Streikrechts wird gesetzlich geregelt.
 
 ##### **Art. 29.**
 
-All Persoun kann Demanden, déi vun enger oder méi Persounen ënnerschriwwe goufen, un d’ëffentlech Autoritéiten adresséieren.
+Jede Person hat das Recht, von einer oder mehreren Personen unterzeichnete Anträge an die öffentlichen Behörden zu richten.
 
-D’ëffentlech Autoritéite si verflicht, bannent engem räsonabelen Delai op d’schrëftlech Ufroe vun den Demandeuren ze äntweren.
+Die öffentlichen Behörden sind verpflichtet, innerhalb einer angemessenen Frist auf die schriftlichen Anträge der Antragsteller zu antworten.
 
 ##### **Art. 30.**
 
-All Persoun huet d’Recht op d’Onverletzlechkeet vun hire Kommunikatiounen.
+Jede Person hat das Recht auf die Unverletzlichkeit ihrer Kommunikation.
 
-Dëst Recht dierf net ageschränkt ginn, ausser an de Fäll, ënnert de Konditiounen a mat de Kontrollen, déi vum Gesetz virgesi sinn.
+Dieses Recht darf nur in den per Gesetz vorgesehenen Fällen und unter den vom Gesetz bestimmten Bedingungen und Kontrollen eingeschränkt werden.
 
 ##### **Art. 31.**
 
-Jiddereen huet d’Recht op Selbstbestëmmung, wat d’Informatiounen ugeet, an op de Schutz vu senge perséinlechen Daten. Dës Daten dierfen nëmmen zu den Zwecker an ënnert de Konditiounen, déi vum Gesetz festgeluecht sinn, traitéiert ginn.
+Jede Person hat das Recht auf informationelle Selbstbestimmung und auf den Schutz der sie betreffenden personenbezogenen Daten. Diese Daten dürfen nur zu den gesetzlich festgelegten Zwecken und unter den gesetzlich festgelegten Bedingungen verarbeitet werden.
 
 ##### **Art. 32.**
 
-D’Recht op Asyl ass garantéiert ënnert de Konditiounen, déi d’Gesetz virgesäit.
+Das Recht auf Asyl wird unter den gesetzlich festgelegten Bedingungen garantiert.
 
 ##### **Art. 33.**
 
 (1)
 
-All Persoun huet d’Recht op Bildung.
+Jeder Mensch hat das Recht auf Bildung.
 
 (2)
 
-De Staat organiséiert den Enseignement a garantéiert den Zougang derzou.
+Der Staat organisiert den Unterricht und garantiert den Zugang dazu.
 
-D’Dauer vun der Schoulflicht gëtt vum Gesetz festgeluecht.
+Die Dauer der Schulpflicht wird gesetzlich festgelegt.
 
-Den ëffentlechen Enseignement am Fondamental an am Secondaire ass gratis.
+Der öffentliche Fundamental- und Sekundarschulunterricht ist kostenlos.
 
 (3)
 
-D’Fräiheet vum Enseignement gëtt ausgeüübt am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.
+Die Freiheit der Bildung wird im Einklang mit den Werten einer demokratischen Gesellschaft ausgeübt, die auf den Grund- und Freiheitsrechten beruht.
 
-D’staatlech Interventioun am privaten Enseignement gëtt vum Gesetz gereegelt.
+Der Eingriff des Staates in das private Bildungswesen wird per Gesetz geregelt.
 
 (4)
 
-All Persoun ass fräi, zu Lëtzebuerg oder am Ausland ze studéieren an ze wielen, wéi eng Universitéite si besicht. D’Konditioune vun der Unerkennung vun den Diplomer gi vum Gesetz bestëmmt.
+Jedem steht es frei, seine Studien in Luxemburg oder im Ausland zu absolvieren und Universitäten seiner Wahl zu besuchen. Die Bedingungen für die Anerkennung von Diplomen werden per Gesetz festgelegt.
 
 ##### **Art. 34.**
 
-D’Sozialversécherung, de Schutz vun der Gesondheet an d’Rechter vun de Leit op der Aarbecht ginn, wat d’Prinzippien ugeet, vum Gesetz gereegelt.
+Die Grundsätze der sozialen Sicherheit, des Gesundheitsschutzes und der Rechte der Arbeitnehmer werden gesetzlich geregelt.
 
 ##### **Art. 35.**
 
-D’Fräiheet vun Handel an Industrie an d’fräit Ausübe vu liberale Professiounen a vun der landwirtschaftlecher Aktivitéit si garantéiert, ënner Virbehalt vun de Restriktiounen, déi d’Gesetz festleet.
+Die Ausübung der Handels- und Gewerbefreiheit sowie der freien Berufe und der landwirtschaftlichen Tätigkeit wird unter den per Gesetz bestimmten Einschränkungen gewährleistet.
 
 ##### **Art. 36.**
 
-Kengem ka säi Besëtz ewechgeholl ginn, ausser am allgemengen Notzen a géint eng fair Indemnisatioun, an de Fäll an op d’Aart a Weis, déi vum Gesetz festgeluecht sinn.
+Niemandem darf sein Eigentum entzogen werden, außer zum allgemeinen Nutzen und gegen eine gerechte Entschädigung gemäß den gesetzlich vorgesehenen Fällen und Verfahren.
 
 ##### **Art. 37.**
 
-All Restriktioun vum Exercice vun de Grondrechter muss vum Gesetz virgesi sinn an hire weesentlechen Inhalt respektéieren. Am Respekt vum Prinzip vun der Proportionalitéit si Restriktiounen nëmme méiglech, wa si an enger demokratescher Gesellschaft néideg sinn an effektiv den allgemengen Interessi oder de Schutz vun aneren hire Rechter a Fräiheeten zum Zil hunn.
+Jede Einschränkung der Ausübung von öffentlichen Freiheiten muss gesetzlich vorgesehen sein und deren wesentlichen Inhalt respektieren. Unter Beachtung des Grundsatzes der Verhältnismäßigkeit dürfen Einschränkungen nur vorgenommen werden, wenn sie in einer demokratischen Gesellschaft notwendig sind und tatsächlich Zielen des Gemeinwohls oder der Notwendigkeit des Schutzes der Rechte und Freiheiten anderer entsprechen.
 
-### **Sektioun 4.** *Staatsziler mat Verfassungsrang*
+### **Abschnitt 4.** *Staatsziele mit Verfassungsrang*
 
 ##### **Art. 38.**
 
-De Staat garantéiert d’Recht op Aarbecht a këmmert sech drëm, dass et ausgeüübt ka ginn.
+Der Staat garantiert das Recht auf Arbeit und sorgt dafür, dass die Ausübung dieses Rechts sichergestellt ist.
 
 ##### **Art. 39.**
 
-De Staat fërdert de Sozialdialog.
+Der Staat fördert den Sozialdialog.
 
 ##### **Art. 40.**
 
-De Staat suergt derfir, datt jidderee mënschewierdeg ka liewen an eng gëeegent Wunneng huet.
+Der Staat sorgt dafür, dass jeder Mensch in Würde leben kann und über eine angemessene Wohnung verfügt.
 
 ##### **Art. 41.**
 
-De Staat garantéiert de Schutz vun der mënschlecher a natierlecher Ëmwelt, andeems e sech fir en dauerhaft Gläichgewiicht asetzt tëschent dem Erhalt vun der Natur, virun allem hirer Kapazitéit, sech ze erneieren, an dem Erhalt vun der Biodiversitéit, an der Satisfaktioun vun de Besoine vun den haitegen an den nächste Generatiounen.
+Der Staat garantiert den Schutz der menschlichen und natürlichen Umwelt und setzt sich ein für die Herstellung eines dauerhaften Gleichgewichts zwischen der Erhaltung der Natur, insbesondere ihrer Erneuerungsfähigkeit, und dem Schutz der biologischen Vielfalt sowie der Befriedigung der Bedürfnisse heutiger und künftiger Generationen.
 
-De Staat verflicht sech, de Klimawandel ze bekämpfen a sech fir d’Klimaneutralitéit anzesetzen.
+Der Staat verpflichtet sich, den Klimawandel zu bekämpfen und sich für Klimaneutralität einzusetzen.
 
-Hien erkennt un, dass d’Déieren netmënschlech Liewewiese sinn, déi eng Sensibilitéit hunn, a suergt dofir, dass hiert Wuelbefanne geschützt gëtt.
+Er erkennt Tiere als empfindungsfähige, nicht menschliche Lebewesen an und sorgt für den Schutz ihres Wohlergehens.
 
 ##### **Art. 42.**
 
-De Staat garantéiert den Zougang zur Kultur an d’Recht op kulturell Selbstverwierklechung.
+Der Staat garantiert den Zugang zur Kultur und das Recht auf kulturelle Entfaltung.
 
-De Staat fërdert de Schutz vum kulturelle Patrimoine.
+Der Staat fördert den Schutz des kulturellen Erbes.
 
 ##### **Art. 43.**
 
-De Staat fërdert d’Fräiheet vun der wëssenschaftlecher Fuerschung am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.
+Der Staat fördert die Freiheit der wissenschaftlichen Forschung, die im Einklang mit den Werten einer demokratischen Gesellschaft steht und auf Grundrechten und öffentlichen Freiheiten beruht.
 
-## **Kapitel III.** *De Grand-Duc*
+## **Kapitel III.** *Der Großherzog*
 
-### **Sektioun 1.** *D’Funktioun vum Staatschef*
+### **Abschnitt 1.** *Das Amt des Staatsoberhaupts*
 
 ##### **Art. 44.**
 
 (1)
 
-De Grand-Duc ass de Staatschef.
+Der Großherzog ist das Staatsoberhaupt.
 
-Hie representéiert de Staat. Hien ass d’Symbol vun der nationaler Eenheet an Onofhängegkeet.
+Er repräsentiert den Staat. Er ist das Symbol der Einheit und Unabhängigkeit der Nation.
 
-Seng Persoun ass onverletzlech.
+Seine Person ist unantastbar.
 
 (2)
 
-De Grand-Duc huet nëmmen déi Attributiounen, déi d’Verfassung an d’Gesetzer him iwwerdroen.
+Der Großherzog hat keine anderen Befugnisse als die, die ihm von der Verfassung und den Gesetzen zuerkannt werden.
 
-Hien exercéiert zesumme mat der Regierung d’Exekutivgewalt.
+Er übt gemeinsam mit der Regierung die Exekutivgewalt aus.
 
 (3)
 
-Dem Grand-Duc seng Bestëmmunge musse vun engem Member vun der Regierung, deen d’Verantwortung derfir iwwerhëlt, géigegezeechent ginn.
+Die Verfügungen des Großherzogs müssen von einem Mitglied der Regierung gegengezeichnet werden, das die Verantwortung für sie übernimmt.
 
 ##### **Art. 45.**
 
 (1)
 
-De Grand-Duc hëlt d’Reglementer an d’Arrêtéen, déi fir d’Vollstreckung vun de Gesetzer néideg sinn.
+Der Großherzog erlässt die für die Ausführung der Gesetze erforderlichen Verordnungen und Beschlüsse.
 
 (2)
 
-An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kann de Grand-Duc Reglementer an Arrêtéen nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung huelen, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet.
+In den Angelegenheiten, die die Verfassung dem Gesetz vorbehält, kann der Großherzog Verordnungen und Beschlüsse nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterworfen sind, festlegt.
 
 (3)
 
-Hien hëlt d’Reglementer, déi néideg sinn, fir d’Rechtsakte vun der europäescher Unioun ze applizéieren.
+Er erlässt die für die Anwendung der Rechtsakte der Europäischen Union notwendigen Verordnungen.
 
-An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung geholl ginn, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet. Geméiss de Konditiounen, déi d’Gesetz festleet, kënnen dës Reglementer vu besteeënde Gesetzesbestëmmungen ofwäichen oder se ersetzen.
+In Angelegenheiten, die nach der Verfassung dem Gesetz vorbehalten sind, können diese Verordnungen nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, in der das Ziel der Durchführungsmaßnahmen und gegebenenfalls die Bedingungen, denen sie unterworfen sind, festgelegt werden. Unter den gesetzlich bestimmten Bedingungen können Verordnungen Ausnahmen zu bestehenden gesetzlichen Bestimmungen festlegen oder diese ersetzen.
 
 ##### **Art. 46.**
 
-De Grand-Duc schléisst d’Traitéen a kënnegt se. D’Traitéen – ausser, een Traité enthält eng spezifesch Klausel dozou – an hir Kënnegung wierken eréischt, nodeems si vun engem Gesetz autoriséiert goufen. Si gi publizéiert an de Formen, déi fir d’Publikatioun vun de Gesetzer virgesi sinn.
+Der Großherzog schließt völkerrechtliche Verträge und kündigt sie auf. Die völkerrechtlichen Verträge und, sofern keine spezielle Klausel in einem Vertrag vorgesehen ist, ihre Kündigung werden erst durch gesetzliche Billigung wirksam. Sie werden in der für die Veröffentlichung von Gesetzen vorgesehenen Form veröffentlicht.
 
-De Grand-Duc mécht d’Reglementer an d’Arrêtéen, déi fir d’Ausféierung vun den Traitéen néideg sinn, an de Formen, déi d’Ausféierungsmoossname vun de Gesetzer reegelen, a mat der Wierkung, déi dës Moossnamen hunn, ouni Schued fir d’Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.
+Der Großherzog erlässt die für die Ausführung der völkerrechtlichen Verträge notwendigen Verordnungen und Beschlüsse in den Formen, die für die Maßnahmen zur Durchführung der Gesetze gelten, und mit den Wirkungen, die an diese Maßnahmen geknüpft sind, unbeschadet der Angelegenheiten, die die Verfassung dem Gesetz vorbehält.
 
 ##### **Art. 47.**
 
-Am Ausübe vun der Muecht, déi den Artikel 45, Paragraf 1 an 3, Alinea 1 an den Artikel 46, Alinea 2 vun der Verfassung him ginn, kann de Grand-Duc an de Fäll, déi hie festleet, d’Membere vu senger Regierung beoptragen, Ausféierungsbestëmmungen ze huelen.
+Bei der Ausführung der ihm durch die Artikel 45, Absatz 1 und 3, Unterabsatz 1 sowie Artikel 46, Absatz 2 verliehenen Befugnisse kann der Großherzog in von ihm bestimmten Fällen die Mitglieder seiner Regierung beauftragen, Ausführungsbestimmungen zu ergreifen.
 
 ##### **Art. 48.**
 
-Am Fall vun enger internationaler Kris, vu reelle Menacë fir d’vital Interessie vun der ganzer Populatioun oder engem Deel dovun oder vun enger imminenter Gefor wéinst schwéiere Beanträchtegunge vun der ëffentlecher Sécherheet kann de Grand-Duc an alle Beräicher per Reglement Moossnamen ergräifen, nodeems hien d’Drénglechkeet vun der Situatioun festgestallt huet, déi doraus resultéiert, dass et der Chamber onméiglech ass, matzäit ze legiferéieren.
+Im Falle einer internationalen Krise, einer realen Bedrohung der lebenswichtigen Interessen der gesamten Bevölkerung oder eines Teils davon oder einer drohenden Gefahr aufgrund von schweren Angriffen auf die öffentliche Sicherheit kann der Großherzog nach Feststellung der Dringlichkeit, die sich daraus ergibt, dass die Abgeordnetenkammer nicht in der Lage ist, innerhalb angemessener Fristen Gesetze zu erlassen, in sämtlichen Bereichen Maßnahmen mit Verordnungscharakter ergreifen.
 
-Dës Moossname kënne vu Gesetzer, déi existéieren, ofwäichen. Si mussen néideg, adequat a proportional zum Zil, dat verfollegt gëtt, a konform mat der Verfassung an den internationalen Traitéë sinn.
+Diese Maßnahmen können von bestehenden Gesetzen abweichen. Sie müssen notwendig, angemessen und im Hinblick auf ihren Zweck verhältnismäßig sein, sowie mit der Verfassung und den internationalen Verträgen im Einklang stehen.
 
-D’Verlängerung vum Krisenzoustand iwwer zéng Deeg eraus kann nëmmen duerch een oder méi Gesetzer entscheet ginn, déi d’Dauer dovu festleeën, woubäi d’Verlängerung eng maximal Dauer vun dräi Méint net iwwerschreiden dierf. Dës Gesetzer gi mat enger qualifizéierter Majoritéit vun zwee Drëttel vun de Stëmme vun den Deputéierte gestëmmt. D’Ofstëmmung iwwer Procuratioun ass dobäi net erlaabt.
+Die Verlängerung des Krisenzustands über zehn Tage hinaus kann nur durch ein oder mehrere Gesetze beschlossen werden, in denen die Dauer festgelegt wird, ohne dass die Verlängerung eine Höchstdauer von drei Monaten überschreiten darf. Diese Gesetze werden mit einer qualifizierten Zweidrittelmehrheit der Stimmen der Abgeordneten verabschiedet, wobei eine Stimmabgabe per Vollmacht nicht zulässig ist.
 
-All Reglementer, déi opgrond vun dëser Bestëmmung geholl ginn, verléieren hir Wierkung spéitstens, wann de Krisenzoustand eriwwer ass.
+Alle aufgrund der vorliegenden Bestimmung erlassenen Verordnungen treten spätestens mit der Beendigung des Krisenzustands außer Kraft.
 
-D’Chamber ka wärend dem Krisenzoustand net opgeléist ginn.
+Die Abgeordnetenkammer darf während des Krisenzustands nicht aufgelöst werden.
 
 ##### **Art. 49.**
 
-De Grand-Duc promulgéiert d’Gesetzer bannent dräi Méint, nodeems se vun der Chamber ugeholl goufen.
+Der Großherzog verkündet die Gesetze innerhalb von drei Monaten nach ihrer Verabschiedung durch die Abgeordnetenkammer.
 
 ##### **Art. 50.**
 
 (1)
 
-De Grand-Duc ernennt a Konformitéit mam Gesetz fir ëffentlech Aarbechtsplazen, ausser, d’Gesetz gesäit dat anescht vir.
+Der Großherzog ernennt die öffentlichen Bediensteten gemäß dem Gesetz, außer in den gesetzlich festgelegten Ausnahmen.
 
 (2)
 
-Eng vum Staat bezuelten Aarbechtsplaz kann nëmmen opgrond vun engem Gesetz geschafe ginn.
+Eine vom Staat besoldete Stelle kann nur aufgrund eines Gesetzes geschaffen werden.
 
 (3)
 
-De Statut vun de Staatsbeamte gëtt vum Gesetz festgeluecht.
+Er erlässt die für die Anwendung der Rechtsakte der Europäischen Union notwendigen Verordnungen.
+
+Das Statut der Staatsbeamten wird per Gesetz bestimmt.
 
 ##### **Art. 51.**
 
-De Grand-Duc huet d’Recht, d’Strofen, déi vun de Geriichter gesprach goufen, an de Konditiounen, déi d’Gesetz festleet, opzehiewen oder erofzesetzen.
+Der Großherzog hat unter den gesetzlich bestimmten Bedingungen das Recht, die von den Gerichten verhängten Strafen ganz zu erlassen oder zu mildern.
 
 ##### **Art. 52.**
 
-De Grand-Duc huet d’Recht, Adelstitelen un d’Membere vun der groussherzoglecher Famill ze verginn, ouni awer jeemools Privileegien domat ze verbannen.
+Der Großherzog hat das Recht, den Mitgliedern der großherzoglichen Familie Adelstitel zu verleihen, ohne jemals ein Privileg daran knüpfen zu können.
 
 ##### **Art. 53.**
 
 (1)
 
-De Grand-Duc dréit den Titel vum Kommandant vun der Arméi. Dëse Kommando gëtt ënner der Verantwortung vun der Regierung ausgeüübt.
+Der Großherzog trägt den Titel des Befehlshabers der Armee. Diese Befehlsgewalt wird unter der Verantwortung der Regierung ausgeübt.
 
 (2)
 
-De Grand-Duc iwwergëtt zivil a militäresch Uerden am Respekt vum Gesetz.
+Der Großherzog verleiht zivile und militärische Orden unter Beachtung der Gesetze.
 
 ##### **Art. 54.**
 
-De Grand-Duc, de fréiere Staatschef, den Ierfgroussherzog, de Regent an de Lieutenant-Representant kréien eng järlech Dotatioun aus dem Staatsbudget. D’Elementer an de Montant dovunner gi vum Gesetz festgeluecht.
+Der Großherzog, das ehemalige Staatsoberhaupt, der Erbgroßherzog, der Regent und der Stellvertreter erhalten aus dem Staatshaushalt eine jährliche Dotation, deren Bestandteile und Höhe per Gesetz festgesetzt werden.
 
-De Grand-Duc definéiert an organiséiert seng Verwaltung, déi d’Rechtsperséinlechkeet huet, a berécksiichtegt dobäi den ëffentlechen Interessi.
+Der Großherzog bestimmt und organisiert unter Berücksichtigung des öffentlichen Interesses seine Verwaltung, die Rechtspersönlichkeit besitzt.
 
 ##### **Art. 55.**
 
-De groussherzogleche Palais an der Stad Lëtzebuerg an d’Schlass Bierg sinn dem Grand-Duc als Residenz virbehalen.
+Der großherzogliche Palast in Luxemburg und das Schloss Berg sind der Wohnung des Großherzogs vorbehalten.
 
-### **Sektioun 2.** *D’constitutionnell Monarchie*
+### **Abschnitt 2.** *Die konstitutionelle Monarchie*
 
 ##### **Art. 56.**
 
 (1)
 
-D’Funktioun vum Staatschef ass verierflech ënnert den direkte Nokomme vu Senger Kinneklecher Altesse Adolphe, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, an der Reiefolleg vun der Éischtgebuert an no der Reegel vun der Vertriedung. Nëmme Kanner, déi an engem Bestietnis gebuer goufen, kënnen d’Nofolleg untrieden.
+Das Amt des Staatsoberhaupts ist in der direkten Nachkommenschaft Seiner Königlichen Hoheit Adolphe, Großherzog von Luxemburg, Herzog von Nassau, in der Reihenfolge der Primogenitur und der Repräsentation erblich. Nur eheliche Kinder haben Anspruch auf die Thronfolge.
 
 (2)
 
-D’Persoun, déi zur Nofolleg berechtegt ass, kann dorop verzichten. Dëse Verzicht huet d’Form vun engem schrëftlechen Akt, deen net ka widderruff ginn an deem seng Konsequenzen nëmmen den Auteur betreffen.
+Ein Thronfolger kann auf den Thron verzichten. Dieser Verzicht erfolgt in Form einer schriftlichen Urkunde, die unwiderruflich ist und deren Wirkungen nur für den Verfasser gelten.
 
-Wann aussergewéinlech Ëmstänn dat verlaangen, kann d’Chamber eng oder méi Persounen duerch e Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, vun der Trounfolleg ausschléissen.
+Wenn außergewöhnliche Umstände es erfordern, kann die Abgeordnetenkammer eine oder mehrere Personen durch ein mit qualifizierter Mehrheit verabschiedetes Gesetz von der Thronfolge ausschließen.
 
 (3)
 
-Wann et keen Nofollger gëtt, versammelt sech d’Chamber spéitstens drësseg Deeg nom Doud oder der Ofdankung vum Grand-Duc, fir en neie Staatschef ze designéieren. D’Entscheedung gëtt mat der qualifizéierter Majoritéit ugeholl.
+Wenn es keinen Thronfolger gibt, tritt die Abgeordnetenkammer spätestens innerhalb von dreißig Tagen nach dem Tod oder der Abdankung des Großherzogs zusammen, um ein neues Staatsoberhaupt zu ernennen. Der Beschluss wird mit qualifizierter Mehrheit gefasst.
 
 (4)
 
-Dem Grand-Duc seng Ofdankung muss d’Form vun engem schrëftlechen Akt hunn, deen net ka widderruff ginn.
+Die Abdankung des Großherzogs bedarf der Form eines schriftlichen Aktes, der unwiderruflich ist.
 
 ##### **Art. 57.**
 
 (1)
 
-De Grand-Duc ass Staatschef vun deem Moment un, wou hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“
+Der Großherzog übt das Amt des Staatsoberhaupts ab dem Zeitpunkt aus, an dem er folgenden Eid vor der Abgeordnetenkammer geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Zuständigkeiten treu zu erfüllen.“
 
 (2)
 
-Den Eed gëtt spéitstens den zéngten Dag nom Doud, der Ofdankung oder der Designatioun vum Grand-Duc ënnert de Konditioune vum Artikel 56, Paragraf 3 ofgeluecht.
+Der Eid wird spätestens am zehnten Tag nach dem Tod, der Abdankung oder der Ernennung des Großherzogs unter den Bedingungen des Artikel 56, Absatz 3 geleistet.
 
 (3)
 
-De Refus, den Eed ofzeleeën, bedeit de Verzicht op d’Funktioun vu Staatschef.
+Die Weigerung, den Eid zu leisten, beinhaltet den Verzicht auf das Amt des Staatsoberhaupts.
 
 ##### **Art. 58.**
 
-De Grand-Duc ka sech vun enger Persoun vertriede loossen, déi d’Konditioune vum Artikel 56, Paragraf 1 erfëllt an déi den Titel „Lieutenant-Representant vum Grand-Duc“ dréit.
+Der Großherzog kann sich von einer Person vertreten lassen, die die Bedingungen von Artikel 56, Absatz 1 erfüllt und den Titel „Stellvertreter des Großherzogs“ trägt.
 
-De Lieutenant-Representant vum Grand-Duc iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“
+Der Stellvertreter des Großherzogs tritt sein Amt erst an, nachdem er vor der Abgeordnetenkammer folgenden Eid geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Befugnisse treu zu erfüllen.“
 
 ##### **Art. 59.**
 
-Wa beim Grand-Duc sengem Doud oder um Datum vu senger Ofdankung säin Nofollger mannerjäreg ass, versammelt sech d’Chamber bannent zéng Deeg, fir d’Regence op Propositioun vun der Regierung ze reegelen.
+Ist der Thronfolger am Todestag des Großherzogs oder am Tag seiner Abdankung minderjährig, tritt die Abgeordnetenkammer binnen zehn Tagen zusammen, um auf Vorschlag der Regierung die Regentschaft zu besetzen.
 
-Wann et dem Grand-Duc onméiglech ass, seng constitutionnell Attributiounen zäitweileg ze erfëllen oder den Eed ofzeleeën, deen den Artikel 57 virgesäit, informéiert d’Regierung d’Chamber doriwwer. D’Chamber versammelt sech bannent zéng Deeg, fir dës Onméiglechkeet festzestellen an eng Regence anzesetzen.
+Ist es dem Großherzog vorübergehend nicht möglich, seine verfassungsrechtlichen Befugnisse zu erfüllen oder den in Artikel 57 vorgesehenen Eid zu leisten, setzt die Regierung die Abgeordnetenkammer davon in Kenntnis, welche innerhalb von zehn Tagen zusammentritt, um dieses Unvermögen festzustellen und die Regentschaft zu besetzen.
 
-D’Regence kann nëmmen enger eenzeler Persoun uvertraut ginn, déi groussjäreg muss sinn an zum Persounekrees, deen am Artikel 56, Paragraf 1 genannt gëtt, gehéiere muss.
+Die Regentschaft kann nur an eine einzige Person übertragen werden, die volljährig sein und zu den in Artikel 56, Absatz 1 genannten Personen zählen muss.
 
-De Regent iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“
+Der Regent tritt sein Amt erst an, nachdem er vor der Abgeordnetenkammer folgenden Eid geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Befugnisse treu zu erfüllen.“
 
-D’Regence hält op, wann den Nofollger groussjäreg gëtt oder wann déi zäitweilleg Onméiglechkett vum Grand-Duc, seng constitutionnell Attributiounen ze erfëllen, eriwwer ass.
+Die Regentschaft endet mit der Volljährigkeit des Thronfolgers oder dem Ende des vorübergehenden Unvermögens des Großherzogs, seine verfassungsrechtlichen Befugnisse zu erfüllen.
 
-D’Regierung informéiert d’Chamber doriwwer, déi bannent zéng Deeg zesummekënnt, fir der Regence en Enn ze setzen.
+Die Regierung setzt die Abgeordnetenkammer davon in Kenntnis, welche innerhalb von zehn Tagen zusammentritt, um die Regentschaft zu beenden.
 
 ##### **Art. 60.**
 
-Wann de Grand-Duc seng constitutionnell Attributiounen net erfëllt, entscheet d’Chamber, op Ufro vun der Regierung an nodeems den Avis vum Staatsrot gehéiert gouf, mat der qualifizéierter Majoritéit, datt een dovun ausgoe muss, datt de Grand-Duc ofgedankt huet.
+Wenn der Großherzog seine in der Verfassung übertragenen Befugnisse nicht erfüllt, entscheidet die Abgeordnetenkammer, auf Antrag der Regierung nach Anhörung des Staatsrats, mit qualifizierter Mehrheit, dass davon auszugehen ist, dass der Großherzog abgedankt hat.
 
 ##### **Art. 61.**
 
-Vum Grand-Duc sengem Doud, senger Ofdankung oder der Feststellung un, datt et him net méiglech ass, seng constitutionnell Attributiounen ze erfëllen, bis datt säin Nofollger den Eed ofleet, gëtt d’Funktioun vu Staatschef vun der Regierung ausgeüübt. Dat ass och de Fall, wann de Regent stierft oder demissionéiert.
+Nach dem Tod des Großherzogs, seiner Abdankung oder der Feststellung seines Unvermögens, seine verfassungsrechtlichen Befugnisse zu erfüllen, wird das Amt des Staatsoberhaupts bis zur Leistung des Eides des Thronfolgers von der Regierung ausgeübt. Das Gleiche gilt im Falle des Todes oder des Rücktritts des Regenten.
 
-## **Kapitel IV.** *D’Chamber vun den Deputéierten*
+## **Kapitel IV.** *Die Abgeordnetenkammer*
 
-### **Sektioun 1.** *D’Vertriedung vum Land*
+### **Abschnitt 1.** *Die Vertretung des Landes*
 
 ##### **Art. 62.**
 
-D’Chamber vertrëtt d’Land. Si exercéiert d’legislativ Gewalt. Si kontrolléiert d’Aktioun vun der Regierung.
+Die Abgeordnetenkammer repräsentiert das Land. Sie übt die gesetzgebende Gewalt aus. Sie kontrolliert das Handeln der Regierung.
 
-D’Deputéiert stëmmen ouni Récksproch mat hiren Optraggeber of an dierfen nëmmen d’Allgemengwuel a Betruecht zéien.
+Die Abgeordneten stimmen ausschließlich im Interesse des Gemeinwohls ab, ohne Rücksprache mit ihren Bestellern zu halten.
 
 ##### **Art. 63.**
 
 (1)
 
-D’Chamber besteet aus siechzeg Deputéierten.
+Die Abgeordnetenkammer setzt sich aus sechzig Abgeordneten zusammen.
 
 (2)
 
-D’Deputéiert gi fir fënnef Joer gewielt.
+Die Abgeordneten werden für fünf Jahre gewählt.
 
 (3)
 
-D’Wal ass direkt. D’Deputéiert ginn opgrond vum allgemenge Walrecht, op Lëschten, no de Reegele vun der proportionaler Vertriedung an nom Prinzip vum klengste Walquotient gewielt.
+Die Wahl ist direkt. Sie erfolgt gemäß dem allgemeinen Wahlrecht, per Listenwahl, nach den Regeln der verhältnismäßigen Vertretung und dem Grundsatz des kleinsten Wahlquotienten.
 
-D’Wal ass obligatoresch a geheim. Hir Modalitéite gi vum Gesetz gereegelt.
+Es besteht Wahlpflicht. Die Wahlen sind geheim. Die Modalitäten werden per Gesetz geregelt.
 
 (4)
 
-D’Land ass a véier Walbezierker agedeelt:
+Das Land ist in vier Wahlbezirke eingeteilt:
 
-1. de Süde mat de Kantonen Esch-Uelzecht a Capellen;
-2. den Zentrum mat de Kantone Lëtzebuerg a Miersch;
-3. den Norde mat de Kantonen Dikrech, Réiden, Wolz, Clierf a Veianen;
-4. den Oste mat de Kantone Gréiwemaacher, Réimech an Iechternach.
+1. Süden mit den Kantonen Esch-an-der-Alzette und Capellen;
+2. Zentrum mit den Kantonen Luxemburg und Mersch;
+3. Norden mit den Kantonen Diekirch, Redingen, Wiltz, Clerf und Vianden;
+4. Osten mit den Kantonen Grevenmacher, Remich und Echternach.
 
-E Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, leet d’Zuel vun den Deputéierte fest, déi an all Bezierk gewielt ginn.
+Ein mit qualifizierter Mehrheit verabschiedetes Gesetz legt die Zahl der in jedem Wahlbezirk zu wählenden Abgeordneten fest.
 
 ##### **Art. 64.**
 
 (1)
 
-Fir wielen ze kënnen, muss ee Lëtzebuerger an uechtzéng Joer al sinn.
+Um Wähler zu sein, muss man Luxemburger und achtzehn Jahre alt sein.
 
 (2)
 
-Fir kënne gewielt ze ginn, muss een ausserdeem säi Wunnsëtz am Grand-Duché vu Lëtzebuerg hunn.
+Um wählbar zu sein, muss man zudem seinen Wohnsitz im Großherzogtum Luxemburg haben.
 
 (3)
 
-An de Fäll, déi d’Gesetz virgesäit, kënnen d’Geriichter de Verloscht vum aktiven a vum passive Walrecht ausspriechen.
+Die Gerichte können in den gesetzlich vorgesehenen Fällen den Ausschluss vom aktiven und passiven Wahlrecht aussprechen.
 
 ##### **Art. 65.**
 
-D’Mandat vum Deputéierten ass onvereenbar mat de Funktioune vum Regierungsmember a vum Member vum Staatsrot.
+Das Abgeordnetenmandat ist unvereinbar mit dem Mandat als Mitglied der Regierung und des Staatsrats.
 
-Déi selwecht Onvereenbarkeet gëllt fir ëffentlech Aarbechtsplazen a Funktiounen, déi vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, festgeluecht ginn. Si kann op aner politesch Mandater ausgebreet ginn, déi vun engem Gesetz, dat mat der qualifizéiert Majoritéit ugeholl gëtt, festgeluecht ginn.
+Die gleiche Unvereinbarkeit gilt für die öffentlichen Stellen und Funktionen, die durch ein mit qualifizierter Mehrheit verabschiedetes Gesetz zu bestimmen sind. Sie kann auf andere politische Mandate ausgedehnt werden, die durch ein mit qualifizierter Mehrheit verabschiedetes Gesetz zu bestimmen sind.
 
 ##### **Art. 66.**
 
 (1)
 
-Den Deputéierten, dee vun der Regierung fir eng bezuelten Aarbechtsplaz ernannt gëtt, déi hien akzeptéiert, verléiert direkt säi Sëtz a ka seng Funktioun nëmmen opgrond vun neie Walen nees iwwerhuelen.
+Ein Abgeordneter, der von der Regierung für eine besoldete Stelle ernannt wird und diese annimmt, nimmt mit sofortiger Wirkung nicht mehr an den Sitzungen des Parlaments teil und nimmt sein Mandat nur aufgrund einer neuen Wahl wieder auf.
 
 (2)
 
-Den Deputéierten, deen zum Regierungsmember ernannt gëtt, verléiert säi Mandat als Deputéierten. Hie gëtt nees op der Lëscht, op där hie gewielt gouf, als Suppleant an der Reiefolleg vun de Stëmmen, déi hie kritt huet, ageschriwwen.
+Ein Abgeordneter, der Regierungsmitglied wird, verliert sein Abgeordnetenmandat. Er wird auf der Liste, von der er als Nachrücker gewählt wurde, in der Reihenfolge der erhaltenen Stimmen wieder eingetragen.
 
-Dat selwecht gëllt fir e Suppleant, deen zum Regierungsmember ernannt gouf a wärend sengem Regierungsmandat op e Mandat als Deputéierten, dat em zoustoung, verzicht huet.
+Das Gleiche gilt für Nachrücker, die nach Regierungseintritt auf das Abgeordnetenmandat verzichten müssen, das ihnen während der Ausübung dieses Mandates zufällt.
 
-Wann e puer Persounen erëm op d’Lëscht vun de Suppleanten ageschriwwe ginn, geschitt dat an der Reiefolleg vun der Stëmmenunzuel, déi si bei de Wale kritt hunn.
+Gibt es mehrere berechtigte Nachrücker, erfolgt die Wiedereintragung in der Reihenfolge der bei der Wahl erhaltenen Stimmen.
 
 (3)
 
-D’Persounen, déi vun enger Incompatibilitéit betraff sinn, kënnen tëschent dem Deputéiertemandat an hirer Plaz oder Aktivitéit wielen.
+Personen, bei denen eine Unvereinbarkeit vorliegt, haben das Recht, zwischen dem Abgeordnetenmandat und ihrer Stelle oder ihrer Tätigkeit zu wählen.
 
-### **Sektioun 2.** *D’Organisatioun an de Fonctionnement vun der Chamber*
+### **Abschnitt 2.** *Die Organisation und Arbeitsweise der Abgeordnetenkammer*
 
 ##### **Art. 67.**
 
 (1)
 
-D’Chamber versammelt sech vum Recht hier den drëtten Dënschdeg no de Wale an enger ëffentlecher Sitzung, fir d’Pouvoire vun hire Memberen ze iwwerpréiwen.
+Die Abgeordnetenkammer tritt von Rechts wegen am dritten Dienstag nach dem Wahltag in öffentlicher Sitzung zusammen, um die Berechtigung ihrer Mitglieder zu überprüfen.
 
 (2)
 
-D’Chamber ass zoustänneg fir festzestellen, datt ee vun hire Memberen de Statut vum Deputéierte verluer huet, well wärend dem Mandat en Ineligibilitéitsgrond am Sënn vum Artikel 64 oder eng Onvereenbarkeet am Sënn vum Artikel 65 opgetrueden ass.
+Es obliegt der Abgeordnetenkammer festzustellen, dass eines ihrer Mitglieder die Abgeordneteneigenschaft während des Mandats verloren hat aufgrund einer Nichtwählbarkeit im Sinne von Artikel 64 oder weil eine Unvereinbarkeit im Sinne von Artikel 65 eingetreten ist.
 
 (3)
 
-E Recours géint dës Entscheedunge ka virum Verfassungsgeriicht agereecht ginn. D’Modalitéite vun dësem Recours gi vum Gesetz gereegelt.
+Gegen eine solche Entscheidung kann vor dem Verfassungsgerichtshof Einspruch eingelegt werden. Die Modalitäten dieses Einspruchs werden per Gesetz geregelt.
 
 (4)
 
-Wa si hir Funktioun untrieden, leeën d’Deputéiert an enger ëffentlecher Sëtzung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“
+Beim Antritt ihres Mandats leisten die Abgeordneten in öffentlicher Sitzung folgenden Eid: „Ich schwöre, die Verfassung und die Gesetze zu achten und mein Mandat mit Integrität, Gewissenhaftigkeit und Unparteilichkeit auszuüben.“
 
 (5)
 
-Mat der ëffentlecher Versammlung vun der Chamber no de Walen, am Sënn vum Paragraf 1, ginn d’Funktioune vun den Deputéierten, déi aus de viregte Walen ervirgaange sinn, zu Enn.
+Mit dem ersten Zusammentreten der aus der Wahl hervorgehenden Abgeordnetenkammer in öffentlicher Sitzung im Sinne von Absatz 1 scheidet die aus der vorhergehenden Wahl hervorgegangene Abgeordnetenkammer aus dem Amt aus.
 
 ##### **Art. 68.**
 
-D’Chamber bestëmmt duerch hiert Reglement d’Aart a Weis, no där si hir Attributiounen ausüübt, souwéi hir materiell a finanziell Organisatioun, dorënner och de Statut vun hire Beamten.
+Die Abgeordnetenkammer bestimmt durch ihre Geschäftsordnung die Art und Weise, wie sie ihre Aufgaben ausführt, sowie ihre praktische und finanzielle Organisation, einschließlich dem Statut ihrer Beamten.
 
-D’Chamberreglement leet d’Ausféierungsbestëmmunge vun de Gesetzer fest, déi hir Organisatioun betreffen.
+Die Geschäftsordnung der Abgeordnetenkammer regelt die Ausführungsbestimmungen der Gesetze, die ihre Organisation betreffen.
 
 ##### **Art. 69.**
 
-D’Chamber ernennt hire President an hir Vizepresidenten a stellt hire Büro zesummen.
+Die Abgeordnetenkammer ernennt ihren Präsidenten und ihre Vize-Präsidenten und setzt ihr Präsidium zusammen.
 
 ##### **Art. 70.**
 
-D’Sëtzunge vun der Chamber sinn ëffentlech, ausser an de Fäll, déi hiert Reglement virgesäit.
+Die Sitzungen der Abgeordnetenkammer sind öffentlich, außer der durch ihre Geschäftsordnung zu bestimmenden Ausnahmen.
 
 ##### **Art. 71.**
 
-D’Chamber kann nëmmen Entscheedungen, Resolutiounen a Motiounen unhuelen, wann d’Majoritéit vun den Deputéierte versammelt ass.
+Die Abgeordnetenkammer ist nur beschluss-, entschließungs- und antragsfähig, wenn die Mehrheit der Abgeordneten anwesend ist.
 
-All Entscheedung, all Resolutioun an all Motioun gëtt mat der Majoritéit vun de Stëmmen ugeholl. D’Enthalunge ginn net fir d’Berechnung vun der Majoritéit a Betruecht gezunn. D’Ofstëmmung iwwer Procuratioun ass erlaabt. Keen Deputéierten dierf méi wéi eng Procuratioun kréien.
+Jeder Beschluss, jede Resolution und jeder Antrag wird mit der Stimmenmehrheit angenommen. Enthaltungen werden bei der Berechnung der Mehrheit nicht berücksichtigt. Die Stimmabgabe durch Vollmacht ist zulässig. Niemandem darf jedoch mehr als eine Vollmacht erteilt werden.
 
-D’Decisiounen an d’Resolutiounen, fir déi d’Verfassung d’qualifizéiert Majoritéit verlaangt, musse mat op d’mannst zwee Drëttel vun de Stëmme vun den Deputéierten ugeholl ginn. D’Ofstëmmung iwwer Procuratioun ass an dëse Fäll net erlaabt.
+Beschlüsse und Resolutionen, deren Annahme aufgrund der Verfassung der qualifizierten Mehrheit bedarf, müssen mit mindestens zwei Drittel der Abgeordnetenstimmen gefasst werden, wobei die Stimmabgabe per Vollmacht nicht zulässig ist.
 
 ##### **Art. 72.**
 
-D’Chamberreglement leet d’Majoritéitsreegele fir d’Ernennung vu Persounen op Mandater oder Funktiounen fest, fir déi d’Chamber zoustänneg ass.
+Die Geschäftsordnung der Abgeordnetenkammer bestimmt die Mehrheitsregelungen für die Ernennung von Personen zu Mandaten oder Funktionen, die von der Abgeordnetenkammer vorgenommen wird.
 
 ##### **Art. 73.**
 
-De Grand-Duc kann nëmme virgezunne Wale fixéieren, wann d’Chamber mat der Majoritéit vun hire Memberen entweeder der Regierung e Vertrauensvote refuséiert oder e Mësstrauensvote géint d’Regierung unhëlt.
+Der Großherzog kann vorgezogene Neuwahlen nur ansetzen, wenn die Abgeordnetenkammer mit der Mehrheit ihrer Mitglieder der Regierung das Vertrauen entzieht oder einen Misstrauensantrag gegenüber der Regierung annimmt.
 
-Wann d’Regierung demissionéiert an d’Chamber mat der absoluter Majoritéit vun hire Memberen den Accord dozou gëtt, fixéiert de Grand-Duc virgezunne Walen.
+Im Falle eines Rücktritts der Regierung setzt der Großherzog nach Zustimmung der Abgeordnetenkammer, die mit der absoluten Mehrheit der Abgeordneten erteilt wird, vorgezogene Neuwahlen an.
 
-D’Neiwale gi spéitstens bannent dräi Méint ofgehalen.
+Die Neuwahlen finden spätestens innerhalb von drei Monaten statt.
 
-De Grand-Duc ka keng virgezunne Wale wärend dem Krisenzoustand fixéieren.
+Während des Ausnahmezustands kann der Großherzog keine vorgezogenen Neuwahlen ansetzen.
 
 ##### **Art. 74.**
 
-D’Regierungsmemberen hunn Zougang zu der Chamber a musse gehéiert ginn, wa si dat verlaangen.
+Die Regierungsmitglieder haben Zutritt zur Abgeordnetenkammer. Auf ihre Anfrage hin muss ihnen das Wort erteilt werden.
 
 ##### **Art. 75.**
 
-Fir d’Missiounen ze erfëllen, déi am Artikel 62 virgesi sinn, kann d’Chamber:
+Zwecks Ausübung der in Artikel 62 vorgesehenen Aufgaben kann die Abgeordnetenkammer:
 
-1. d’Präsenz vun engem oder méi Membere vun der Regierung verlaangen;
-2. Froen an Interpellatiounen un d’Regierung adresséieren, op déi d’Regierung verflicht ass ze äntweren;
-3. all méiglech Informatiounen an Dokumenter vun der Regierung verlaangen;
-4. e Vertrauens- oder e Mësstrauensvote géintiwwer der Regierung unhuelen.
+1. die Anwesenheit eines oder mehrerer Regierungsmitglieder verlangen;
+2. Fragen und Anfragen an die Regierung stellen, zu deren Beantwortung die Regierung verpflichtet ist;
+3. von der Regierung sämtliche Informationen und Dokumente verlangen;
+4. gegenüber der Regierung einen Vertrauens- oder Misstrauensantrag annehmen.
 
-D’Ausübe vun dëse Prerogativë gëtt am Chamberreglement gereegelt.
+Die Ausübung dieser Befugnisse wird durch die Geschäftsordnung der Abgeordnetenkammer geregelt.
 
-### **Sektioun 3.** *D’Unhuele vun de Gesetzer*
+### **Abschnitt 3.** *Die Verabschiedung der Gesetze*
 
 ##### **Art. 76.**
 
-D’Regierung deposéiert Gesetzesprojete bei der Chamber.
+Die Regierung bringt Gesetzesentwürfe in die Abgeordnetenkammer ein.
 
 ##### **Art. 77.**
 
-All Deputéierten huet d’Recht, fir der Chamber Gesetzespropositiounen ze ënnerbreeden.
+Jeder Abgeordnete ist berechtigt, der Abgeordnetenkammer Gesetzesvorschläge vorzulegen.
 
 ##### **Art. 78.**
 
 (1)
 
-D’Gesetzer gi vun der Chamber ugeholl.
+Die Gesetze werden von der Abgeordnetenkammer verabschiedet.
 
 (2)
 
-D’Chamber kann d’Gesetzesprojeten an d’Gesetzespropositiounen änneren.
+Die Abgeordnetenkammer kann Änderungen an den Gesetzesentwürfen und Gesetzesvorschlägen vornehmen.
 
 (3)
 
-D’Chamber stëmmt iwwer dat ganzt Gesetz of. Et gëtt ëmmer mam Numm ofgestëmmt.
+Die Abgeordnetenkammer stimmt über das gesamte Gesetz ab. Die Stimmabgabe ist immer namentlich.
 
-Wann op d’mannst fënnef Deputéiert dat verlaangen, ka virun der Ofstëmmung iwwer dat ganzt Gesetz eng Ofstëmmung iwwer een oder méi Artikele vum Gesetz gemaach ginn.
+Auf Antrag von mindestens fünf Abgeordneten kann vor der Abstimmung über das gesamte Gesetz eine Abstimmung über einen oder mehrere Artikel des Gesetzes vorgenommen werden.
 
 (4)
 
-Iwwer all Gesetz gëtt eng zweete Kéier ofgestëmmt, ausser wann d’Chamber mam Accord vum Staatsrot, deen dofir an enger ëffentlecher Sëtzung zësummekënnt, de Contraire entscheet. Et gëtt en Intervalle vu mindestens dräi Méint tëschent den zwou Ofstëmmungen.
+Alle Gesetze werden einer zweiten Abstimmung unterzogen, es sei denn, die Abgeordnetenkammer beschließt mit Zustimmung des Staatsrats, der in öffentlicher Sitzung tagt, etwas anderes. Zwischen den beiden Abstimmungen liegt ein Zeitraum von mindestens drei Monaten.
 
-### **Sektioun 4.** *Déi aner Attributioune vun der Chamber*
+### **Abschnitt 4.** *Die weiteren Zuständigkeiten der Abgeordnetenkammer*
 
 ##### **Art. 79.**
 
-Zu de motivéierte Propositiounen, déi op eng Gesetzgebung hinzilen an déi vu mindestens honnertfënnefanzwanzeg Wieler presentéiert ginn a vu mindestens zwielefdausendfënnefhonnert Wieler ënnerstëtzt ginn, hëllt d’Chamber an enger ëffentlecher Sitzung Stellung.
+Die Abgeordnetenkammer entscheidet in öffentlicher Sitzung über die von hundertfünfundzwanzig Wählern eingebrachten und von mindestens zwölftausendfünfhundert Wählern unterstützten begründeten Vorschlägen zur Einleitung eines Gesetzgebungsverfahrens.
 
-D’Gesetz reegelt d’Ausübe vun dësem legislativen Initiativrecht.
+Die Ausübung dieses Rechts auf Gesetzesinitiative wird gesetzlich geregelt.
 
 ##### **Art. 80.**
 
-D’Chamber kann decidéieren, e Referendum duerchzeféieren an de Fäll, ënnert de Konditiounen a mat der Wierkung, déi an engem Gesetz festzeleeë sinn.
+Die Abgeordnetenkammer kann beschließen, ein Referendum in den Fällen, zu den Bedingungen und mit den Auswirkungen durchzuführen, die durch das Gesetz festgelegt werden müssen.
 
 ##### **Art. 81.**
 
-D’Chamber huet d’Recht, Enquêten duerchzeféieren. D’Gesetz reegelt d’Ausübe vun dësem Recht.
+Die Abgeordnetenkammer hat das Untersuchungsrecht. Die Ausübung dieses Rechts wird per Gesetz bestimmt.
 
-Eng Enquêtëkommissioun muss agesat ginn, wa mindestens een Drëttel vun den Deputéierten dat verlaangt.
+Ein Untersuchungsausschuss muss auf Antrag von mindestens einem Drittel der Abgeordneten eingesetzt werden.
 
 ##### **Art. 82.**
 
-D’Chamber hëlt d’Petitiounen entgéint, déi an der Form, déi hiert Reglement virgesäit, u si adresséiert ginn.
+Die Abgeordnetenkammer nimmt die in der von ihrer Geschäftsordnung vorgeschriebenen Form an sie gerichteten Petitionen entgegen.
 
 ##### **Art. 83.**
 
-Den Ombudsman gëtt vum Grand-Duc ernannt, op Virschlag vun der Chamber, dee mat der qualifizéierter Majoritéit, déi am Artikel 71, Alinea 3 virgesinn ass, gestëmmt gëtt.
+Der Ombudsman wird vom Großherzog auf Vorschlag der Abgeordnetenkammer ernannt, welcher mit der in Artikel 71, Absatz 3 vorgesehenen qualifizierten Mehrheit angenommen wurde.
 
-Dem Ombudsman seng Kompetenzen, d’Reegele vu sengem Fonctionnement an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.
+Die Befugnisse und die Regeln für die Arbeitsweise des Ombudsman und die Beziehungen zur Abgeordnetenkammer werden per Gesetz bestimmt.
 
-### **Sektioun 5.** *De Statut vum Deputéierten*
+### **Abschnitt 5.** *Das Statut des Abgeordneten*
 
 ##### **Art. 84.**
 
-En Deputéierte ka wéinst de Meenungen an de Votten, déi hien am Ausübe vu senge Funktiounen ausdréckt, weeder zivilrechtlech nach strofrechtlech belaangt ginn.
+Kein Abgeordneter kann wegen der von ihm in Ausübung seines Amtes geäußerten Meinungen oder wegen seiner Abstimmungen zivil- oder strafrechtlich belangt werden.
 
 ##### **Art. 85.**
 
-Mat Ausnam vun de Fäll, déi am Artikel 84 ernimmt sinn, kënnen d’Deputéiert strofrechtlech verfollegt ginn.
+Mit Ausnahme der in Artikel 84 vorgesehenen Fälle können Abgeordnete strafrechtlich verfolgt werden.
 
-Allerdéngs kann en Deputéierten nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet, ausser wann en op frëscher Dot ertappt gëtt.
+Die Verhaftung eines Abgeordneten bedarf jedoch, außer im Fall der Ergreifung auf frischer Tat, der vorherigen Genehmigung der Abgeordnetenkammer.
 
-D’Autorisatioun vun der Chamber ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint en Deputéierte gesprach ginn.
+Für den Vollzug der gegen einen Abgeordneten verhängten Strafen – selbst der Freiheitsstrafen – bedarf es keiner Genehmigung der Abgeordnetenkammer.
 
 ##### **Art. 86.**
 
-D’Deputéiert kréien eng Indemnitéit, där hire Montant an hir Konditioune vum Gesetz festgeluecht ginn.
+Die Abgeordneten beziehen eine Entschädigung, deren Höhe und Bedingungen per Gesetz festgelegt wird.
 
-## **Kapitel V.** *D’Regierung*
+## **Kapitel V.** *Die Regierung*
 
 #### **Art. 87.**
 
-D’Regierung dirigéiert d’allgemeng Politik vum Staat.
+Die Regierung leitet die allgemeine Politik des Staates.
 
 #### **Art. 88.**
 
-D’Regierung besteet aus engem Premierminister, engem oder méi Vizepremierministeren, Ministeren an eventuell engem oder méi delegéierte Ministeren a Staatssekretären.
+Die Regierung besteht aus einem Premierminister, einem oder mehreren Vizepremierministern, Ministern und gegebenenfalls einem oder mehreren beigeordneten Ministern und Staatssekretären.
 
-De Grand-Duc ernennt de Premierminister an déi aner Membere vun der Regierung a beendegt hir Funktiounen.
+Der Großherzog ernennt den Premierminister und die anderen Regierungsmitglieder und entbindet sie von ihren Aufgaben.
 
-Ier si hir Funktioun untrieden, leeën d’Membere vun der Regierung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“
+Vor Amtsantritt leisten die Regierungsmitglieder folgenden Eid: „Ich schwöre, die Verfassung und die Gesetze zu achten und mein Amt mit Integrität, Gewissenhaftigkeit und Unparteilichkeit auszuüben.“
 
 #### **Art. 89.**
 
-D’Funktioun vum Regierungsmember ass net vereenbar mat der Funktioun vum Deputéierten, Member vum Staatsrot, Member vun engem Gemengerot an och net mat ëffentlechen Ämter oder enger berufflecher Aktivitéit.
+Das Amt des Regierungsmitglieds ist unvereinbar mit dem Mandat des Abgeordneten, des Mitglieds des Staatsrats, des Mitglieds eines Gemeinderats sowie mit öffentlichen Ämtern oder einer beruflichen Tätigkeit.
 
 #### **Art. 90.**
 
-D’Membere vun der Regierung exercéieren hir Attributiounen entweeder am Regierungsrot oder eenzel fir déi Ugeleeënheeten, fir déi si zoustänneg sinn.
+Die Regierungsmitglieder üben ihre Befugnisse entweder im Regierungsrat oder, für die Angelegenheiten, mit denen sie betraut sind, einzeln aus.
 
 #### **Art. 91.**
 
-De Premierminister koordinéiert d’Regierungsgeschäfter a suergt fir en eenheetlecht Virgoe vun der Regierung.
+Der Premierminister koordiniert die Arbeit der Regierung und achtet auf ein einheitliches Vorgehen der Regierung.
 
 #### **Art. 92.**
 
-D’Regierung leet hir Organisatioun an hire Fonctionnement an engem interne Reglement fest, dat duerch e groussherzoglechen Arrêté approuvéiert gëtt, mat Ausnam vun de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.
+Die Regierung regelt ihre Organisation und Arbeitsweise, mit Ausnahme der nach der Verfassung dem Gesetz vorbehaltenen Angelegenheiten, durch eine per großherzoglichen Beschluss genehmigte Geschäftsordnung.
 
 #### **Art. 93.**
 
 (1)
 
-De Premierminister engagéiert d’Verantwortung vun der neier Regierung, wann en der Chamber de Regierungsprogramm presentéiert.
+Anlässlich der Vorstellung des Regierungsprogramms vor der Abgeordnetenkammer stellt der Premierminister die Vertrauensfrage für die neue Regierung.
 
 (2)
 
-Am Zesummenhang mat enger Ofstëmmung iwwert e Gesetzesentworf oder mat enger Regierungserklärung kann de Premierminister mam Accord vum Regierungsrot d’Verantwortung vun der Regierung géintiwwer der Chamber engagéieren.
+Anlässlich einer Abstimmung über einen Gesetzentwurf oder einer Regierungserklärung kann der Premierminister nach Beratung des Regierungsrats gegenüber der Abgeordnetenkammer die Vertrauensfrage stellen.
 
 (3)
 
-D’Chamber kann d’Verantwortung vun der Regierung duerch e Mësstrauensvote engagéieren.
+Die Abgeordnetenkammer kann die Regierung durch einen Misstrauensantrag zur Verantwortung ziehen.
 
 (4)
 
-Wann d’Chamber der Regierung hiert Vertraue refuséiert, presentéiert de Premierminister dem Grand-Duc d’Demissioun vun der Regierung.
+Wenn die Abgeordnetenkammer der Regierung das Vertrauen entzieht, reicht der Premierminister beim Großherzog den Rücktritt der Regierung ein.
 
 (5)
 
-Déi demissionär Regierung dirigéiert weider d’allgemeng Politik vum Staat.
+Die scheidende Regierung führt die allgemeinen politischen Geschäfte weiter.
 
 #### **Art. 94.**
 
 (1)
 
-D’Regierung an hir Membere si virun der Chamber verantwortlech.
+Die Regierung und ihre Mitglieder sind gegenüber der Abgeordnetenkammer verantwortlich.
 
 (2)
 
-D’Membere vun der Regierung kënne wéinst Meenungen, déi si am Kader vun hire Funktiounen äusseren, weeder zivil- nach strofrechtlech verantwortlech gemaach ginn.
+Die Regierungsmitglieder können wegen ihrer Äußerungen im Rahmen der Ausübung ihres Amtes weder zivilrechtlich noch strafrechtlich zur Verantwortung gezogen werden.
 
 (3)
 
-D’Membere vun der Regierung si strofrechtlech verantwortlech fir d’Handlungen, déi si am Ausübe vun hirer Funktioun beginn.
+Die Regierungsmitglieder sind für die von ihnen in Ausübung ihres Amtes begangenen Taten strafrechtlich verantwortlich.
 
-Nëmmen de Parquet kann eng Poursuite géint e Member vun der Regierung wéinst dësen Handlungen aleeden an dirigéieren, och nom Enn vun deem senger Funktioun.
+Nur die Staatsanwaltschaft kann gegen ein Mitglied der Regierung wegen dieser Handlungen ein Verfahren einleiten und führen, auch wenn es aus dem Amt ausgeschieden ist.
 
 (4)
 
-Ausser wann en op frëscher Dot ertappt gëtt, kann e Member vun der Regierung nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet. Dës Autorisatioun ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint e Member vun der Regierung gesprach ginn.
+Außer bei Ergreifung auf frischer Tat bedarf die Verhaftung eines Regierungsmitglieds der vorherigen Genehmigung der Abgeordnetenkammer. Für den Vollzug der gegen ein Regierungsmitglied verkündeten Strafen – selbst der Freiheitsstrafen – bedarf es dieser Genehmigung nicht.
 
-## **Kapitel VI.** *De Staatsrot*
+## **Kapitel VI.** *Der Staatsrat*
 
 #### **Art. 95.**
 
-De Staatsrot gëtt säin Avis zu de Gesetzesprojeten, de Gesetzespropositiounen an den Ännerungen of, déi dorunner kënne proposéiert ginn.
+Der Staatsrat gibt seine Stellungnahme zu den Gesetzesentwürfen und Gesetzesvorschlägen sowie zu den etwaigen vorgeschlagenen Änderungen ab.
 
-Wann de Staatsrot der Meenung ass, datt e Gesetzesprojet oder eng Gesetzespropositioun Bestëmmungen enthält, déi net konform si mat der Verfassung, mat internationalen Traitéen, bei deenen de Grand-Duché vu Lëtzebuerg Vertragsstaat ass, mat Rechtsakte vun der Europäescher Unioun oder mat den allgemenge Rechtsprinzippien, dann erwäänt hien dat a sengem Avis.
+Ist er der Ansicht, dass ein Gesetzesentwurf oder Gesetzesvorschlag Bestimmungen enthält, die gegen die Verfassung, gegen internationale Verträge, bei denen das Großherzogtum Luxemburg Vertragspartner ist, gegen Rechtsakte der Europäischen Union oder gegen die allgemeinen Rechtsgrundsätze verstoßen, erwähnt er dies in seiner Stellungnahme.
 
-Wann d’Chamber Artikel fir Artikel iwwer e Gesetzesprojet oder eng Gesetzespropositioun ofgestëmmt huet, ouni datt de Staatsrot säin Avis ofginn huet, kann d’Chamber iwwer d’komplett Gesetz ofstëmmen, wa si en Delai vu mindestens dräi Méint anhält, nodeems si de Staatsrot informéiert huet.
+Hat die Abgeordnetenkammer Artikel für Artikel über einen Gesetzesentwurf oder Gesetzesvorschlag abgestimmt, ohne dass der Staatsrat sein Gutachten abgegeben hat, kann die Abgeordnetenkammer unter Einhaltung einer Frist von mindestens drei Monaten über das gesamte Gesetz abstimmen, nachdem sie den Staatsrat davon in Kenntnis gesetzt hat.
 
-Ausser an dréngende Fäll, déi an de Limitte vum Gesetz vum Grand-Duc appreciéiert ginn, gëtt de Staatsrot säin Avis iwwer Projete vu Reglementer of, déi fir d’Ausféierung vun de Gesetzer an den internationalen Traitéen a fir d’Applikatioun vun de Rechtsakte vun der Europäescher Unioun ugeholl ginn. Wann hien der Meenung ass, datt de Projet vum Reglement net konform mat de méi héije Rechtsnormen ass, da geet en a sengem Avis dorop an.
+Außer in Notfällen, die der Großherzog im Rahmen der bestehenden Gesetzgebung zu beurteilen hat, gibt der Staatsrat sein Gutachten zu zu erlassenden Verordnungen zu den Ausführungsbestimmungen der Gesetze und internationalen Verträgen und zwecks Anwendung der Rechtsakte der Europäischen Union ab. Ist er der Ansicht, dass der Verordnungsentwurf nicht mit den übergeordneten Rechtsnormen übereinstimmt, erwähnt er dies in seinem Gutachten.
 
-D’Chamber an d’Regierung kënnen dem Staatsrot all aner Froen no deene vum Gesetz festgeluechte Modalitéite virleeën.
+Die Abgeordnetenkammer und die Regierung können dem Staatsrat alle anderen Fragen unter den gesetzlich bestimmten Modalitäten vorlegen.
 
 #### **Art. 96.**
 
-D’Organisatioun vum Staatsrot an d’Aart a Weis, seng Kompetenzen auszeüben, gi vum Gesetz gereegelt.
+Die Organisation des Staatsrats und die Art und Weise der Ausübung seiner Aufgaben werden gesetzlich geregelt.
 
-## **Kapitel VII.** *D’Justiz*
+## **Kapitel VII.** *Die Justiz*
 
-### **Sektioun 1.** *D’Organisatioun vun der Justiz*
+### **Abschnitt 1.** *Die Organisation der Justiz*
 
 ##### **Art. 97.**
 
-D’Justizgewalt gëtt vun de Geriichtshäff an de Geriichter exercéiert.
+Die rechtsprechende Gewalt wird von den Gerichtshöfen und Gerichten ausgeübt.
 
-D’Urteeler ginn am Numm vum Grand-Duc vollstreckt.
+Die Urteile und Gerichtsentscheidungen werden im Namen des Großherzogs vollstreckt.
 
 ##### **Art. 98.**
 
-D’uerdentlech Geriichter sinn allgemeng zoustänneg an alle Beräicher, mat Ausnam vun deenen Attributiounen, déi d’Verfassung un aner Geriichter mat enger spezifescher Zoustännegkeet iwwerdréit.
+Die ordentlichen Gerichte haben in allen Bereichen allgemeine Zuständigkeit, außer in den Bereichen, die die Verfassung Gerichten mit besonderer Zuständigkeit überträgt.
 
 ##### **Art. 99.**
 
-D’Verwaltungsgeriichter si fir administrativ a steierlech Streidegkeeten zoustänneg an de Fäll an ënnert de Konditiounen, déi d’Gesetz festleet.
+In Streitfällen, die das Verwaltungs- und das Steuerrecht betreffen, sind, in den gesetzlich bestimmten Fällen und Bedingungen, die Gerichte der Verwaltungsgerichtbarkeit zuständig.
 
 ##### **Art. 100.**
 
-D’Organisatioun vun de Geriichter am Beräich vun der Sozialversécherung gëtt vum Gesetz gereegelt.
+Die für die Sozialversicherung zuständige Gerichtsbarkeit wird gesetzlich geregelt.
 
 ##### **Art. 101.**
 
-D’Gesetz reegelt d’Organisatioun vun de Geriichter an d’Recoursen.
+Die Organisation der Gerichte sowie die Rechtsbehelfe werden gesetzlich geregelt.
 
 ##### **Art. 102.**
 
-D’Geriichter applizéieren d’Gesetzer an d’Reglementer nëmmen esouwäit, ewéi si konform mat de méi héije Rechtsnorme sinn.
+Die Gerichte wenden die Gesetze und Verordnungen nur insoweit an, als sie mit den übergeordneten Rechtsnormen übereinstimmen.
 
 ##### **Art. 103.**
 
-D’Annulatioun vun engem Reglement duerch e Verwaltungsgeriicht huet en absolutte Charakter vun deem Dag un, wou d’Urteel definitiv ass, ausser wann d’Geriicht, dat d’Annulatioun ausgeschwat huet, en aneren Delai ordonéiert.
+Die Aufhebung einer Verordnung durch ein Verwaltungsgericht erlangt ab dem Tag, an dem die Gerichtsentscheidung oder das Urteil rechtskräftig wird, Rechtswirksamkeit, es sei denn, das Gericht, das die Aufhebung ausgesprochen hat, ordnet eine andere Frist an.
 
-D’Geriicht, dat d’Annulatioun ausschwätzt, leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Reglement hat, kënnen a Fro gestallt ginn.
+Das Gericht, das die Rechtsunwirksamkeit ausspricht, bestimmt die Bedingungen und Grenzen, unter denen die Wirkungen, die die Verordnung hervorgerufen hat, wieder in Frage gestellt werden können.
 
-### **Sektioun 2.** *De Statut vun de Magistraten*
+### **Abschnitt 2.** *Das Statut der Richter und Staatsanwälte*
 
 ##### **Art. 104.**
 
 (1)
 
-D’Riichtere sinn onofhängeg am Ausübe vun hire riichterleche Funktiounen.
+Die Richter sind bei der Ausübung ihres richterlichen Amtes unabhängig.
 
 (2)
 
-De Parquet exercéiert d’ëffentlech Uklo a fuerdert d’Uwendung vum Gesetz. Am Ausübe vun individuelle Recherchen a Poursuitten ass en onofhängeg; der Regierung hiert Recht, strofpolitesch Direktiven ze ginn, bleift dobäi intakt.
+Die Staatsanwaltschaft übernimmt die Anklageerhebung und verlangt die Durchsetzung des Rechts. Sie ist bei der Ermittlung und Verfolgung von Straftaten unabhängig, unbeschadet des Rechts der Regierung, Richtlinien für die Strafrechtspolitik zu erlassen.
 
 ##### **Art. 105.**
 
 (1)
 
-De Statut vun de Riichteren a vun de Membere vum Parquet gëtt vum Gesetz festgeluecht.
+Das Statut der Richter und der Staatsanwälte wird gesetzlich festgelegt.
 
 (2)
 
-D’Riichtere kënnen net ofgesat ginn.
+Die Richter können nicht abgesetzt werden.
 
 (3)
 
-D’Gesetz reegelt d’Pensionéierung vun de Riichteren a vun de Membere vum Parquet aus Alters-, Gesondheets- oder Déngschtonfäegkeetsgrënn.
+Die Versetzung in den Ruhestand der Richter und Staatsanwälte aus Alters-, Krankheits- und Dienstuntauglichkeitsgründen werden gesetzlich geregelt.
 
 ##### **Art. 106.**
 
-Ier si hir Funktioun untrieden, leeën d’Riichteren an d’Membere vum Parquet den Eed of, deen d’Gesetz virgesäit.
+Vor Amtsantritt leisten die Richter und die Staatsanwälte den vom Gesetz vorgesehenen Eid.
 
-### **Sektioun 3.** *Den nationale Justizrot*
+### **Abschnitt 3.** *Der Nationale Justizrat*
 
 ##### **Art. 107.**
 
-Den nationale Justizrot suergt fir de gudde Fonctionnement vun der Justiz am Respekt vun hirer Onofhängegkeet.
+Der Nationale Justizrat wacht, unter Wahrung ihrer Unabhängigkeit, über das ordnungsgemäße Funktionieren der Justiz.
 
-D’Zesummestellung an d’Organisatioun vum nationale Justizrot gi vum Gesetz festgeluecht. Den nationale Justizrot muss majoritär aus Magistrate bestoen.
+Die Zusammensetzung und die Organisation des Nationalen Justizrats werden per Gesetz geregelt. Der Nationale Justizrat muss mehrheitlich aus Richtern und Staatsanwälten bestehen.
 
-De Grand-Duc ernennt d’Magistraten, déi vum nationale Justizrot proposéiert ginn, ënnert de Konditiounen, déi d’Gesetz virgesäit.
+Der Großherzog ernennt die vom Nationalen Justizrat vorgeschlagenen Richter und Staatsanwälte gemäß den gesetzlich geregelten Bedingungen.
 
-Dem Justizrot seng Attributiounen bei Disziplinarverfare géint Magistrate gi vum Gesetz festgeluecht.
+Die Zuständigkeiten des Nationalen Justizrats in Disziplinarverfahren gegen Richter und Staatsanwälte werden per Gesetz bestimmt.
 
-Dem nationale Justizrot seng aner Attributioune gi vum Gesetz festgeluecht, dat och d’Ausübungsmodalitéiten dovunner festleet.
+Die anderen Zuständigkeiten des Nationalen Justizrats werden per Gesetz festgelegt, das ebenfalls die Art ihrer Ausübung bestimmt.
 
-### **Sektioun 4.** *De Persounen hir Garantië viru Geriicht*
+### **Abschnitt 4.** *Die Garantien des Rechtsuchenden*
 
 ##### **Art. 108.**
 
-D’Verhandlunge virun de Geriichter sinn ëffentlech, ausser wann dës Ëffentlechkeet e Risiko fir d’Uerdnung oder d’Sitten duerstellt, woubäi d’Geriicht dëst an esou engem Fall an engem Urteel deklaréiert.
+Die Sitzungen der Gerichte sind öffentlich, es sei denn, diese Öffentlichkeit gefährdet die Ordnung oder die Sitten, wobei dies vom Gericht durch einen Gerichtsbeschluss entschieden wird.
 
 ##### **Art. 109.**
 
-All Urteel ass begrënnt. Et gëtt an enger ëffentlecher Sëtzung gesprach.
+Jedes Urteil wird begründet. Es wird in öffentlicher Sitzung verkündet.
 
 ##### **Art. 110.**
 
-D’Gesetz garantéiert d’Onparteilechkeet vun de Riichteren, de fairen a loyale Charakter an de raisonnabelen Delai vun de Prozeduren, de Respekt vum Contradictoire an d’Rechter vun der Defense.
+Gesetzlich garantiert sind die Unparteilichkeit der Richter, der faire und gerechte Charakter der Verfahren einschließlich angemessener Verfahrensfristen, die Wahrung des Grundsatzes des kontradiktorischen Verfahrens und der Verteidigungsrechte.
 
 ##### **Art. 111.**
 
-D’Bestëmmunge vun der Verfassung stinn den Obligatiounen, déi aus dem Statut vum Internationale Strofgeriichtshaff ervirginn, net am Wee.
+Die Bestimmungen der Verfassung stehen den Verpflichtungen, die sich aus dem Statut des Internationalen Strafgerichtshofs ergeben, nicht entgegen.
 
-Sektioun 5. – D’Verfassungsgeriicht
-
-### **Sektioun 5.** *D’Verfassungsgeriicht*
+### **Abschnitt 5.** *Der Verfassungsgerichtshof*
 
 ##### **Art. 112.**
 
 (1)
 
-D’Verfassungsgeriicht entscheet per Arrêt iwwer d’Konformitéit vun de Gesetzer mat der Verfassung.
+Der Verfassungsgerichtshof entscheidet durch Urteil über die Verfassungsmäßigkeit der Gesetze.
 
 (2)
 
-D’Verfassungsgeriicht ka prejudiciel no de Modalitéiten, déi d’Gesetz virgesäit, vun all Geriicht saiséiert ginn, fir iwwer d’Verfassungskonformitéit vun de Gesetzer, mat Ausnam vun de Gesetzer, déi Traitéen approuvéieren, ze entscheeden.
+Der Verfassungsgerichtshof kann in einem Vorabentscheidungsverfahren gemäß den per Gesetz zu bestimmenden Modalitäten von allen Gerichten hinsichtlich der Verfassungsmäßigkeit der Gesetze, mit Ausnahme der Gesetze zur Billigung von völkerrechtlichen Verträgen, befasst werden.
 
 (3)
 
-D’Verfassungsgeriicht reegelt d’Kompetenzkonflikter nom Verfaren, dat vum Gesetz bestëmmt gëtt.
+Der Verfassungsgerichtshof urteilt über Zuständigkeitskonflikte nach den gesetzlich festgelegten Verfahren.
 
 (4)
 
-Dem Verfassungsgeriicht seng Attributioune kënnen duerch e Gesetz, dat mat enger qualifizéierter Majoritéit vun op mannst zwee Drëttel vun de Stëmme vun de Membere vun der Chamber gestëmmt gëtt, erweidert ginn. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.
+Die Zuständigkeiten des Verfassungsgerichtshofs können durch ein Gesetz erweitert werden, das mit einer qualifizierten Mehrheit von mindestens zwei Dritteln der Stimmen der Mitglieder der Abgeordnetenkammer verabschiedet wurde, wobei die Stimmabgabe per Vollmacht nicht zulässig ist.
 
 (5)
 
-D’Verfassungsgeriicht besteet:
+Der Verfassungsgerichtshof besteht aus:
 
-1. aus néng effektive Memberen:
+1. neun ordentlichen Mitgliedern:
 											
-												dem President vum Ieweschte Geriichtshaff an dem President vum Verwaltungsgeriichtshaff;
-												zwee Riichtere vum Cassatiounshaff a fënnef Magistraten, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;
-2. siwe stellvertriedend Memberen, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;
+												dem Vorsitzenden des Obersten Gerichtshofs und dem Vorsitzenden des Verwaltungsgerichtshofs;
+												zwei Richtern am Kassationsgerichtshof und fünf vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannten Richtern;
+2. sieben stellvertretenden Mitgliedern, die vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannt werden.
 
 (6)
 
-D’Verfassungsgeriicht siegéiert an enger Chamber vu fënnef Memberen. Wann d’Verfassungsgeriicht der Meenung ass, dass eng Affär, mat där et saiséiert ass, besonnesch wichteg ass, da siegéiert et als Plenum mat néng Memberen.
+Der Verfassungsgerichtshof tagt in Kammern mit fünf Mitgliedern. Wenn der Verfassungsgerichtshof der Ansicht ist, dass eine Rechtssache, mit der er befasst ist, von besonderer Bedeutung ist, tagt er im Plenum mit neun Mitgliedern.
 
 (7)
 
-D’Organisatioun vum Verfassungsgeriicht an d’Aart a Weis, wéi et seng Kompetenzen ausüübt, gi vum Gesetz gereegelt.
+Die Organisation des Verfassungsgerichtshofs und die Art und Weise der Ausübung seiner Befugnisse werden per Gesetz geregelt.
 
 (8)
 
-Gesetzesbestëmmungen, déi duerch en Urteel vum Verfassungsgeriicht als verfassungswiddereg deklaréiert goufen, verléieren hir juristesch Wierkung den Dag no der gesetzlech virgeschriwwener Verëffentlechung vun dësem Urteel, ausser wann d’Verfassungsgeriicht en aneren Delai ordonéiert huet. D’Verfassungsgeriicht leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Bestëmmung hat, kënnen a Fro gestallt ginn.
+Die Bestimmungen der Gesetze, die durch ein Urteil des Verfassungsgerichtshofs für verfassungswidrig erklärt werden, verlieren ihre Rechtswirkung am Tag nach der Veröffentlichung des Urteils in der gesetzlich vorgesehen Form, es sei denn, der Verfassungsgerichtshof hat eine andere Frist angeordnet. Der Verfassungsgerichtshof legt die Bedingungen und Grenzen fest, unter denen die von der Bestimmung hervorgerufenen Wirkungen in Frage gestellt werden können.
 
-## **Kapitel VIII.** *Verschidde Bestëmmungen iwwer d’Staatsverwaltung*
+## **Kapitel VIII.** *Bestimmungen über die Staatsverwaltung*
 
-### **Sektioun 1.** *Déi allgemeng Verwaltungsreegelen*
+### **Abschnitt 1.** *Die allgemeinen Regeln der Verwaltung*
 
 ##### **Art. 113.**
 
-Kee Gesetz, kee Reglement a keen allgemenge Verwaltungsarrêté ass obligatoresch, ausser nodeems et an der Form, déi d’Gesetz festleet, verëffentlecht gouf.
+Gesetze, Verordnungen und allgemeine Verwaltungsbeschlüsse werden erst mit der Veröffentlichung in der gesetzlich bestimmten Form verbindlich.
 
 ##### **Art. 114.**
 
-D’Gesetz leet d’Konditiounen, d’Limitten an d’Modalitéite fest, ënnert deenen de Staat an déi aner ëffentlech-rechtlech juristesch Persoune fir Schied kënnen haftbar gemaach ginn, déi si verursaacht hunn oder déi hir Mandatairen oder Agenten am Ausübe vun hire Funktioune verursaacht hunn.
+Die Bedingungen und Grenzen sowie die Modalitäten für die Staatshaftung und die Haftung anderer öffentlich-rechtlicher juristischer Personen für Schäden, die sie oder ihre öffentlichen Mandatsträger und Bediensteten bei der Ausübung ihrer Funktionen verursacht haben, werden per Gesetz geregelt.
 
 ##### **Art. 115.**
 
-D’Organisatioun an d’Attributioune vun der Force publique gi vum Gesetz gereegelt.
+Die Ausübung der öffentlichen Gewalt und deren Befugnisse werden per Gesetz geregelt.
 
-All Deklaratioun iwwer de Krichszoustand an all Bedeelegung vun der Force publique un Operatiounen am Ausland erfuerderen d’Autorisatioun vun der Chamber no de Modalitéiten, déi d’Gesetz festleet.
+Jede Erklärung betreffend den Kriegszustand und jede Beteiligung der öffentlichen Gewalt an Operationen im Ausland bedürfen der Genehmigung der Abgeordnetenkammer entsprechend den per Gesetz festzulegenden Modalitäten.
 
-### **Sektioun 2.** *D’Finanzen*
+### **Abschnitt 2.** *Die Finanzen*
 
 ##### **Art. 116.**
 
 (1)
 
-All staatlech Steier, all Exemptioun oder Reduktioun vun de Steiere gi vum Gesetz festgeluecht.
+Jede staatliche Steuer sowie jede Befreiung oder Ermäßigung von der Besteuerung werden per Gesetz festgelegt.
 
 (2)
 
-D’Steieren zu Gonschte vum Staat ginn all Joer gestëmmt. D’Gesetzer, déi se festleeën, gëllen nëmme fir ee Joer, ausser si ginn erneiert.
+Über die Steuern zugunsten des Staates wird jährlich im Parlament abgestimmt. Die Gesetze, die sie festlegen, sind nur für ein Jahr gültig, wenn sie nicht erneuert werden.
 
 (3)
 
-Eng Contributioun ka vun de Bierger oder ëffentlechen Ariichtungen nëmmen a Form vun enger Steier zu Gonschte vum Staat oder enger Gemeng verlaangt ginn, ausser, d’Gesetz gesäit formell eng Ausnam vir.
+Außer in den per Gesetz formell geregelten Ausnahmen können von den Bürgern oder den öffentlichen Einrichtungen nur Abgaben verlangt werden, wenn es sich um Steuern zugunsten des Staates oder der Gemeinde handelt.
 
 ##### **Art. 117.**
 
 (1)
 
-All Prêt zu Laaschte vum Staat muss mat der Zoustëmmung vun der Chamber ofgeschloss ginn.
+Jede Anleihe zulasten des Staates bedarf der Zustimmung der Abgeordnetenkammer.
 
 (2)
 
-All Verkaf vu Grondeegentum oder beweegleche Gidder, déi dem Staat gehéieren, muss duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz kann allerdéngs eng Limitt festleeën, ënnert där eng speziell Autorisatioun vun der Chamber net néideg ass.
+Jede Veräußerung von unbeweglichem oder beweglichem Eigentum des Staates muss durch ein Sondergesetz genehmigt werden. Ein allgemeines Gesetz kann jedoch eine Grenze bestimmen, unterhalb derer eine Sondergenehmigung der Abgeordnetenkammer nicht erforderlich ist.
 
 (3)
 
-All Kaf vu gréisserem Grondeegentum oder gréissere beweegleche Gidder duerch de Staat, all Duerchféierung vun engem groussen Infrastrukturprojet oder enger grousser Konstruktioun zu Gonschte vum Staat an all grousst finanziellt Engagement vum Staat mussen duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz leet d’Grenzwäerter fest, vun deenen un dës Autorisatioun néideg ass, esouwéi d’Konditiounen an d’Modalitéite fir de Finanzement vun de Virbereedungsaarbechten.
+Jeder Erwerb durch den Staat von größerem unbeweglichem oder beweglichem Eigentum, jedes zugunsten des Staates durchgeführte große Infrastrukturprojekt oder bedeutende Bauprojekt sowie jede erhebliche finanzielle Verpflichtung des Staates müssen durch ein Sondergesetz genehmigt werden. Ein allgemeines Gesetz legt die Schwellenwerte fest, ab denen eine solche Genehmigung erforderlich ist, sowie die Bedingungen und Modalitäten für die Finanzierung der Vorbereitungsarbeiten.
 
 (4)
 
-All Charge, déi de Staatsbudget wärend méi wéi engem Exercice belaascht, muss duerch e speziellt Gesetz festgeluecht ginn.
+Jede den Staatshaushalt für länger als ein Geschäftsjahr belastende Ausgabe muss durch ein Sondergesetz beschlossen werden.
 
 (5)
 
-All Pensioun, all Waardegeld an all Gratifikatioun zu Laaschte vum Staat ginn duerch e Gesetz accordéiert.
+Jedes Ruhegehalt, jedes Wartegeld sowie jede Sondervergütung zulasten des Staates werden durch ein Gesetz bewilligt.
 
 ##### **Art. 118.**
 
-All Joer arrêtéiert d’Chamber d’Staatskonten duerch e Gesetz a stëmmt de Budget. All Recetten an Depensë vum Staat mussen an de Budget an an d’Konten agedroe ginn.
+Jedes Jahr erlässt die Abgeordnetenkammer das Haushaltsgesetz und verabschiedet den Staatshaushalt. Alle Einnahmen und Ausgaben des Staates müssen im Staatshaushalt und in den Staatskonten eingetragen sein.
 
 ##### **Art. 119.**
 
 (1)
 
-E Rechnungshaff ass zoustänneg fir d’Kontroll vun der Finanzgestioun vun den Organer, Administratiounen a Servicer vum Staat. D’Gesetz kann him aner Missioune fir d’Kontroll vun der Finanzgestioun mat ëffentleche Gelder uvertrauen.
+Der Rechnungshof ist mit der Kontrolle der Finanzverwaltung der Organe, Verwaltungen und Dienststellen des Staates beauftragt. Weitere Aufgaben im Bereich der Kontrolle der Verwaltung der öffentlichen Gelder können ihm per Gesetz übertragen werden.
 
 (2)
 
-De Rechnungshaff ënnerbreet der Chamber seng Kriticken a Recommandatiounen zu de Staatskonten.
+Der Rechnungshof übermittelt der Abgeordnetenkammer seine Beanstandungen und Empfehlungen zu den Staatskonten.
 
 (3)
 
-Dem Rechnungshaff seng Kompetenzen, seng Organisatioun esouwéi d’Modalitéite vu senger Kontroll an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.
+Die Zuständigkeiten und die Organisation des Rechnungshofs sowie die Modalitäten seiner Überwachungsmission und die Beziehungen zur Abgeordnetenkammer werden per Gesetz geregelt.
 
 (4)
 
-D’Membere vum Rechnungshaff gi vum Grand-Duc op Propositioun vun der Chamber ernannt.
+Die Mitglieder des Rechnungshofs werden durch den Großherzog auf Vorschlag der Abgeordnetenkammer ernannt.
 
-### **Sektioun 3.** *D’Relatiounen tëschent dem Staat an de Reliounsgemeinschaften*
+### **Abschnitt 3.** *Die Beziehungen zwischen dem Staat und den Glaubensgemeinschaften*
 
 ##### **Art. 120.**
 
-D’Kierchen an d’Reliounsgemeinschafte si vum Staat getrennt.
+Die Kirchen und Glaubensgemeinschaften sind vom Staat getrennt.
 
-D’Gesetz reegelt d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschaften.
+Die Beziehungen zwischen dem Staat und den Kirchen und Glaubensgemeinschaften werden gesetzlich geregelt.
 
-An de Limitten a Formen, déi d’Gesetz festleet, kënne Konventiounen, déi musse vun der Chamber approuvéiert ginn, d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschafte preziséieren.
+Innerhalb der gesetzlich bestimmten Grenzen und Formen können Vereinbarungen, die von der Abgeordnetenkammer zu verabschieden sind, die Beziehungen zwischen dem Staat und den Kirchen und Glaubensgemeinschaften näher bestimmen.
 
-## **Kapitel IX.** *D’Gemengen*
+## **Kapitel IX.** *Die Gemeinden*
 
 #### **Art. 121.**
 
 (1)
 
-D’Gemenge sinn autonom Kollektivitéiten op territorialer Basis, déi d’Rechtsperséinlechkeet hunn an duerch hir Organer hir eegen Interessien an hiert eegent Verméige verwalten.
+Die Gemeinden bilden eigenständige Körperschaften auf territorialer Grundlage, besitzen Rechtspersönlichkeit und verwalten durch ihre Organe ihre eigenen Interessen und ihr eigenes Vermögen.
 
 (2)
 
-D’Gesetz reegelt d’Zesummesetzung, d’Organisatioun an d’Kompetenze vun de Gemengenorganer.
+Die Zusammensetzung, die Organisation und die Kompetenzen der Gemeindeorgane werden gesetzlich bestimmt.
 
 #### **Art. 122.**
 
 (1)
 
-All Gemeng huet e Gemengerot, deen op Basis vum allgemenge Walrecht direkt an duerch Geheimwal gewielt gëtt.
+Jede Gemeinde hat einen Gemeinderat, der gemäß dem allgemeinen Wahlrecht direkt und in geheimer Wahl gewählt wird.
 
 (2)
 
-D’Gemeng gëtt ënnert der Autoritéit vun engem Schäfferot verwalt, deen aus dem Buergermeeschter an de Schäffe besteet. Si ginn innerhalb vun de Membere vum Gemengerot ernannt, an der Form, déi d’Gesetz virgesäit.
+Die Gemeinde wird von einem Kollegium bestehend aus dem Bürgermeister und den Schöffen, welche unter den Mitgliedern des Gemeinderats in der per Gesetz bestimmten Form gewählt werden, verwaltet.
 
 #### **Art. 123.**
 
 (1)
 
-D’Steieren zu Gonschte vun de Gemenge gi vum Gesetz festgeluecht.
+Die Steuern zugunsten der Gemeinden werden per Gesetz festgelegt.
 
-Am Respekt vu senge constitutionnellen a gesetzleche Kompetenze kann de Gemengerot d’Steieren an d’Taxe festleeën, déi néideg sinn, fir den Interessi vun der Gemeng kënnen ze realiséieren. D’Gemengesteieren an -taxe gi vun der Iwwerwaachungsautoritéit approuvéiert.
+Unter Einhaltung seiner verfassungsrechtlichen und gesetzlichen Befugnisse kann der Gemeinderat die zur Umsetzung des Interesses der Gemeinde erforderlichen Steuern und Gebühren festsetzen. Die Gemeindesteuern und -gebühren werden von der Aufsichtsbehörde genehmigt.
 
 (2)
 
-De Gemengerot erstellt all Joer de Gemengebudget a schléisst d’Konten of.
+Der Gemeinderat erstellt jährlich den Haushalt der Gemeinde und schließt die entsprechenden Haushaltskonten ab.
 
 (3)
 
-D’Gemengen hunn d’Recht op d’finanziell Ressourcen, fir d’Missiounen ze erfëllen, déi d’Gesetz hinnen uvertraut.
+Die Gemeinden haben ein Anrecht auf finanzielle Mittel zur Erfüllung der ihnen gesetzlich übertragenen Aufgaben.
 
 #### **Art. 124.**
 
-Ausser an dréngende Fäll hëlt de Gemengerot d’Gemengereglementer.
+Außer in Dringlichkeitsfällen erlässt der Gemeinderat die Gemeindeverordnungen.
 
-An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen d’Gemengereglementer nëmmen op Basis vun enger bestëmmter Gesetzesbestëmmung ugeholl ginn, déi d’Ziler vun den Ausféierungsmoossname an eventuell d’Konditioune festleet, deene si ënnerleien.
+Gemeindeverordnungen können in den Bereichen, die laut der Verfassung dem Gesetz vorbehalten sind, nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterliegen, festlegt.
 
-D’Gemengereglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.
+Die Gemeindeverordnungen müssen den in Anwendung von Artikel 45 verabschiedeten Gesetzen und Verordnungen entsprechen.
 
 #### **Art. 125.**
 
 (1)
 
-Fir d’Redaktioun vun de Persounestandsakten an d’Féiere vun de Registere vun dësen Akte sinn exklusiv d’Gemengenorganer zoustänneg, déi d’Gesetz festleet.
+Für die Erstellung der Personenstandsurkunden und das Führen der Register dieser Urkunden sind ausschließlich die gesetzlich bestimmten Organe der Gemeinde zuständig.
 
 (2)
 
-D’Gesetz leet de Statut vun de Gemengebeamte fest.
+Das Statut der Gemeindebeamten wird gesetzlich bestimmt.
 
 #### **Art. 126.**
 
-All Gemeng kann eleng oder mat anere Gemengen ëffentlech Ariichtunge grënnen an de Limitten an op d’Aart a Weis, déi vum Gesetz festgeluecht ginn.
+Jede Gemeinde kann allein oder mit anderen Gemeinden innerhalb der Grenzen und gemäß der Art und Weise, die per Gesetz geregelt werden, öffentlich-rechtliche Einrichtungen gründen.
 
 #### **Art. 127.**
 
-D’Gesetz reegelt d’Iwwerwaachung vun der Gemengeverwaltung a leet eng limitéiert Lëscht vun Handlunge vun de Gemengenorganer fest, déi vun der Iwwerwaachungsautoritéit mussen approuvéiert ginn. Et ka virgesinn, dass verschidden Handlunge vun de Gemengenorganer musse vun der Iwwerwaachungsautoritéit approuvéiert ginn an dass se annuléiert oder suspendéiert ginn, wa se illegal sinn oder géint den allgemengen Interessi sinn, ouni Aschränkung vun de Attributioune vun den uerdentleche Geriichter oder de Verwaltungsgeriichter.
+Die Aufsicht über die Gemeindeverwaltung wird per Gesetz geregelt, das abschließend bestimmt, welche Handlungen der Gemeindeorgane von der Aufsichtsbehörde zu genehmigen sind. Unbeschadet der Befugnisse der Gerichtshöfe oder Verwaltungsgerichte können per Gesetz bestimmte Handlungen der Gemeindeorgane der Genehmigung durch die Aufsichtsbehörde unterworfen werden.
 
-De Regierungsrot kann de Gemengerot am Interessi vun der Verwaltung vun der Gemeng opléisen.
+Der Regierungsrat kann den Gemeinderat im Interesse der Verwaltung der Gemeinde auflösen.
 
-## **Kapitel X.** *Dem Staat seng Établissement-publicken an d’Beruffsorganer*
+## **Kapitel X.** *Öffentlich-rechtliche Einrichtungen des Staates und Berufsorgane*
 
 #### **Art. 128.**
 
 (1)
 
-D’Gesetz kann Établissement-publicke schafen, déi eng eege Rechtsperséinlechkeet hunn an ënnert dem Staat senger Tutelle stinn.
+Per Gesetz können öffentlich-rechtliche Einrichtungen gegründet werden, die eine eigene Rechtspersönlichkeit besitzen und unter der Aufsicht des Staates stehen.
 
 (2)
 
-D’Gesetz ka Beruffschambere schafen, déi eng eege Rechtsperséinlechkeet hunn.
+Per Gesetz können Berufskammern gegründet werden, die eine eigene Rechtspersönlichkeit besitzen.
 
 (3)
 
-D’Gesetz ka representativ Organer vun de liberale Beruffer schafen an hinnen d’Rechtsperséinlechkeet ginn.
+Per Gesetz können repräsentative Organe der freien Berufe gegründet werden und ihnen kann eine eigene Rechtspersönlichkeit zugestanden werden.
 
 #### **Art. 129.**
 
 (1)
 
-D’Gesetz leet den Objet, d’Organisatioun an d’Kompetenze vun den ëffentlechen Ariichtungen, de Beruffschamberen an den Organer vun de liberale Beruffer fest, déi d’Rechtsperséinlechkeet hunn.
+Der Zweck, die Organisation und die Befugnisse der öffentlich-rechtlichen Einrichtungen, der Berufskammern und der Organe der freien Berufe, die eine eigene Rechtspersönlichkeit besitzen, werden gesetzlich bestimmt.
 
 (2)
 
-An der Limitt vun hirem Objet kann d’Gesetz hinnen d’Kompetenz ginn, Reglementer ze huelen.
+Innerhalb der Grenzen ihres Aufgabengebiets kann ihnen per Gesetz die Befugnis erteilt werden, Verordnungen zu erlassen.
 
-An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen zu den Zwecker an ënnert de Konditiounen, déi d’Gesetz preziséiert, geholl ginn.
+In den Bereichen, die gemäß der Verfassung dem Gesetz vorbehalten sind, können diese Verordnungen nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterliegen, festlegt.
 
-Dës Reglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.
+Diese Verordnungen müssen den nach Artikel 45 verabschiedeten Gesetzen und Verordnungen entsprechen.
 
-## **Kapitel XI.** *D’Verfassungsrevisioun*
+## **Kapitel XI.** *Die Änderung der Verfassung*
 
 #### **Art. 130.**
 
-Keng Bestëmmung vun der Verfassung ka suspendéiert ginn.
+Keine Bestimmung der Verfassung kann ausgesetzt werden.
 
 #### **Art. 131.**
 
-All Revisioun vun der Verfassung muss vun der Chamber an de selwechten Termen an zwou successiven Ofstëmmungen am Ofstand vu mindestens dräi Méint ugeholl ginn.
+Jede Änderung der Verfassung muss mit dem gleichen Wortlaut von der Abgeordnetenkammer in zwei aufeinanderfolgenden Abstimmungen im Abstand von mindestens drei Monaten verabschiedet werden.
 
-Keng Revisioun gëtt ugeholl, wa si net mindestens zwee Drëttel vun de Stëmme vun de Membere vun der Chamber kritt. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.
+Keine Änderung wird angenommen, wenn sie nicht mindestens zwei Drittel der Stimmen der Mitglieder der Abgeordnetenkammer auf sich vereint, wobei die Stimmabgabe per Vollmacht nicht zulässig ist.
 
-Den Text, deen an éischter Lecture vun der Chamber ugeholl ginn ass, gëtt engem Referendum ënnerzunn, deen der Chamber hir zweet Ofstëmmung ersetzt, wa bannent zwee Méint no der éischter Ofstëmmung eng entspriechend Demande gemaach gëtt, entweeder vu méi wéi engem Véierel vun de Membere vun der Chamber oder vu fënnefanzwanzegdausend Wieler, déi op de Wielerlëschte fir d’Parlamentswalen ageschriwwe sinn. D’Revisioun ass nëmmen ugeholl, wa se d’Majoritéit vun de gülteg ausgedréckte Stëmme kritt. D’Gesetz reegelt d’Organisatiounsmodalitéite vum Referendum.
+Der in erster Lesung von der Abgeordnetenkammer angenommene Text wird einem Referendum unterzogen, das die zweite Abstimmung der Kammer ersetzt, wenn innerhalb von zwei Monaten nach der ersten Abstimmung entweder von mehr als einem Viertel der Mitglieder der Abgeordnetenkammer oder von fünfundzwanzigtausend Wählern, die in den Wählerlisten für die Parlamentswahlen eingetragen sind, ein entsprechender Antrag gestellt wird. Die Änderung der Verfassung wird nur angenommen, wenn sie die Mehrheit der gültig abgegebenen Stimmen auf sich vereint. Die Modalitäten der Durchführung des Referendums werden gesetzlich geregelt.
 
-## **Kapitel XII.** *Iwwergangsbestëmmungen*
+## **Kapitel XII.** *Übergangsbestimmungen*
 
 #### **Art. 132.**
 
-D’Bestëmmunge vum Artikel 56 si fir d’éischte Kéier op d’Nokomme vu Senger Kinneklecher Altesse Henri, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, applicabel.
+Die Bestimmungen von Artikel 56 sind erstmals auf die Nachkommen Seiner Königlichen Hoheit Henri, Großherzog von Luxemburg, Herzog von Nassau, anwendbar.
